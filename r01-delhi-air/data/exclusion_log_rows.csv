@@ -1,0 +1,21 @@
+item,rule,detail,action
+Delhi 2016-04-01,bulletin header date differs from file date,header says 2016-03-31,dropped
+Faridabad 2016-04-01,bulletin header date differs from file date,header says 2016-03-31,dropped
+Gurugram 2016-04-01,bulletin header date differs from file date,header says 2016-03-31,dropped
+all cities 2015-07-16,header date unreadable,kept: file name date used,kept
+all cities 2015-07-31,header date unreadable,kept: file name date used,kept
+Faridabad 2018-02-06,printed category disagrees with printed AQI value,AQI 300 printed as Very Poor,kept (AQI value used)
+Delhi 2018-02-24,printed category disagrees with printed AQI value,AQI 300 printed as Very Poor,kept (AQI value used)
+Noida 2018-04-12,printed category disagrees with printed AQI value,AQI 100 printed as Moderate,kept (AQI value used)
+Gurugram 2018-04-24,printed category disagrees with printed AQI value,AQI 200 printed as Poor,kept (AQI value used)
+Noida 2018-05-05,printed category disagrees with printed AQI value,AQI 200 printed as Poor,kept (AQI value used)
+Ghaziabad 2018-05-10,printed category disagrees with printed AQI value,AQI 200 printed as Poor,kept (AQI value used)
+Gurugram 2018-05-24,printed category disagrees with printed AQI value,AQI 300 printed as Very Poor,kept (AQI value used)
+Gurugram 2018-06-23,printed category disagrees with printed AQI value,AQI 300 printed as Very Poor,kept (AQI value used)
+Faridabad 2018-07-29,printed category disagrees with printed AQI value,AQI 100 printed as Moderate,kept (AQI value used)
+Ghaziabad 2018-08-10,printed category disagrees with printed AQI value,AQI 100 printed as Moderate,kept (AQI value used)
+Noida 2018-08-13,printed category disagrees with printed AQI value,AQI 100 printed as Moderate,kept (AQI value used)
+Faridabad 2018-08-18,printed category disagrees with printed AQI value,AQI 100 printed as Moderate,kept (AQI value used)
+Faridabad 2018-09-25,printed category disagrees with printed AQI value,AQI 50 printed as Satisfactory,kept (AQI value used)
+Ghaziabad 2018-10-11,printed category disagrees with printed AQI value,AQI 200 printed as Poor,kept (AQI value used)
+Delhi 2023-11-15,printed category disagrees with printed AQI value,AQI 398 printed as Severe,kept (AQI value used)

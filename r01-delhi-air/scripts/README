@@ -1,0 +1,1 @@
+Run everything: sh scripts/run_all.sh /path/to/raw-download-folder  (Python 3 + pandas, numpy, scipy, matplotlib, pdfplumber; poppler pdftotext)
