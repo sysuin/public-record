@@ -1,0 +1,5 @@
+metric,group,n,smat_rel,ipl_rel,gap,gap_lo,gap_hi
+sr,"already IPL regulars (>=120 balls previous IPL season)",68,17.560,-0.278,-17.838,-23.014,-13.170
+sr,"new or fringe IPL players",25,22.282,0.783,-21.499,-33.006,-10.696
+econ,"already IPL regulars (>=120 balls previous IPL season)",75,-0.308,-0.022,0.287,-0.101,0.696
+econ,"new or fringe IPL players",42,-0.588,-0.120,0.467,0.084,0.900

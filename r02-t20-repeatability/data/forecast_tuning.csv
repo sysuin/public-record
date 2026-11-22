@@ -1,0 +1,61 @@
+metric,scope,split,K_F4,lam_F3,lam_F5,K_F5,lam_F6,K_F6,n_train,n_test
+sr,Men: all franchise/domestic leagues,"train<=2019,test>=2020",400,0.8,0.65,400,0.65,300,1260,1613
+sr,Men: all franchise/domestic leagues,"train>=2020,test<=2019",400,0.8,0.65,300,0.65,300,1613,1260
+sr,IPL,"train<=2019,test>=2020",600,0.8,0.8,600,1.0,600,391,295
+sr,IPL,"train>=2020,test<=2019",400,0.8,0.5,300,0.2,200,295,391
+sr,Women: all franchise/domestic leagues,"train<=2019,test>=2020",300,1.0,0.8,300,0.35,300,131,360
+sr,Women: all franchise/domestic leagues,"train>=2020,test<=2019",400,1.0,0.8,300,0.8,400,360,131
+bndpct,Men: all franchise/domestic leagues,"train<=2019,test>=2020",300,1.0,0.8,200,0.8,200,1260,1613
+bndpct,Men: all franchise/domestic leagues,"train>=2020,test<=2019",300,0.8,0.8,300,0.65,200,1613,1260
+bndpct,IPL,"train<=2019,test>=2020",300,0.8,0.8,300,1.0,400,391,295
+bndpct,IPL,"train>=2020,test<=2019",300,1.0,0.8,200,0.35,150,295,391
+bndpct,Women: all franchise/domestic leagues,"train<=2019,test>=2020",100,0.8,0.5,100,0.5,100,131,360
+bndpct,Women: all franchise/domestic leagues,"train>=2020,test<=2019",200,1.0,0.8,200,1.0,400,360,131
+dotpct,Men: all franchise/domestic leagues,"train<=2019,test>=2020",200,0.8,0.65,200,0.8,200,1260,1613
+dotpct,Men: all franchise/domestic leagues,"train>=2020,test<=2019",300,0.8,0.8,200,0.8,200,1613,1260
+dotpct,IPL,"train<=2019,test>=2020",300,0.8,0.65,300,0.8,300,391,295
+dotpct,IPL,"train>=2020,test<=2019",300,0.8,0.65,300,0.5,300,295,391
+dotpct,Women: all franchise/domestic leagues,"train<=2019,test>=2020",300,1.0,1.0,300,1.0,600,131,360
+dotpct,Women: all franchise/domestic leagues,"train>=2020,test<=2019",300,0.8,0.65,300,0.65,300,360,131
+avg,Men: all franchise/domestic leagues,"train<=2019,test>=2020",400,0.8,0.8,300,1.0,300,1260,1613
+avg,Men: all franchise/domestic leagues,"train>=2020,test<=2019",300,0.8,0.8,200,1.0,200,1613,1260
+avg,IPL,"train<=2019,test>=2020",400,1.0,1.0,600,0.8,300,391,295
+avg,IPL,"train>=2020,test<=2019",600,1.0,0.8,400,0.8,400,295,391
+avg,Women: all franchise/domestic leagues,"train<=2019,test>=2020",100,0.5,0.5,100,0.8,50,131,360
+avg,Women: all franchise/domestic leagues,"train>=2020,test<=2019",200,0.8,0.8,200,1.0,300,360,131
+batval,Men: all franchise/domestic leagues,"train<=2019,test>=2020",600,1.0,0.8,600,0.8,600,1260,1613
+batval,Men: all franchise/domestic leagues,"train>=2020,test<=2019",600,1.0,0.8,600,0.8,800,1613,1260
+batval,IPL,"train<=2019,test>=2020",800,0.8,0.8,800,1.0,800,391,295
+batval,IPL,"train>=2020,test<=2019",1200,1.0,0.65,1200,0.35,600,295,391
+batval,Women: all franchise/domestic leagues,"train<=2019,test>=2020",600,1.0,1.0,600,1.0,800,131,360
+batval,Women: all franchise/domestic leagues,"train>=2020,test<=2019",400,1.0,0.8,400,1.0,800,360,131
+econ,Men: all franchise/domestic leagues,"train<=2019,test>=2020",300,1.0,0.8,300,0.8,300,1338,1701
+econ,Men: all franchise/domestic leagues,"train>=2020,test<=2019",300,1.0,1.0,300,1.0,400,1701,1338
+econ,IPL,"train<=2019,test>=2020",400,0.8,0.8,400,1.0,600,363,258
+econ,IPL,"train>=2020,test<=2019",300,0.8,0.8,300,1.0,600,258,363
+econ,Women: all franchise/domestic leagues,"train<=2019,test>=2020",400,1.0,1.0,400,1.0,600,169,439
+econ,Women: all franchise/domestic leagues,"train>=2020,test<=2019",600,0.8,0.65,600,0.8,600,439,169
+wktrate,Men: all franchise/domestic leagues,"train<=2019,test>=2020",800,0.8,0.35,800,0.8,800,1338,1701
+wktrate,Men: all franchise/domestic leagues,"train>=2020,test<=2019",1200,1.0,1.0,1200,0.8,1200,1701,1338
+wktrate,IPL,"train<=2019,test>=2020",1200,0.8,0.5,1200,1.0,2400,363,258
+wktrate,IPL,"train>=2020,test<=2019",1200,1.0,0.8,1200,1.0,1600,258,363
+wktrate,Women: all franchise/domestic leagues,"train<=2019,test>=2020",8000,1.0,1.0,5000,0.5,8000,169,439
+wktrate,Women: all franchise/domestic leagues,"train>=2020,test<=2019",1200,0.8,0.5,1200,0.65,1200,439,169
+bowlval,Men: all franchise/domestic leagues,"train<=2019,test>=2020",600,1.0,0.65,800,0.8,800,1338,1701
+bowlval,Men: all franchise/domestic leagues,"train>=2020,test<=2019",1200,1.0,1.0,1200,1.0,1600,1701,1338
+bowlval,IPL,"train<=2019,test>=2020",600,0.8,0.8,800,1.0,1200,363,258
+bowlval,IPL,"train>=2020,test<=2019",1600,1.0,1.0,2400,1.0,2400,258,363
+bowlval,Women: all franchise/domestic leagues,"train<=2019,test>=2020",800,1.0,1.0,800,0.8,800,169,439
+bowlval,Women: all franchise/domestic leagues,"train>=2020,test<=2019",1200,0.8,0.65,1200,0.8,1200,439,169
+sr_adj,Men: all franchise/domestic leagues,"train<=2019,test>=2020",400,1.0,0.65,400,0.65,300,1260,1613
+sr_adj,Men: all franchise/domestic leagues,"train>=2020,test<=2019",400,0.8,0.65,300,0.65,300,1613,1260
+sr_adj,IPL,"train<=2019,test>=2020",400,0.8,0.65,400,0.8,400,391,295
+sr_adj,IPL,"train>=2020,test<=2019",400,0.8,0.65,400,0.35,200,295,391
+sr_adj,Women: all franchise/domestic leagues,"train<=2019,test>=2020",200,0.8,0.65,200,0.65,200,131,360
+sr_adj,Women: all franchise/domestic leagues,"train>=2020,test<=2019",300,1.0,0.8,300,0.8,400,360,131
+econ_adj,Men: all franchise/domestic leagues,"train<=2019,test>=2020",400,1.0,0.8,600,0.8,600,1338,1701
+econ_adj,Men: all franchise/domestic leagues,"train>=2020,test<=2019",600,1.0,1.0,600,1.0,800,1701,1338
+econ_adj,IPL,"train<=2019,test>=2020",400,0.8,0.8,600,1.0,800,363,258
+econ_adj,IPL,"train>=2020,test<=2019",600,0.8,0.8,600,0.8,600,258,363
+econ_adj,Women: all franchise/domestic leagues,"train<=2019,test>=2020",800,1.0,1.0,800,1.0,800,169,439
+econ_adj,Women: all franchise/domestic leagues,"train>=2020,test<=2019",800,0.8,0.65,800,0.65,600,439,169

@@ -14,6 +14,7 @@ Every report follows the same rules:
 | # | Question | Source | Report | Code and data |
 |---|---|---|---|---|
 | R01 | Is Delhi's air getting worse? | CPCB daily AQI bulletins, 2015–2026 | [Read](https://sysuin.github.io/public-record/r01-delhi-air/) | [`r01-delhi-air/`](r01-delhi-air/) |
+| R02 | Does one T20 season predict the next? | Cricsheet ball-by-ball, 9,612 matches, 2008–2026 | [Read](https://sysuin.github.io/public-record/r02-t20-repeatability/) | [`r02-t20-repeatability/`](r02-t20-repeatability/) |
 
 ## Corrections
 

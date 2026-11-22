@@ -1,0 +1,10 @@
+level,reason_group,count
+innings,super-over innings dropped (match kept),73
+match,T20I involving an associate member,3695
+match,decided by D/L (interrupted/reduced),496
+match,reduced-overs innings,298
+match,no result,283
+match,first innings ended short of full overs without 10 wickets (unrecorded reduction or data gap),26
+match,decided by VJD (interrupted/reduced),5
+match,decided by Awarded (interrupted/reduced),4
+repair,info.overs=50 on a T20 file; ball data shows <=20 overs; treated as 20,18

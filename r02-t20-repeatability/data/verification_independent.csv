@@ -1,0 +1,34 @@
+headline,independent,main
+"kept matches",9612.000000,9612.000000
+"kept balls (all deliveries)",2267624.000000,2267624.000000
+"season-to-season r, sr, men_leagues, >=120 balls",0.308257,0.308257
+"  pairs",2167.000000,2167.000000
+"season-to-season r, sr, IPL, >=120 balls",0.328295,0.328295
+"  pairs",581.000000,581.000000
+"split-half r, sr, men leagues, >=60 balls per half",0.286260,0.286260
+"  balls to half signal",268.164143,268.164143
+"season-to-season r, econ, men_leagues, >=120 balls",0.404054,0.404054
+"  pairs",2335.000000,2335.000000
+"season-to-season r, econ, IPL, >=120 balls",0.385097,0.385097
+"  pairs",533.000000,533.000000
+"split-half r, econ, men leagues, >=60 balls per half",0.238221,0.238221
+"  balls to half signal",324.307838,324.307838
+"season-to-season r, wkt, men_leagues, >=120 balls",0.194473,0.194473
+"  pairs",2335.000000,2335.000000
+"season-to-season r, wkt, IPL, >=120 balls",0.165887,0.165887
+"  pairs",533.000000,533.000000
+"split-half r, wkt, men leagues, >=60 balls per half",0.070525,0.070525
+"  balls to half signal",1336.608510,1336.608510
+"season-to-season r, avg, men_leagues, >=120 balls",0.154474,0.154474
+"  pairs",2167.000000,2167.000000
+"season-to-season r, avg, IPL, >=120 balls",0.190046,0.190046
+"  pairs",581.000000,581.000000
+"split-half r, avg, men leagues, >=60 balls per half",0.061587,0.061587
+"  balls to half signal",1640.942825,1640.942825
+"top-fifth SR, season N (vs league)",31.250190,31.221823
+"top-fifth SR, season N+1 (vs league)",12.286657,12.258803
+"forecast SR test n",1613.000000,1613.000000
+"forecast SR: last season as recorded, %% explained",-42.752087,-42.752087
+"forecast SR: weighted + pulled to average, %% explained",12.561881,12.561881
+"SMAT->IPL strike-rate gap",-18.822626,-18.822626
+"  n",93.000000,93.000000
