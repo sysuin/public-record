@@ -1,0 +1,3025 @@
+report,airline,airport,otp_pct
+2018-01,Air India (Domestic),BLR,79.4
+2018-01,Air India (Domestic),HYD,72.4
+2018-01,Air India (Domestic),DEL,69.0
+2018-01,Air India (Domestic),BOM,57.1
+2018-01,Jet Airways + JetLite,BLR,74.9
+2018-01,Jet Airways + JetLite,HYD,73.8
+2018-01,Jet Airways + JetLite,DEL,60.5
+2018-01,Jet Airways + JetLite,BOM,57.0
+2018-01,Spicejet,HYD,81.0
+2018-01,Spicejet,BLR,80.7
+2018-01,Spicejet,DEL,73.1
+2018-01,Spicejet,BOM,61.8
+2018-01,Go Air,HYD,80.5
+2018-01,Go Air,BLR,76.4
+2018-01,Go Air,DEL,67.5
+2018-01,Go Air,BOM,57.6
+2018-01,IndiGo,HYD,84.3
+2018-01,IndiGo,BLR,81.9
+2018-01,IndiGo,DEL,76.0
+2018-01,IndiGo,BOM,58.4
+2018-01,Vistara,BLR,71.6
+2018-01,Vistara,HYD,69.9
+2018-01,Vistara,DEL,68.8
+2018-01,Vistara,BOM,50.0
+2018-02,Air India (Domestic),BLR,81.4
+2018-02,Air India (Domestic),DEL,79.3
+2018-02,Air India (Domestic),HYD,73.7
+2018-02,Air India (Domestic),BOM,45.6
+2018-02,Jet Airways + JetLite,DEL,74.4
+2018-02,Jet Airways + JetLite,BLR,74.4
+2018-02,Jet Airways + JetLite,HYD,65.1
+2018-02,Jet Airways + JetLite,BOM,45.6
+2018-02,Spicejet,HYD,87.6
+2018-02,Spicejet,DEL,85.8
+2018-02,Spicejet,BLR,83.2
+2018-02,Spicejet,BOM,48.9
+2018-02,Go Air,HYD,79.4
+2018-02,Go Air,DEL,75.2
+2018-02,Go Air,BLR,70.5
+2018-02,Go Air,BOM,41.6
+2018-02,IndiGo,HYD,86.0
+2018-02,IndiGo,DEL,84.4
+2018-02,IndiGo,BLR,80.9
+2018-02,IndiGo,BOM,42.6
+2018-02,Vistara,HYD,82.1
+2018-02,Vistara,DEL,81.9
+2018-02,Vistara,BLR,81.0
+2018-02,Vistara,BOM,34.5
+2018-03,Air India (Domestic),BLR,89.3
+2018-03,Air India (Domestic),DEL,85.4
+2018-03,Air India (Domestic),HYD,80.9
+2018-03,Air India (Domestic),BOM,55.7
+2018-03,Jet Airways + JetLite,DEL,84.4
+2018-03,Jet Airways + JetLite,BLR,84.0
+2018-03,Jet Airways + JetLite,HYD,81.9
+2018-03,Jet Airways + JetLite,BOM,62.2
+2018-03,Spicejet,DEL,91.7
+2018-03,Spicejet,BLR,86.1
+2018-03,Spicejet,HYD,86.0
+2018-03,Spicejet,BOM,66.3
+2018-03,Go Air,BLR,83.8
+2018-03,Go Air,DEL,83.8
+2018-03,Go Air,HYD,75.1
+2018-03,Go Air,BOM,58.0
+2018-03,IndiGo,DEL,91.0
+2018-03,IndiGo,BLR,89.4
+2018-03,IndiGo,HYD,88.8
+2018-03,IndiGo,BOM,63.4
+2018-03,Vistara,BLR,91.3
+2018-03,Vistara,DEL,88.4
+2018-03,Vistara,HYD,88.2
+2018-03,Vistara,BOM,53.6
+2018-04,Air India (Domestic),BLR,86.8
+2018-04,Air India (Domestic),HYD,82.7
+2018-04,Air India (Domestic),DEL,79.0
+2018-04,Air India (Domestic),BOM,65.5
+2018-04,Jet Airways + JetLite,BLR,92.1
+2018-04,Jet Airways + JetLite,HYD,88.5
+2018-04,Jet Airways + JetLite,DEL,82.6
+2018-04,Jet Airways + JetLite,BOM,78.6
+2018-04,Spicejet,HYD,91.6
+2018-04,Spicejet,DEL,90.6
+2018-04,Spicejet,BLR,85.7
+2018-04,Spicejet,BOM,72.7
+2018-04,Go Air,DEL,90.6
+2018-04,Go Air,BLR,90.1
+2018-04,Go Air,HYD,89.8
+2018-04,Go Air,BOM,76.7
+2018-04,IndiGo,DEL,90.7
+2018-04,IndiGo,BLR,90.1
+2018-04,IndiGo,HYD,89.7
+2018-04,IndiGo,BOM,72.9
+2018-04,Vistara,BLR,89.6
+2018-04,Vistara,DEL,80.2
+2018-04,Vistara,HYD,80.0
+2018-04,Vistara,BOM,62.0
+2018-05,Air India (Domestic),BLR,84.1
+2018-05,Air India (Domestic),DEL,75.0
+2018-05,Air India (Domestic),HYD,73.3
+2018-05,Air India (Domestic),BOM,54.8
+2018-05,Jet Airways + JetLite,BLR,86.9
+2018-05,Jet Airways + JetLite,DEL,79.2
+2018-05,Jet Airways + JetLite,HYD,78.2
+2018-05,Jet Airways + JetLite,BOM,64.6
+2018-05,Spicejet,HYD,86.3
+2018-05,Spicejet,DEL,83.9
+2018-05,Spicejet,BLR,81.5
+2018-05,Spicejet,BOM,64.2
+2018-05,Go Air,HYD,87.8
+2018-05,Go Air,BLR,82.7
+2018-05,Go Air,DEL,76.6
+2018-05,Go Air,BOM,63.1
+2018-05,IndiGo,DEL,87.1
+2018-05,IndiGo,HYD,86.5
+2018-05,IndiGo,BLR,86.3
+2018-05,IndiGo,BOM,59.2
+2018-05,Vistara,BLR,90.3
+2018-05,Vistara,DEL,79.9
+2018-05,Vistara,HYD,75.7
+2018-05,Vistara,BOM,52.5
+2018-06,Air India (Domestic),BLR,81.3
+2018-06,Air India (Domestic),DEL,73.5
+2018-06,Air India (Domestic),HYD,71.2
+2018-06,Air India (Domestic),BOM,54.3
+2018-06,Jet Airways + JetLite,BLR,89.9
+2018-06,Jet Airways + JetLite,DEL,79.6
+2018-06,Jet Airways + JetLite,HYD,79.6
+2018-06,Jet Airways + JetLite,BOM,73.1
+2018-06,Spicejet,HYD,89.6
+2018-06,Spicejet,DEL,83.6
+2018-06,Spicejet,BLR,81.5
+2018-06,Spicejet,BOM,66.7
+2018-06,Go Air,DEL,81.6
+2018-06,Go Air,HYD,80.7
+2018-06,Go Air,BLR,80.7
+2018-06,Go Air,BOM,65.9
+2018-06,IndiGo,HYD,88.4
+2018-06,IndiGo,BLR,88.2
+2018-06,IndiGo,DEL,86.8
+2018-06,IndiGo,BOM,70.4
+2018-06,Vistara,BLR,90.3
+2018-06,Vistara,DEL,79.5
+2018-06,Vistara,HYD,76.7
+2018-06,Vistara,BOM,63.3
+2018-07,Air India (Domestic),BLR,81.1
+2018-07,Air India (Domestic),DEL,70.3
+2018-07,Air India (Domestic),HYD,68.1
+2018-07,Air India (Domestic),BOM,56.9
+2018-07,Jet Airways + JetLite,BLR,87.5
+2018-07,Jet Airways + JetLite,HYD,78.4
+2018-07,Jet Airways + JetLite,DEL,76.7
+2018-07,Jet Airways + JetLite,BOM,72.9
+2018-07,Spicejet,HYD,88.0
+2018-07,Spicejet,BLR,81.4
+2018-07,Spicejet,DEL,78.9
+2018-07,Spicejet,BOM,73.2
+2018-07,Go Air,BLR,77.5
+2018-07,Go Air,BOM,74.0
+2018-07,Go Air,HYD,73.9
+2018-07,Go Air,DEL,73.2
+2018-07,IndiGo,HYD,88.8
+2018-07,IndiGo,BLR,88.7
+2018-07,IndiGo,DEL,86.9
+2018-07,IndiGo,BOM,75.6
+2018-07,Vistara,BLR,85.5
+2018-07,Vistara,DEL,78.8
+2018-07,Vistara,HYD,69.6
+2018-07,Vistara,BOM,69.4
+2018-08,Air India (Domestic),BLR,82.2
+2018-08,Air India (Domestic),DEL,77.1
+2018-08,Air India (Domestic),BOM,73.9
+2018-08,Air India (Domestic),HYD,65.0
+2018-08,Jet Airways + JetLite,BLR,90.5
+2018-08,Jet Airways + JetLite,HYD,87.3
+2018-08,Jet Airways + JetLite,DEL,81.7
+2018-08,Jet Airways + JetLite,BOM,80.0
+2018-08,Spicejet,HYD,91.3
+2018-08,Spicejet,DEL,87.9
+2018-08,Spicejet,BLR,85.8
+2018-08,Spicejet,BOM,83.7
+2018-08,Go Air,DEL,87.7
+2018-08,Go Air,BLR,87.7
+2018-08,Go Air,BOM,87.4
+2018-08,Go Air,HYD,82.0
+2018-08,IndiGo,HYD,88.5
+2018-08,IndiGo,BLR,88.1
+2018-08,IndiGo,DEL,88.0
+2018-08,IndiGo,BOM,83.4
+2018-08,Vistara,BLR,89.5
+2018-08,Vistara,HYD,84.9
+2018-08,Vistara,DEL,84.2
+2018-08,Vistara,BOM,76.9
+2018-09,Air India (Domestic),BLR,87.2
+2018-09,Air India (Domestic),BOM,74.4
+2018-09,Air India (Domestic),DEL,73.9
+2018-09,Air India (Domestic),HYD,65.0
+2018-09,Jet Airways + JetLite,BLR,90.7
+2018-09,Jet Airways + JetLite,HYD,88.1
+2018-09,Jet Airways + JetLite,BOM,88.1
+2018-09,Jet Airways + JetLite,DEL,83.1
+2018-09,Spicejet,HYD,92.2
+2018-09,Spicejet,BLR,90.4
+2018-09,Spicejet,DEL,87.0
+2018-09,Spicejet,BOM,86.7
+2018-09,Go Air,HYD,91.9
+2018-09,Go Air,BOM,90.8
+2018-09,Go Air,BLR,90.3
+2018-09,Go Air,DEL,89.8
+2018-09,IndiGo,DEL,89.6
+2018-09,IndiGo,BOM,87.6
+2018-09,IndiGo,HYD,86.5
+2018-09,IndiGo,BLR,86.1
+2018-09,Vistara,BLR,88.2
+2018-09,Vistara,DEL,86.7
+2018-09,Vistara,BOM,83.2
+2018-09,Vistara,HYD,78.0
+2018-10,Air India (Domestic),DEL,78.9
+2018-10,Air India (Domestic),BLR,78.6
+2018-10,Air India (Domestic),HYD,68.6
+2018-10,Air India (Domestic),BOM,68.4
+2018-10,Jet Airways + JetLite,HYD,87.0
+2018-10,Jet Airways + JetLite,BLR,86.3
+2018-10,Jet Airways + JetLite,DEL,86.1
+2018-10,Jet Airways + JetLite,BOM,85.5
+2018-10,Spicejet,HYD,89.9
+2018-10,Spicejet,DEL,88.5
+2018-10,Spicejet,BLR,85.3
+2018-10,Spicejet,BOM,80.8
+2018-10,Go Air,DEL,95.4
+2018-10,Go Air,BLR,90.8
+2018-10,Go Air,HYD,89.5
+2018-10,Go Air,BOM,84.2
+2018-10,IndiGo,DEL,91.6
+2018-10,IndiGo,HYD,86.8
+2018-10,IndiGo,BLR,82.8
+2018-10,IndiGo,BOM,80.0
+2018-10,Vistara,BLR,91.4
+2018-10,Vistara,DEL,91.0
+2018-10,Vistara,HYD,90.2
+2018-10,Vistara,BOM,74.8
+2018-11,Air India (Domestic),BLR,71.3
+2018-11,Air India (Domestic),HYD,68.1
+2018-11,Air India (Domestic),DEL,67.7
+2018-11,Air India (Domestic),BOM,53.3
+2018-11,Jet Airways + JetLite,BLR,84.7
+2018-11,Jet Airways + JetLite,HYD,83.8
+2018-11,Jet Airways + JetLite,DEL,76.7
+2018-11,Jet Airways + JetLite,BOM,73.0
+2018-11,Spicejet,HYD,84.5
+2018-11,Spicejet,BLR,78.7
+2018-11,Spicejet,BOM,75.1
+2018-11,Spicejet,DEL,75.0
+2018-11,Go Air,DEL,92.7
+2018-11,Go Air,HYD,91.7
+2018-11,Go Air,BLR,83.7
+2018-11,Go Air,BOM,80.4
+2018-11,IndiGo,DEL,86.7
+2018-11,IndiGo,HYD,81.9
+2018-11,IndiGo,BLR,73.7
+2018-11,IndiGo,BOM,72.6
+2018-11,Vistara,HYD,90.3
+2018-11,Vistara,BLR,89.6
+2018-11,Vistara,DEL,87.6
+2018-11,Vistara,BOM,75.6
+2018-12,Air India (Domestic),DEL,68.6
+2018-12,Air India (Domestic),BLR,67.3
+2018-12,Air India (Domestic),HYD,61.0
+2018-12,Air India (Domestic),BOM,45.5
+2018-12,Jet Airways + JetLite,BLR,80.8
+2018-12,Jet Airways + JetLite,HYD,76.1
+2018-12,Jet Airways + JetLite,DEL,68.6
+2018-12,Jet Airways + JetLite,BOM,66.2
+2018-12,Spicejet,BLR,80.6
+2018-12,Spicejet,HYD,80.5
+2018-12,Spicejet,DEL,80.4
+2018-12,Spicejet,BOM,67.3
+2018-12,Go Air,HYD,91.6
+2018-12,Go Air,DEL,90.1
+2018-12,Go Air,BLR,83.3
+2018-12,Go Air,BOM,71.1
+2018-12,IndiGo,DEL,83.4
+2018-12,IndiGo,HYD,75.5
+2018-12,IndiGo,BLR,68.0
+2018-12,IndiGo,BOM,57.7
+2018-12,Vistara,HYD,91.2
+2018-12,Vistara,DEL,82.3
+2018-12,Vistara,BLR,79.0
+2018-12,Vistara,BOM,51.9
+2019-01,Air India (Domestic),DEL,59.8
+2019-01,Air India (Domestic),HYD,59.7
+2019-01,Air India (Domestic),BOM,53.1
+2019-01,Air India (Domestic),BLR,49.8
+2019-01,Jet Airways + JetLite,HYD,79.3
+2019-01,Jet Airways + JetLite,BLR,67.1
+2019-01,Jet Airways + JetLite,DEL,62.2
+2019-01,Jet Airways + JetLite,BOM,61.0
+2019-01,Spicejet,HYD,79.8
+2019-01,Spicejet,DEL,73.3
+2019-01,Spicejet,BOM,62.4
+2019-01,Spicejet,BLR,58.8
+2019-01,Go Air,DEL,82.1
+2019-01,Go Air,HYD,81.5
+2019-01,Go Air,BLR,71.2
+2019-01,Go Air,BOM,69.8
+2019-01,IndiGo,DEL,74.1
+2019-01,IndiGo,HYD,70.2
+2019-01,IndiGo,BOM,56.8
+2019-01,IndiGo,BLR,52.7
+2019-01,Vistara,HYD,85.5
+2019-01,Vistara,DEL,78.8
+2019-01,Vistara,BLR,69.6
+2019-01,Vistara,BOM,59.4
+2019-02,Air India (Domestic),BLR,75.7
+2019-02,Air India (Domestic),HYD,67.9
+2019-02,Air India (Domestic),BOM,59.2
+2019-02,Air India (Domestic),DEL,55.7
+2019-02,Jet Airways + JetLite,HYD,87.9
+2019-02,Jet Airways + JetLite,BLR,84.3
+2019-02,Jet Airways + JetLite,BOM,74.8
+2019-02,Jet Airways + JetLite,DEL,74.7
+2019-02,Spicejet,HYD,84.0
+2019-02,Spicejet,BLR,77.6
+2019-02,Spicejet,DEL,73.3
+2019-02,Spicejet,BOM,72.8
+2019-02,Go Air,DEL,89.3
+2019-02,Go Air,BLR,87.8
+2019-02,Go Air,HYD,83.9
+2019-02,Go Air,BOM,82.1
+2019-02,IndiGo,HYD,79.6
+2019-02,IndiGo,DEL,79.2
+2019-02,IndiGo,BLR,75.4
+2019-02,IndiGo,BOM,67.1
+2019-02,Vistara,HYD,91.0
+2019-02,Vistara,BLR,90.1
+2019-02,Vistara,DEL,82.8
+2019-02,Vistara,BOM,65.4
+2019-03,Air India (Domestic),BLR,76.9
+2019-03,Air India (Domestic),BOM,68.3
+2019-03,Air India (Domestic),DEL,67.9
+2019-03,Air India (Domestic),HYD,66.7
+2019-03,Jet Airways + JetLite,HYD,93.5
+2019-03,Jet Airways + JetLite,BLR,86.5
+2019-03,Jet Airways + JetLite,DEL,84.6
+2019-03,Jet Airways + JetLite,BOM,83.6
+2019-03,Spicejet,BLR,87.6
+2019-03,Spicejet,BOM,85.8
+2019-03,Spicejet,HYD,83.0
+2019-03,Spicejet,DEL,77.4
+2019-03,Go Air,DEL,96.2
+2019-03,Go Air,BLR,94.9
+2019-03,Go Air,BOM,94.7
+2019-03,Go Air,HYD,93.1
+2019-03,IndiGo,DEL,92.6
+2019-03,IndiGo,HYD,89.8
+2019-03,IndiGo,BLR,87.4
+2019-03,IndiGo,BOM,86.9
+2019-03,Vistara,BLR,95.3
+2019-03,Vistara,HYD,94.3
+2019-03,Vistara,DEL,92.2
+2019-03,Vistara,BOM,86.7
+2019-03,Air Asia,DEL,92.6
+2019-03,Air Asia,BLR,92.0
+2019-03,Air Asia,HYD,90.6
+2019-03,Air Asia,BOM,90.3
+2019-04,Air India (Domestic),BLR,76.0
+2019-04,Air India (Domestic),BOM,74.7
+2019-04,Air India (Domestic),HYD,71.2
+2019-04,Air India (Domestic),DEL,66.9
+2019-04,Jet Airways + JetLite,DEL,86.6
+2019-04,Jet Airways + JetLite,BOM,84.2
+2019-04,Jet Airways + JetLite,BLR,72.7
+2019-04,Jet Airways + JetLite,HYD,0.0
+2019-04,Spicejet,BOM,86.7
+2019-04,Spicejet,HYD,82.3
+2019-04,Spicejet,BLR,80.3
+2019-04,Spicejet,DEL,74.5
+2019-04,Go Air,DEL,97.5
+2019-04,Go Air,BOM,97.4
+2019-04,Go Air,BLR,95.5
+2019-04,Go Air,HYD,88.4
+2019-04,IndiGo,DEL,92.7
+2019-04,IndiGo,BOM,92.0
+2019-04,IndiGo,HYD,88.5
+2019-04,IndiGo,BLR,86.6
+2019-04,Vistara,BOM,94.8
+2019-04,Vistara,HYD,92.9
+2019-04,Vistara,DEL,92.5
+2019-04,Vistara,BLR,90.9
+2019-04,Air Asia,BOM,95.7
+2019-04,Air Asia,DEL,94.8
+2019-04,Air Asia,BLR,93.8
+2019-04,Air Asia,HYD,85.6
+2019-05,Air India (Domestic),BLR,77.8
+2019-05,Air India (Domestic),BOM,72.4
+2019-05,Air India (Domestic),DEL,67.9
+2019-05,Air India (Domestic),HYD,67.1
+2019-05,Spicejet,HYD,78.3
+2019-05,Spicejet,BLR,76.3
+2019-05,Spicejet,DEL,74.5
+2019-05,Spicejet,BOM,71.3
+2019-05,Go Air,DEL,93.9
+2019-05,Go Air,BOM,91.8
+2019-05,Go Air,BLR,90.3
+2019-05,Go Air,HYD,84.8
+2019-05,IndiGo,DEL,89.6
+2019-05,IndiGo,BLR,87.7
+2019-05,IndiGo,BOM,87.2
+2019-05,IndiGo,HYD,84.1
+2019-05,Vistara,BOM,87.9
+2019-05,Vistara,DEL,86.6
+2019-05,Vistara,HYD,85.7
+2019-05,Vistara,BLR,84.5
+2019-05,Air Asia,BLR,91.3
+2019-05,Air Asia,BOM,90.3
+2019-05,Air Asia,DEL,89.3
+2019-05,Air Asia,HYD,82.5
+2019-06,Air India (Domestic),HYD,69.3
+2019-06,Air India (Domestic),BLR,67.5
+2019-06,Air India (Domestic),DEL,61.6
+2019-06,Air India (Domestic),BOM,53.9
+2019-06,Spicejet,DEL,81.3
+2019-06,Spicejet,BLR,80.5
+2019-06,Spicejet,HYD,80.3
+2019-06,Spicejet,BOM,64.0
+2019-06,Go Air,DEL,94.1
+2019-06,Go Air,HYD,88.7
+2019-06,Go Air,BLR,88.5
+2019-06,Go Air,BOM,76.4
+2019-06,IndiGo,DEL,87.3
+2019-06,IndiGo,BLR,87.1
+2019-06,IndiGo,HYD,84.1
+2019-06,IndiGo,BOM,73.7
+2019-06,Vistara,DEL,86.0
+2019-06,Vistara,BLR,82.0
+2019-06,Vistara,HYD,79.8
+2019-06,Vistara,BOM,76.4
+2019-06,Air Asia,BLR,86.7
+2019-06,Air Asia,DEL,85.1
+2019-06,Air Asia,HYD,84.7
+2019-06,Air Asia,BOM,80.3
+2019-07,Air India (Domestic),HYD,69.0
+2019-07,Air India (Domestic),DEL,65.5
+2019-07,Air India (Domestic),BLR,59.7
+2019-07,Air India (Domestic),BOM,41.8
+2019-07,Spicejet,BLR,72.3
+2019-07,Spicejet,HYD,71.1
+2019-07,Spicejet,DEL,69.7
+2019-07,Spicejet,BOM,41.6
+2019-07,Go Air,DEL,88.5
+2019-07,Go Air,BLR,87.6
+2019-07,Go Air,HYD,87.2
+2019-07,Go Air,BOM,64.7
+2019-07,IndiGo,BLR,82.7
+2019-07,IndiGo,DEL,79.4
+2019-07,IndiGo,HYD,78.0
+2019-07,IndiGo,BOM,54.6
+2019-07,Vistara,DEL,79.4
+2019-07,Vistara,BLR,70.5
+2019-07,Vistara,HYD,67.3
+2019-07,Vistara,BOM,60.5
+2019-07,Air Asia,DEL,84.9
+2019-07,Air Asia,BLR,77.9
+2019-07,Air Asia,HYD,75.7
+2019-07,Air Asia,BOM,58.5
+2019-08,Air India (Domestic),HYD,65.4
+2019-08,Air India (Domestic),DEL,63.3
+2019-08,Air India (Domestic),BLR,60.8
+2019-08,Air India (Domestic),BOM,50.4
+2019-08,Spicejet,HYD,80.6
+2019-08,Spicejet,DEL,74.5
+2019-08,Spicejet,BLR,73.1
+2019-08,Spicejet,BOM,61.3
+2019-08,Go Air,DEL,89.3
+2019-08,Go Air,BLR,88.7
+2019-08,Go Air,HYD,85.7
+2019-08,Go Air,BOM,77.5
+2019-08,IndiGo,HYD,83.5
+2019-08,IndiGo,BLR,83.1
+2019-08,IndiGo,DEL,83.0
+2019-08,IndiGo,BOM,70.9
+2019-08,Vistara,DEL,83.0
+2019-08,Vistara,BLR,79.3
+2019-08,Vistara,HYD,75.0
+2019-08,Vistara,BOM,71.4
+2019-08,Air Asia,DEL,87.4
+2019-08,Air Asia,BLR,81.9
+2019-08,Air Asia,HYD,79.4
+2019-08,Air Asia,BOM,74.5
+2019-09,Air India (Domestic),HYD,68.1
+2019-09,Air India (Domestic),BLR,57.9
+2019-09,Air India (Domestic),DEL,55.2
+2019-09,Air India (Domestic),BOM,41.3
+2019-09,Spicejet,HYD,86.1
+2019-09,Spicejet,BLR,80.4
+2019-09,Spicejet,DEL,79.0
+2019-09,Spicejet,BOM,60.3
+2019-09,Go Air,BLR,91.1
+2019-09,Go Air,DEL,90.2
+2019-09,Go Air,HYD,85.9
+2019-09,Go Air,BOM,76.0
+2019-09,IndiGo,BLR,90.1
+2019-09,IndiGo,DEL,86.4
+2019-09,IndiGo,HYD,85.3
+2019-09,IndiGo,BOM,71.5
+2019-09,Vistara,BLR,82.4
+2019-09,Vistara,DEL,82.3
+2019-09,Vistara,BOM,73.1
+2019-09,Vistara,HYD,69.4
+2019-09,Air Asia,DEL,83.2
+2019-09,Air Asia,BLR,80.0
+2019-09,Air Asia,HYD,75.7
+2019-09,Air Asia,BOM,72.8
+2019-10,Air India (Domestic),BLR,67.2
+2019-10,Air India (Domestic),HYD,60.4
+2019-10,Air India (Domestic),DEL,58.4
+2019-10,Air India (Domestic),BOM,38.1
+2019-10,Spicejet,HYD,78.1
+2019-10,Spicejet,DEL,76.8
+2019-10,Spicejet,BLR,73.9
+2019-10,Spicejet,BOM,46.1
+2019-10,Go Air,DEL,87.4
+2019-10,Go Air,BLR,84.6
+2019-10,Go Air,HYD,83.8
+2019-10,Go Air,BOM,65.4
+2019-10,IndiGo,DEL,86.3
+2019-10,IndiGo,BLR,86.1
+2019-10,IndiGo,HYD,78.5
+2019-10,IndiGo,BOM,62.1
+2019-10,Vistara,DEL,84.6
+2019-10,Vistara,BLR,83.1
+2019-10,Vistara,HYD,71.3
+2019-10,Vistara,BOM,61.9
+2019-10,Air Asia,BLR,83.9
+2019-10,Air Asia,HYD,80.3
+2019-10,Air Asia,DEL,78.3
+2019-10,Air Asia,BOM,67.1
+2019-11,Air India (Domestic),BLR,54.4
+2019-11,Air India (Domestic),HYD,49.1
+2019-11,Air India (Domestic),DEL,44.8
+2019-11,Air India (Domestic),BOM,29.0
+2019-11,Spicejet,HYD,67.5
+2019-11,Spicejet,BLR,64.5
+2019-11,Spicejet,DEL,62.3
+2019-11,Spicejet,BOM,38.5
+2019-11,Go Air,DEL,72.0
+2019-11,Go Air,BLR,68.0
+2019-11,Go Air,BOM,63.9
+2019-11,Go Air,HYD,63.3
+2019-11,IndiGo,DEL,72.3
+2019-11,IndiGo,HYD,69.9
+2019-11,IndiGo,BLR,69.8
+2019-11,IndiGo,BOM,49.1
+2019-11,Vistara,BLR,70.9
+2019-11,Vistara,DEL,70.6
+2019-11,Vistara,HYD,63.7
+2019-11,Vistara,BOM,60.6
+2019-11,Air Asia,BLR,74.3
+2019-11,Air Asia,HYD,72.0
+2019-11,Air Asia,DEL,60.3
+2019-11,Air Asia,BOM,58.7
+2019-12,Air India (Domestic),BLR,56.2
+2019-12,Air India (Domestic),HYD,53.4
+2019-12,Air India (Domestic),DEL,53.1
+2019-12,Air India (Domestic),BOM,33.6
+2019-12,Spicejet,HYD,72.8
+2019-12,Spicejet,BLR,64.2
+2019-12,Spicejet,DEL,62.1
+2019-12,Spicejet,BOM,46.1
+2019-12,Go Air,DEL,70.0
+2019-12,Go Air,HYD,65.9
+2019-12,Go Air,BLR,62.5
+2019-12,Go Air,BOM,59.8
+2019-12,IndiGo,BLR,75.3
+2019-12,IndiGo,HYD,74.0
+2019-12,IndiGo,DEL,73.6
+2019-12,IndiGo,BOM,56.6
+2019-12,Vistara,BLR,73.8
+2019-12,Vistara,HYD,71.2
+2019-12,Vistara,DEL,69.6
+2019-12,Vistara,BOM,62.2
+2019-12,Air Asia,BLR,76.7
+2019-12,Air Asia,HYD,74.0
+2019-12,Air Asia,BOM,66.9
+2019-12,Air Asia,DEL,54.7
+2020-01,Air India (Domestic),HYD,54.4
+2020-01,Air India (Domestic),BLR,54.2
+2020-01,Air India (Domestic),DEL,53.0
+2020-01,Air India (Domestic),BOM,33.7
+2020-01,Spicejet,HYD,80.1
+2020-01,Spicejet,BLR,71.3
+2020-01,Spicejet,DEL,68.6
+2020-01,Spicejet,BOM,50.2
+2020-01,Go Air,DEL,76.4
+2020-01,Go Air,HYD,68.8
+2020-01,Go Air,BLR,68.2
+2020-01,Go Air,BOM,63.3
+2020-01,IndiGo,BLR,80.5
+2020-01,IndiGo,DEL,78.2
+2020-01,IndiGo,HYD,77.8
+2020-01,IndiGo,BOM,55.8
+2020-01,Vistara,HYD,81.2
+2020-01,Vistara,BLR,77.9
+2020-01,Vistara,DEL,71.5
+2020-01,Vistara,BOM,63.2
+2020-01,Air Asia,HYD,84.5
+2020-01,Air Asia,BLR,80.3
+2020-01,Air Asia,BOM,76.4
+2020-01,Air Asia,DEL,67.7
+2020-02,Air India (Domestic),HYD,61.3
+2020-02,Air India (Domestic),DEL,57.5
+2020-02,Air India (Domestic),BLR,56.7
+2020-02,Air India (Domestic),BOM,32.8
+2020-02,Spicejet,HYD,87.1
+2020-02,Spicejet,BLR,86.0
+2020-02,Spicejet,DEL,78.1
+2020-02,Spicejet,BOM,56.8
+2020-02,Go Air,HYD,90.4
+2020-02,Go Air,BLR,86.2
+2020-02,Go Air,DEL,83.7
+2020-02,Go Air,BOM,66.7
+2020-02,IndiGo,BLR,89.2
+2020-02,IndiGo,DEL,85.9
+2020-02,IndiGo,HYD,84.7
+2020-02,IndiGo,BOM,61.9
+2020-02,Vistara,HYD,82.2
+2020-02,Vistara,BLR,81.1
+2020-02,Vistara,DEL,79.2
+2020-02,Vistara,BOM,63.3
+2020-02,Air Asia,HYD,90.6
+2020-02,Air Asia,BLR,89.8
+2020-02,Air Asia,DEL,76.8
+2020-02,Air Asia,BOM,73.7
+2020-03,Air India (Domestic),HYD,69.9
+2020-03,Air India (Domestic),DEL,69.1
+2020-03,Air India (Domestic),BLR,65.9
+2020-03,Air India (Domestic),BOM,63.3
+2020-03,Spicejet,HYD,89.6
+2020-03,Spicejet,BLR,88.9
+2020-03,Spicejet,DEL,84.1
+2020-03,Spicejet,BOM,75.2
+2020-03,Spicejet,BLR,86.3
+2020-03,Spicejet,DEL,85.9
+2020-03,Spicejet,HYD,85.6
+2020-03,Spicejet,BOM,77.5
+2020-03,IndiGo,BLR,91.5
+2020-03,IndiGo,HYD,89.9
+2020-03,IndiGo,DEL,86.6
+2020-03,IndiGo,BOM,77.1
+2020-03,Vistara,HYD,89.3
+2020-03,Vistara,BLR,89.3
+2020-03,Vistara,DEL,82.7
+2020-03,Vistara,BOM,77.6
+2020-03,Vistara,HYD,92.6
+2020-03,Vistara,BLR,91.7
+2020-03,Vistara,BOM,79.9
+2020-03,Vistara,DEL,79.7
+2020-05,Air India (Domestic),BLR,91.7
+2020-05,Air India (Domestic),BOM,70.6
+2020-05,Air India (Domestic),DEL,69.3
+2020-05,Air India (Domestic),HYD,55.0
+2020-05,Spicejet,BOM,86.0
+2020-05,Spicejet,BLR,85.1
+2020-05,Spicejet,HYD,81.3
+2020-05,Spicejet,DEL,79.9
+2020-05,Go Air,BLR,0.0
+2020-05,Go Air,HYD,0.0
+2020-05,Go Air,BOM,0.0
+2020-05,Go Air,DEL,0.0
+2020-05,IndiGo,HYD,91.0
+2020-05,IndiGo,BOM,84.4
+2020-05,IndiGo,BLR,83.6
+2020-05,IndiGo,DEL,82.4
+2020-05,Vistara,BLR,100.0
+2020-05,Vistara,BOM,100.0
+2020-05,Vistara,DEL,92.0
+2020-05,Vistara,HYD,84.6
+2020-05,Air Asia,BOM,100.0
+2020-05,Air Asia,BLR,92.4
+2020-05,Air Asia,DEL,80.0
+2020-05,Air Asia,HYD,64.3
+2020-06,Air India (Domestic),BLR,92.5
+2020-06,Air India (Domestic),HYD,90.0
+2020-06,Air India (Domestic),DEL,83.1
+2020-06,Air India (Domestic),BOM,75.3
+2020-06,Spicejet,HYD,97.7
+2020-06,Spicejet,BLR,94.4
+2020-06,Spicejet,BOM,90.7
+2020-06,Spicejet,DEL,89.3
+2020-06,Go Air,BLR,90.9
+2020-06,Go Air,BOM,90.0
+2020-06,Go Air,DEL,81.5
+2020-06,Go Air,HYD,0.0
+2020-06,IndiGo,HYD,97.1
+2020-06,IndiGo,BLR,96.6
+2020-06,IndiGo,DEL,94.0
+2020-06,IndiGo,BOM,93.8
+2020-06,Vistara,BOM,96.9
+2020-06,Vistara,BLR,96.6
+2020-06,Vistara,HYD,96.4
+2020-06,Vistara,DEL,95.9
+2020-06,Air Asia,DEL,96.2
+2020-06,Air Asia,BLR,94.4
+2020-06,Air Asia,BOM,93.0
+2020-06,Air Asia,HYD,92.0
+2020-07,Air India (Domestic),BLR,94.1
+2020-07,Air India (Domestic),HYD,90.4
+2020-07,Air India (Domestic),DEL,89.3
+2020-07,Air India (Domestic),BOM,83.0
+2020-07,Spicejet,BLR,99.6
+2020-07,Spicejet,HYD,94.9
+2020-07,Spicejet,BOM,94.9
+2020-07,Spicejet,DEL,89.9
+2020-07,Go Air,BOM,93.7
+2020-07,Go Air,BLR,92.9
+2020-07,Go Air,DEL,87.6
+2020-07,Go Air,HYD,0.0
+2020-07,IndiGo,HYD,98.6
+2020-07,IndiGo,BLR,97.7
+2020-07,IndiGo,BOM,97.4
+2020-07,IndiGo,DEL,96.9
+2020-07,Vistara,BOM,97.8
+2020-07,Vistara,DEL,96.0
+2020-07,Vistara,HYD,94.4
+2020-07,Vistara,BLR,90.5
+2020-07,Air Asia,HYD,100.0
+2020-07,Air Asia,BOM,100.0
+2020-07,Air Asia,BLR,98.3
+2020-07,Air Asia,DEL,96.5
+2020-08,Air India (Domestic),HYD,93.1
+2020-08,Air India (Domestic),BLR,88.5
+2020-08,Air India (Domestic),DEL,88.2
+2020-08,Air India (Domestic),BOM,75.8
+2020-08,Spicejet,HYD,97.9
+2020-08,Spicejet,BLR,97.2
+2020-08,Spicejet,BOM,94.7
+2020-08,Spicejet,DEL,94.5
+2020-08,Go Air,BOM,95.0
+2020-08,Go Air,HYD,94.4
+2020-08,Go Air,DEL,93.0
+2020-08,Go Air,BLR,91.1
+2020-08,IndiGo,HYD,99.1
+2020-08,IndiGo,BOM,98.7
+2020-08,IndiGo,BLR,98.7
+2020-08,IndiGo,DEL,97.9
+2020-08,Vistara,BOM,98.5
+2020-08,Vistara,DEL,96.2
+2020-08,Vistara,BLR,92.5
+2020-08,Vistara,HYD,90.9
+2020-08,Air Asia,BOM,98.4
+2020-08,Air Asia,HYD,98.4
+2020-08,Air Asia,DEL,98.2
+2020-08,Air Asia,BLR,97.0
+2020-09,Air India (Domestic),BOM,96.9
+2020-09,Air India (Domestic),HYD,95.8
+2020-09,Air India (Domestic),DEL,91.1
+2020-09,Air India (Domestic),BLR,89.7
+2020-09,Spicejet,BOM,96.7
+2020-09,Spicejet,HYD,96.0
+2020-09,Spicejet,DEL,93.8
+2020-09,Spicejet,BLR,92.8
+2020-09,Go Air,BOM,97.5
+2020-09,Go Air,BLR,94.0
+2020-09,Go Air,HYD,88.9
+2020-09,Go Air,DEL,83.8
+2020-09,IndiGo,HYD,99.1
+2020-09,IndiGo,BOM,98.7
+2020-09,IndiGo,DEL,98.3
+2020-09,IndiGo,BLR,96.8
+2020-09,Vistara,BOM,97.0
+2020-09,Vistara,BLR,95.5
+2020-09,Vistara,DEL,95.1
+2020-09,Vistara,HYD,95.0
+2020-09,Air Asia,BOM,99.2
+2020-09,Air Asia,DEL,98.9
+2020-09,Air Asia,BLR,98.4
+2020-09,Air Asia,HYD,95.9
+2020-10,Air India (Domestic),BOM,96.9
+2020-10,Air India (Domestic),DEL,91.3
+2020-10,Air India (Domestic),BLR,87.6
+2020-10,Air India (Domestic),HYD,85.3
+2020-10,Spicejet,BOM,96.4
+2020-10,Spicejet,HYD,95.3
+2020-10,Spicejet,DEL,95.1
+2020-10,Spicejet,BLR,94.4
+2020-10,Go Air,HYD,100.0
+2020-10,Go Air,BOM,97.5
+2020-10,Go Air,DEL,96.5
+2020-10,Go Air,BLR,88.8
+2020-10,IndiGo,DEL,99.0
+2020-10,IndiGo,BOM,97.6
+2020-10,IndiGo,BLR,97.4
+2020-10,IndiGo,HYD,96.3
+2020-10,Vistara,DEL,97.2
+2020-10,Vistara,BOM,96.8
+2020-10,Vistara,BLR,95.2
+2020-10,Vistara,HYD,95.1
+2020-10,Air Asia,DEL,98.9
+2020-10,Air Asia,BOM,98.3
+2020-10,Air Asia,HYD,98.0
+2020-10,Air Asia,BLR,97.3
+2020-11,Air India (Domestic),BOM,95.1
+2020-11,Air India (Domestic),HYD,93.3
+2020-11,Air India (Domestic),BLR,88.9
+2020-11,Air India (Domestic),DEL,86.4
+2020-11,Spicejet,BLR,95.0
+2020-11,Spicejet,HYD,93.1
+2020-11,Spicejet,DEL,90.6
+2020-11,Spicejet,BOM,89.9
+2020-11,Go Air,HYD,92.5
+2020-11,Go Air,DEL,92.2
+2020-11,Go Air,BOM,79.7
+2020-11,Go Air,BLR,71.6
+2020-11,IndiGo,DEL,99.0
+2020-11,IndiGo,HYD,98.2
+2020-11,IndiGo,BOM,97.2
+2020-11,IndiGo,BLR,95.5
+2020-11,Vistara,BOM,97.5
+2020-11,Vistara,HYD,94.9
+2020-11,Vistara,BLR,94.3
+2020-11,Vistara,DEL,93.8
+2020-11,Air Asia,DEL,96.8
+2020-11,Air Asia,BOM,96.5
+2020-11,Air Asia,HYD,96.0
+2020-11,Air Asia,BLR,94.3
+2020-12,Air India (Domestic),BOM,95.4
+2020-12,Air India (Domestic),HYD,91.5
+2020-12,Air India (Domestic),BLR,83.0
+2020-12,Air India (Domestic),DEL,78.7
+2020-12,Spicejet,HYD,85.5
+2020-12,Spicejet,BLR,81.0
+2020-12,Spicejet,BOM,79.5
+2020-12,Spicejet,DEL,75.6
+2020-12,Go Air,HYD,87.2
+2020-12,Go Air,BOM,80.8
+2020-12,Go Air,DEL,75.1
+2020-12,Go Air,BLR,73.7
+2020-12,IndiGo,HYD,97.1
+2020-12,IndiGo,BOM,95.4
+2020-12,IndiGo,DEL,94.6
+2020-12,IndiGo,BLR,92.3
+2020-12,Vistara,HYD,91.3
+2020-12,Vistara,BOM,91.2
+2020-12,Vistara,BLR,88.7
+2020-12,Vistara,DEL,86.8
+2020-12,Air Asia,HYD,93.7
+2020-12,Air Asia,BOM,93.0
+2020-12,Air Asia,DEL,88.6
+2020-12,Air Asia,BLR,88.2
+2021-01,Air India (Domestic),BOM,94.6
+2021-01,Air India (Domestic),BLR,83.2
+2021-01,Air India (Domestic),HYD,81.4
+2021-01,Air India (Domestic),DEL,77.8
+2021-01,Spicejet,BLR,87.3
+2021-01,Spicejet,HYD,82.0
+2021-01,Spicejet,BOM,74.4
+2021-01,Spicejet,DEL,71.2
+2021-01,Go Air,HYD,84.9
+2021-01,Go Air,BOM,77.5
+2021-01,Go Air,BLR,75.5
+2021-01,Go Air,DEL,64.4
+2021-01,IndiGo,HYD,97.3
+2021-01,IndiGo,BOM,95.4
+2021-01,IndiGo,BLR,93.1
+2021-01,IndiGo,DEL,90.5
+2021-01,Vistara,BOM,92.0
+2021-01,Vistara,BLR,85.3
+2021-01,Vistara,HYD,84.1
+2021-01,Vistara,DEL,83.3
+2021-01,Air Asia,HYD,90.4
+2021-01,Air Asia,DEL,84.7
+2021-01,Air Asia,BOM,84.2
+2021-01,Air Asia,BLR,84.0
+2021-02,Air India (Domestic),BOM,91.7
+2021-02,Air India (Domestic),HYD,83.1
+2021-02,Air India (Domestic),BLR,81.0
+2021-02,Air India (Domestic),DEL,74.6
+2021-02,Spicejet,HYD,93.6
+2021-02,Spicejet,BLR,89.9
+2021-02,Spicejet,BOM,81.5
+2021-02,Spicejet,DEL,74.1
+2021-02,Go Air,HYD,88.9
+2021-02,Go Air,DEL,80.5
+2021-02,Go Air,BOM,79.1
+2021-02,Go Air,BLR,69.9
+2021-02,IndiGo,HYD,97.0
+2021-02,IndiGo,BOM,94.6
+2021-02,IndiGo,BLR,94.4
+2021-02,IndiGo,DEL,91.0
+2021-02,Vistara,BOM,91.2
+2021-02,Vistara,BLR,87.2
+2021-02,Vistara,HYD,86.8
+2021-02,Vistara,DEL,77.9
+2021-02,Air Asia,HYD,89.3
+2021-02,Air Asia,BOM,86.3
+2021-02,Air Asia,DEL,85.2
+2021-02,Air Asia,BLR,83.3
+2021-03,Air India (Domestic),BOM,96.1
+2021-03,Air India (Domestic),HYD,85.6
+2021-03,Air India (Domestic),BLR,85.4
+2021-03,Air India (Domestic),DEL,81.8
+2021-03,Spicejet,HYD,97.3
+2021-03,Spicejet,BOM,94.7
+2021-03,Spicejet,BLR,93.4
+2021-03,Spicejet,DEL,89.1
+2021-03,Go Air,BOM,97.7
+2021-03,Go Air,BLR,95.8
+2021-03,Go Air,DEL,95.4
+2021-03,Go Air,HYD,87.5
+2021-03,IndiGo,HYD,98.6
+2021-03,IndiGo,DEL,98.1
+2021-03,IndiGo,BOM,97.8
+2021-03,IndiGo,BLR,96.8
+2021-03,Vistara,BOM,98.7
+2021-03,Vistara,HYD,95.7
+2021-03,Vistara,BLR,94.3
+2021-03,Vistara,DEL,88.0
+2021-03,Air Asia,HYD,94.4
+2021-03,Air Asia,BOM,94.1
+2021-03,Air Asia,DEL,93.3
+2021-03,Air Asia,BLR,88.0
+2021-04,Air India (Domestic),BOM,96.5
+2021-04,Air India (Domestic),HYD,86.8
+2021-04,Air India (Domestic),DEL,85.6
+2021-04,Air India (Domestic),BLR,83.6
+2021-04,Spicejet,HYD,96.5
+2021-04,Spicejet,BOM,95.9
+2021-04,Spicejet,DEL,90.7
+2021-04,Spicejet,BLR,89.9
+2021-04,Go Air,HYD,100.0
+2021-04,Go Air,BOM,98.4
+2021-04,Go Air,DEL,97.9
+2021-04,Go Air,BLR,97.5
+2021-04,IndiGo,HYD,98.7
+2021-04,IndiGo,BOM,98.3
+2021-04,IndiGo,DEL,97.0
+2021-04,IndiGo,BLR,96.3
+2021-04,Vistara,BLR,96.8
+2021-04,Vistara,HYD,98.5
+2021-04,Vistara,BOM,98.2
+2021-04,Vistara,DEL,93.8
+2021-04,Air Asia,BLR,89.1
+2021-04,Air Asia,HYD,93.6
+2021-04,Air Asia,BOM,96.1
+2021-04,Air Asia,DEL,81.3
+2021-05,Air India (Domestic),BOM,95.7
+2021-05,Air India (Domestic),DEL,92.6
+2021-05,Air India (Domestic),BLR,89.7
+2021-05,Air India (Domestic),HYD,85.4
+2021-05,Spicejet,BLR,98.6
+2021-05,Spicejet,HYD,98.2
+2021-05,Spicejet,DEL,97.2
+2021-05,Spicejet,BOM,95.8
+2021-05,Go Air,HYD,100.0
+2021-05,Go Air,BLR,96.6
+2021-05,Go Air,DEL,94.4
+2021-05,Go Air,BOM,94.2
+2021-05,IndiGo,BOM,99.3
+2021-05,IndiGo,DEL,98.9
+2021-05,IndiGo,BLR,98.6
+2021-05,IndiGo,HYD,98.1
+2021-05,Vistara,BOM,100.0
+2021-05,Vistara,BLR,98.0
+2021-05,Vistara,DEL,97.6
+2021-05,Vistara,HYD,97.1
+2021-05,Air Asia,HYD,100.0
+2021-05,Air Asia,BOM,100.0
+2021-05,Air Asia,DEL,98.3
+2021-05,Air Asia,BLR,96.7
+2021-06,Air India (Domestic),BOM,96.2
+2021-06,Air India (Domestic),BLR,95.6
+2021-06,Air India (Domestic),DEL,93.2
+2021-06,Air India (Domestic),HYD,90.5
+2021-06,Spicejet,HYD,100.0
+2021-06,Spicejet,BLR,97.8
+2021-06,Spicejet,BOM,96.4
+2021-06,Spicejet,DEL,95.6
+2021-06,Go Air,HYD,100.0
+2021-06,Go Air,BLR,95.7
+2021-06,Go Air,BOM,93.8
+2021-06,Go Air,DEL,90.5
+2021-06,IndiGo,HYD,99.2
+2021-06,IndiGo,DEL,98.5
+2021-06,IndiGo,BOM,98.4
+2021-06,IndiGo,BLR,97.9
+2021-06,Vistara,BOM,97.3
+2021-06,Vistara,DEL,96.7
+2021-06,Vistara,BLR,95.2
+2021-06,Vistara,HYD,94.7
+2021-06,Air Asia,HYD,100.0
+2021-06,Air Asia,BOM,100.0
+2021-06,Air Asia,DEL,98.9
+2021-06,Air Asia,BLR,97.1
+2021-07,Air India (Domestic),HYD,93.5
+2021-07,Air India (Domestic),BOM,91.2
+2021-07,Air India (Domestic),BLR,90.9
+2021-07,Air India (Domestic),DEL,88.4
+2021-07,Spicejet,BLR,96.5
+2021-07,Spicejet,HYD,93.3
+2021-07,Spicejet,BOM,89.8
+2021-07,Spicejet,DEL,88.6
+2021-07,Go Air,HYD,100.0
+2021-07,Go Air,BLR,96.4
+2021-07,Go Air,BOM,92.0
+2021-07,Go Air,DEL,88.5
+2021-07,IndiGo,HYD,98.1
+2021-07,IndiGo,BLR,97.5
+2021-07,IndiGo,BOM,97.0
+2021-07,IndiGo,DEL,96.7
+2021-07,Vistara,BOM,98.0
+2021-07,Vistara,HYD,96.4
+2021-07,Vistara,BLR,94.5
+2021-07,Vistara,DEL,94.1
+2021-07,Air Asia,HYD,99.3
+2021-07,Air Asia,BLR,98.2
+2021-07,Air Asia,DEL,94.3
+2021-07,Air Asia,BOM,90.0
+2021-08,Air India (Domestic),BOM,90.2
+2021-08,Air India (Domestic),DEL,87.4
+2021-08,Air India (Domestic),BLR,83.7
+2021-08,Air India (Domestic),HYD,83.1
+2021-08,Spicejet,HYD,94.7
+2021-08,Spicejet,BLR,93.6
+2021-08,Spicejet,BOM,90.3
+2021-08,Spicejet,DEL,89.8
+2021-08,Go Air,HYD,100.0
+2021-08,Go Air,BLR,97.1
+2021-08,Go Air,BOM,95.0
+2021-08,Go Air,DEL,94.6
+2021-08,IndiGo,DEL,98.4
+2021-08,IndiGo,HYD,97.2
+2021-08,IndiGo,BLR,96.5
+2021-08,IndiGo,BOM,95.4
+2021-08,Vistara,BOM,98.6
+2021-08,Vistara,BLR,97.5
+2021-08,Vistara,HYD,93.2
+2021-08,Vistara,DEL,93.0
+2021-08,Air Asia,BOM,98.8
+2021-08,Air Asia,BLR,96.7
+2021-08,Air Asia,HYD,95.9
+2021-08,Air Asia,DEL,95.8
+2021-09,Air India (Domestic),BOM,90.9
+2021-09,Air India (Domestic),HYD,88.3
+2021-09,Air India (Domestic),BLR,85.4
+2021-09,Air India (Domestic),DEL,85.3
+2021-09,Spicejet,HYD,93.8
+2021-09,Spicejet,BLR,90.3
+2021-09,Spicejet,DEL,87.0
+2021-09,Spicejet,BOM,82.3
+2021-09,Go Air,HYD,100.0
+2021-09,Go Air,BLR,98.0
+2021-09,Go Air,BOM,94.8
+2021-09,Go Air,DEL,92.6
+2021-09,IndiGo,BLR,97.1
+2021-09,IndiGo,HYD,96.5
+2021-09,IndiGo,BOM,95.8
+2021-09,IndiGo,DEL,93.6
+2021-09,Vistara,BOM,98.1
+2021-09,Vistara,BLR,97.3
+2021-09,Vistara,HYD,97.1
+2021-09,Vistara,DEL,91.7
+2021-09,Air Asia,BOM,97.2
+2021-09,Air Asia,BLR,97.1
+2021-09,Air Asia,DEL,94.7
+2021-09,Air Asia,HYD,91.0
+2021-10,Air India (Domestic),DEL,76.9
+2021-10,Air India (Domestic),BLR,73.8
+2021-10,Air India (Domestic),HYD,73.2
+2021-10,Air India (Domestic),BOM,73.1
+2021-10,Spicejet,HYD,91.1
+2021-10,Spicejet,BLR,84.7
+2021-10,Spicejet,DEL,84.6
+2021-10,Spicejet,BOM,79.6
+2021-10,Go Air,HYD,94.6
+2021-10,Go Air,BLR,90.1
+2021-10,Go Air,BOM,81.2
+2021-10,Go Air,DEL,71.7
+2021-10,IndiGo,DEL,92.4
+2021-10,IndiGo,HYD,90.8
+2021-10,IndiGo,BLR,87.2
+2021-10,IndiGo,BOM,83.7
+2021-10,Vistara,BLR,95.7
+2021-10,Vistara,BOM,91.9
+2021-10,Vistara,HYD,91.1
+2021-10,Vistara,DEL,84.3
+2021-10,Air Asia,BOM,93.8
+2021-10,Air Asia,HYD,86.0
+2021-10,Air Asia,BLR,86.0
+2021-10,Air Asia,DEL,85.6
+2021-11,Air India (Domestic),BLR,73.2
+2021-11,Air India (Domestic),BOM,72.2
+2021-11,Air India (Domestic),DEL,65.4
+2021-11,Air India (Domestic),HYD,61.0
+2021-11,Alliance Air,BLR,90.8
+2021-11,Alliance Air,BOM,69.2
+2021-11,Alliance Air,HYD,62.8
+2021-11,Alliance Air,DEL,61.2
+2021-11,Spicejet,HYD,84.5
+2021-11,Spicejet,BLR,78.8
+2021-11,Spicejet,DEL,72.6
+2021-11,Spicejet,BOM,65.6
+2021-11,Go Air,BLR,89.1
+2021-11,Go Air,HYD,85.5
+2021-11,Go Air,DEL,68.2
+2021-11,Go Air,BOM,57.2
+2021-11,IndiGo,HYD,83.1
+2021-11,IndiGo,DEL,81.3
+2021-11,IndiGo,BLR,79.6
+2021-11,IndiGo,BOM,77.8
+2021-11,Vistara,BLR,92.1
+2021-11,Vistara,HYD,91.6
+2021-11,Vistara,BOM,83.3
+2021-11,Vistara,DEL,82.2
+2021-11,Air Asia,BOM,89.4
+2021-11,Air Asia,HYD,87.7
+2021-11,Air Asia,BLR,86.6
+2021-11,Air Asia,DEL,73.1
+2021-12,Air India (Domestic),BLR,78.0
+2021-12,Air India (Domestic),BOM,74.2
+2021-12,Air India (Domestic),HYD,69.9
+2021-12,Air India (Domestic),DEL,69.5
+2021-12,Alliance Air,HYD,70.7
+2021-12,Alliance Air,BLR,69.0
+2021-12,Alliance Air,BOM,60.3
+2021-12,Alliance Air,DEL,59.1
+2021-12,Spicejet,HYD,85.3
+2021-12,Spicejet,BLR,79.0
+2021-12,Spicejet,DEL,71.4
+2021-12,Spicejet,BOM,66.1
+2021-12,Go Air,HYD,96.3
+2021-12,Go Air,BLR,91.0
+2021-12,Go Air,DEL,81.9
+2021-12,Go Air,BOM,78.5
+2021-12,IndiGo,HYD,85.8
+2021-12,IndiGo,BLR,85.0
+2021-12,IndiGo,DEL,84.7
+2021-12,IndiGo,BOM,78.1
+2021-12,Vistara,BLR,88.0
+2021-12,Vistara,BOM,85.5
+2021-12,Vistara,HYD,84.9
+2021-12,Vistara,DEL,77.3
+2021-12,Air Asia,BOM,87.4
+2021-12,Air Asia,BLR,78.0
+2021-12,Air Asia,HYD,77.2
+2021-12,Air Asia,DEL,72.8
+2022-01,Air India,BLR,95.0
+2022-01,Air India,HYD,93.2
+2022-01,Air India,DEL,92.9
+2022-01,Air India,BOM,92.1
+2022-01,Alliance Air,BOM,95.2
+2022-01,Alliance Air,BLR,94.0
+2022-01,Alliance Air,HYD,89.1
+2022-01,Alliance Air,DEL,68.9
+2022-01,Spicejet,BLR,90.0
+2022-01,Spicejet,DEL,88.5
+2022-01,Spicejet,HYD,87.5
+2022-01,Spicejet,BOM,84.1
+2022-01,Go Air,HYD,99.4
+2022-01,Go Air,BLR,97.0
+2022-01,Go Air,BOM,95.7
+2022-01,Go Air,DEL,91.8
+2022-01,IndiGo,BLR,95.0
+2022-01,IndiGo,DEL,94.2
+2022-01,IndiGo,BOM,92.8
+2022-01,IndiGo,HYD,92.8
+2022-01,Vistara,BLR,98.0
+2022-01,Vistara,HYD,97.6
+2022-01,Vistara,BOM,96.9
+2022-01,Vistara,DEL,90.7
+2022-01,Air Asia,BLR,94.0
+2022-01,Air Asia,HYD,93.5
+2022-01,Air Asia,BOM,92.9
+2022-01,Air Asia,DEL,88.4
+2022-02,Air India,BLR,93.0
+2022-02,Air India,BOM,89.9
+2022-02,Air India,DEL,89.3
+2022-02,Air India,HYD,88.4
+2022-02,Alliance Air,BLR,95.0
+2022-02,Alliance Air,HYD,90.7
+2022-02,Alliance Air,DEL,81.0
+2022-02,Alliance Air,BOM,76.1
+2022-02,Spicejet,BLR,96.0
+2022-02,Spicejet,HYD,94.4
+2022-02,Spicejet,DEL,89.7
+2022-02,Spicejet,BOM,88.4
+2022-02,Go First,BLR,98.0
+2022-02,Go First,BOM,95.3
+2022-02,Go First,HYD,92.5
+2022-02,Go First,DEL,91.5
+2022-02,IndiGo,BLR,97.0
+2022-02,IndiGo,DEL,95.6
+2022-02,IndiGo,HYD,94.7
+2022-02,IndiGo,BOM,94.3
+2022-02,Vistara,HYD,97.2
+2022-02,Vistara,BLR,97.0
+2022-02,Vistara,BOM,94.6
+2022-02,Vistara,DEL,87.0
+2022-02,Air Asia,BOM,95.9
+2022-02,Air Asia,HYD,93.0
+2022-02,Air Asia,BLR,93.0
+2022-02,Air Asia,DEL,80.6
+2022-03,Air India,DEL,91.5
+2022-03,Air India,BOM,91.2
+2022-03,Air India,BLR,91.0
+2022-03,Air India,HYD,88.9
+2022-03,Alliance Air,BLR,81.0
+2022-03,Alliance Air,BOM,79.8
+2022-03,Alliance Air,DEL,78.9
+2022-03,Alliance Air,HYD,74.6
+2022-03,Spicejet,HYD,93.8
+2022-03,Spicejet,DEL,91.9
+2022-03,Spicejet,BLR,90.0
+2022-03,Spicejet,BOM,86.0
+2022-03,Go First,BLR,95.0
+2022-03,Go First,DEL,94.4
+2022-03,Go First,BOM,91.8
+2022-03,Go First,HYD,84.8
+2022-03,IndiGo,DEL,96.8
+2022-03,IndiGo,HYD,94.3
+2022-03,IndiGo,BLR,94.0
+2022-03,IndiGo,BOM,88.8
+2022-03,Vistara,HYD,95.2
+2022-03,Vistara,BLR,93.0
+2022-03,Vistara,BOM,92.2
+2022-03,Vistara,DEL,90.9
+2022-03,Air Asia,BOM,94.5
+2022-03,Air Asia,HYD,93.4
+2022-03,Air Asia,BLR,91.0
+2022-03,Air Asia,DEL,89.8
+2022-04,Air India,HYD,85.0
+2022-04,Air India,DEL,83.2
+2022-04,Air India,BOM,80.2
+2022-04,Air India,BLR,77.1
+2022-04,Alliance Air,BLR,68.6
+2022-04,Alliance Air,DEL,66.9
+2022-04,Alliance Air,HYD,60.5
+2022-04,Alliance Air,BOM,47.0
+2022-04,Spicejet,HYD,95.1
+2022-04,Spicejet,DEL,89.8
+2022-04,Spicejet,BLR,87.1
+2022-04,Spicejet,BOM,86.6
+2022-04,Go First,HYD,94.9
+2022-04,Go First,BLR,93.6
+2022-04,Go First,DEL,89.1
+2022-04,Go First,BOM,81.5
+2022-04,IndiGo,DEL,94.7
+2022-04,IndiGo,HYD,90.5
+2022-04,IndiGo,BLR,87.7
+2022-04,IndiGo,BOM,85.8
+2022-04,Vistara,HYD,95.0
+2022-04,Vistara,BLR,94.0
+2022-04,Vistara,BOM,93.6
+2022-04,Vistara,DEL,88.0
+2022-04,Air Asia,HYD,98.0
+2022-04,Air Asia,BOM,96.2
+2022-04,Air Asia,DEL,94.4
+2022-04,Air Asia,BLR,93.8
+2022-05,Air India,DEL,84.9
+2022-05,Air India,HYD,79.4
+2022-05,Air India,BLR,77.0
+2022-05,Air India,BOM,76.7
+2022-05,Alliance Air,DEL,75.2
+2022-05,Alliance Air,BLR,66.0
+2022-05,Alliance Air,HYD,65.5
+2022-05,Alliance Air,BOM,45.4
+2022-05,Spicejet,HYD,81.7
+2022-05,Spicejet,BLR,74.0
+2022-05,Spicejet,BOM,69.2
+2022-05,Spicejet,DEL,68.6
+2022-05,Go First,HYD,91.5
+2022-05,Go First,BLR,83.0
+2022-05,Go First,BOM,70.9
+2022-05,Go First,DEL,66.5
+2022-05,IndiGo,DEL,85.3
+2022-05,IndiGo,HYD,83.2
+2022-05,IndiGo,BOM,79.5
+2022-05,IndiGo,BLR,79.0
+2022-05,Vistara,HYD,94.1
+2022-05,Vistara,BOM,90.3
+2022-05,Vistara,BLR,90.0
+2022-05,Vistara,DEL,84.2
+2022-05,Air Asia,BOM,94.2
+2022-05,Air Asia,HYD,93.8
+2022-05,Air Asia,BLR,91.0
+2022-05,Air Asia,DEL,87.4
+2022-06,Air India,DEL,86.7
+2022-06,Air India,BLR,83.1
+2022-06,Air India,BOM,78.1
+2022-06,Air India,HYD,78.1
+2022-06,Alliance Air,BLR,75.2
+2022-06,Alliance Air,DEL,73.5
+2022-06,Alliance Air,BOM,56.1
+2022-06,Alliance Air,HYD,53.2
+2022-06,Spicejet,HYD,88.8
+2022-06,Spicejet,BOM,79.0
+2022-06,Spicejet,BLR,78.9
+2022-06,Spicejet,DEL,77.7
+2022-06,Go First,BLR,86.2
+2022-06,Go First,HYD,84.8
+2022-06,Go First,DEL,73.7
+2022-06,Go First,BOM,73.2
+2022-06,IndiGo,DEL,87.3
+2022-06,IndiGo,BLR,85.5
+2022-06,IndiGo,HYD,83.0
+2022-06,IndiGo,BOM,80.2
+2022-06,Vistara,BLR,91.5
+2022-06,Vistara,HYD,87.9
+2022-06,Vistara,DEL,85.4
+2022-06,Vistara,BOM,85.0
+2022-06,Air Asia,HYD,91.8
+2022-06,Air Asia,BLR,91.3
+2022-06,Air Asia,BOM,88.3
+2022-06,Air Asia,DEL,88.2
+2022-07,Air India,DEL,83.9
+2022-07,Air India,BLR,83.5
+2022-07,Air India,HYD,82.0
+2022-07,Air India,BOM,81.4
+2022-07,Alliance Air,BLR,85.4
+2022-07,Alliance Air,DEL,71.8
+2022-07,Alliance Air,HYD,69.0
+2022-07,Alliance Air,BOM,59.3
+2022-07,Spicejet,HYD,86.8
+2022-07,Spicejet,BLR,86.6
+2022-07,Spicejet,DEL,80.7
+2022-07,Spicejet,BOM,80.0
+2022-07,Go First,BOM,87.4
+2022-07,Go First,BLR,87.1
+2022-07,Go First,HYD,82.9
+2022-07,Go First,DEL,80.6
+2022-07,IndiGo,BLR,84.7
+2022-07,IndiGo,DEL,81.4
+2022-07,IndiGo,BOM,79.2
+2022-07,IndiGo,HYD,77.1
+2022-07,Vistara,BLR,94.1
+2022-07,Vistara,BOM,91.4
+2022-07,Vistara,HYD,89.2
+2022-07,Vistara,DEL,85.8
+2022-07,Air Asia,BOM,99.2
+2022-07,Air Asia,HYD,97.0
+2022-07,Air Asia,BLR,96.6
+2022-07,Air Asia,DEL,93.2
+2022-08,Air India,HYD,91.3
+2022-08,Air India,DEL,88.6
+2022-08,Air India,BLR,88.5
+2022-08,Air India,BOM,86.0
+2022-08,Alliance Air,BLR,92.8
+2022-08,Alliance Air,HYD,76.8
+2022-08,Alliance Air,DEL,65.4
+2022-08,Alliance Air,BOM,58.6
+2022-08,Spicejet,HYD,86.6
+2022-08,Spicejet,BLR,85.7
+2022-08,Spicejet,DEL,77.6
+2022-08,Spicejet,BOM,76.4
+2022-08,Go First,HYD,87.8
+2022-08,Go First,BLR,77.4
+2022-08,Go First,DEL,75.3
+2022-08,Go First,BOM,71.8
+2022-08,IndiGo,DEL,89.5
+2022-08,IndiGo,BLR,87.2
+2022-08,IndiGo,HYD,84.5
+2022-08,IndiGo,BOM,79.0
+2022-08,Vistara,BLR,95.6
+2022-08,Vistara,BOM,91.1
+2022-08,Vistara,DEL,90.7
+2022-08,Vistara,HYD,89.4
+2022-08,Air Asia,HYD,99.2
+2022-08,Air Asia,BLR,95.3
+2022-08,Air Asia,BOM,93.9
+2022-08,Air Asia,DEL,88.8
+2022-09,Air India,DEL,89.5
+2022-09,Air India,HYD,88.8
+2022-09,Air India,BOM,84.6
+2022-09,Air India,BLR,81.0
+2022-09,Alliance Air,BLR,86.2
+2022-09,Alliance Air,HYD,75.7
+2022-09,Alliance Air,BOM,58.2
+2022-09,Alliance Air,DEL,52.1
+2022-09,Spicejet,BLR,86.7
+2022-09,Spicejet,HYD,85.3
+2022-09,Spicejet,DEL,77.4
+2022-09,Spicejet,BOM,73.1
+2022-09,Go First,HYD,80.9
+2022-09,Go First,BLR,66.9
+2022-09,Go First,DEL,62.7
+2022-09,Go First,BOM,59.5
+2022-09,IndiGo,DEL,87.5
+2022-09,IndiGo,HYD,86.4
+2022-09,IndiGo,BLR,83.4
+2022-09,IndiGo,BOM,77.6
+2022-09,Vistara,BLR,92.7
+2022-09,Vistara,DEL,91.1
+2022-09,Vistara,HYD,90.6
+2022-09,Vistara,BOM,89.9
+2022-09,Air Asia,HYD,97.4
+2022-09,Air Asia,BOM,96.3
+2022-09,Air Asia,BLR,88.0
+2022-09,Air Asia,DEL,87.4
+2022-10,Air India,DEL,92.6
+2022-10,Air India,HYD,91.0
+2022-10,Air India,BOM,88.8
+2022-10,Air India,BLR,88.1
+2022-10,Alliance Air,BLR,79.6
+2022-10,Alliance Air,DEL,75.1
+2022-10,Alliance Air,HYD,72.4
+2022-10,Alliance Air,BOM,69.0
+2022-10,Spicejet,BLR,77.2
+2022-10,Spicejet,HYD,75.1
+2022-10,Spicejet,DEL,71.9
+2022-10,Spicejet,BOM,54.8
+2022-10,Go First,BLR,71.2
+2022-10,Go First,DEL,69.2
+2022-10,Go First,BOM,46.9
+2022-10,Go First,HYD,0.0
+2022-10,IndiGo,DEL,92.6
+2022-10,IndiGo,BLR,87.2
+2022-10,IndiGo,HYD,86.5
+2022-10,IndiGo,BOM,81.4
+2022-10,Vistara,BLR,90.5
+2022-10,Vistara,HYD,90.3
+2022-10,Vistara,DEL,89.8
+2022-10,Vistara,BOM,87.1
+2022-10,Air Asia,HYD,95.4
+2022-10,Air Asia,BOM,92.9
+2022-10,Air Asia,DEL,88.4
+2022-10,Air Asia,BLR,87.0
+2022-11,Air India,HYD,91.9
+2022-11,Air India,BLR,89.9
+2022-11,Air India,DEL,89.8
+2022-11,Air India,BOM,84.7
+2022-11,Alliance Air,BLR,78.3
+2022-11,Alliance Air,DEL,76.0
+2022-11,Alliance Air,HYD,66.7
+2022-11,Alliance Air,BOM,50.4
+2022-11,Spicejet,HYD,84.6
+2022-11,Spicejet,BLR,64.3
+2022-11,Spicejet,DEL,57.1
+2022-11,Spicejet,BOM,45.0
+2022-11,Go First,BLR,44.1
+2022-11,Go First,DEL,34.3
+2022-11,Go First,BOM,33.7
+2022-11,Go First,HYD,
+2022-11,IndiGo,DEL,96.0
+2022-11,IndiGo,HYD,94.2
+2022-11,IndiGo,BLR,89.4
+2022-11,IndiGo,BOM,89.1
+2022-11,Vistara,BLR,88.9
+2022-11,Vistara,DEL,86.9
+2022-11,Vistara,HYD,85.9
+2022-11,Vistara,BOM,82.1
+2022-11,Air Asia,BOM,88.4
+2022-11,Air Asia,DEL,79.7
+2022-11,Air Asia,HYD,70.2
+2022-11,Air Asia,BLR,69.2
+2022-12,Air India,BLR,85.3
+2022-12,Air India,DEL,83.3
+2022-12,Air India,HYD,81.8
+2022-12,Air India,BOM,77.1
+2022-12,Alliance Air,HYD,74.8
+2022-12,Alliance Air,BLR,69.7
+2022-12,Alliance Air,BOM,64.2
+2022-12,Alliance Air,DEL,53.0
+2022-12,Spicejet,HYD,74.5
+2022-12,Spicejet,BLR,62.1
+2022-12,Spicejet,DEL,58.9
+2022-12,Spicejet,BOM,45.4
+2022-12,Go First,HYD,100.0
+2022-12,Go First,DEL,52.7
+2022-12,Go First,BLR,51.5
+2022-12,Go First,BOM,45.8
+2022-12,IndiGo,BLR,90.8
+2022-12,IndiGo,DEL,90.3
+2022-12,IndiGo,HYD,86.2
+2022-12,IndiGo,BOM,85.7
+2022-12,Vistara,DEL,86.6
+2022-12,Vistara,BLR,86.5
+2022-12,Vistara,BOM,73.9
+2022-12,Vistara,HYD,71.5
+2022-12,Air Asia,BOM,83.5
+2022-12,Air Asia,DEL,76.5
+2022-12,Air Asia,BLR,55.9
+2022-12,Air Asia,HYD,49.0
+2023-01,Air India,HYD,81.2
+2023-01,Air India,BLR,80.6
+2023-01,Air India,DEL,77.4
+2023-01,Air India,BOM,70.5
+2023-01,Alliance Air,BLR,68.9
+2023-01,Alliance Air,HYD,59.8
+2023-01,Alliance Air,BOM,46.6
+2023-01,Alliance Air,DEL,44.5
+2023-01,Spicejet,HYD,77.9
+2023-01,Spicejet,BLR,62.0
+2023-01,Spicejet,DEL,61.6
+2023-01,Spicejet,BOM,46.7
+2023-01,Go First,HYD,77.0
+2023-01,Go First,BLR,55.8
+2023-01,Go First,DEL,53.6
+2023-01,Go First,BOM,44.5
+2023-01,IndiGo,HYD,88.7
+2023-01,IndiGo,BLR,87.4
+2023-01,IndiGo,DEL,85.4
+2023-01,IndiGo,BOM,76.1
+2023-01,Vistara,BLR,81.6
+2023-01,Vistara,DEL,80.5
+2023-01,Vistara,HYD,75.7
+2023-01,Vistara,BOM,68.6
+2023-01,Air Asia,DEL,69.9
+2023-01,Air Asia,BOM,69.4
+2023-01,Air Asia,HYD,56.5
+2023-01,Air Asia,BLR,53.5
+2023-01,Akasa Air,HYD,92.9
+2023-01,Akasa Air,BLR,81.5
+2023-01,Akasa Air,DEL,77.7
+2023-01,Akasa Air,BOM,68.2
+2023-02,Air India,HYD,84.8
+2023-02,Air India,BLR,82.5
+2023-02,Air India,DEL,81.9
+2023-02,Air India,BOM,75.9
+2023-02,Alliance Air,BLR,81.6
+2023-02,Alliance Air,DEL,67.3
+2023-02,Alliance Air,HYD,64.5
+2023-02,Alliance Air,BOM,33.6
+2023-02,Spicejet,HYD,79.7
+2023-02,Spicejet,BLR,68.2
+2023-02,Spicejet,DEL,57.7
+2023-02,Spicejet,BOM,41.0
+2023-02,Go First,HYD,91.1
+2023-02,Go First,BLR,66.1
+2023-02,Go First,DEL,54.6
+2023-02,Go First,BOM,47.1
+2023-02,IndiGo,HYD,92.1
+2023-02,IndiGo,DEL,91.2
+2023-02,IndiGo,BLR,91.1
+2023-02,IndiGo,BOM,79.0
+2023-02,Vistara,BLR,85.9
+2023-02,Vistara,DEL,84.3
+2023-02,Vistara,HYD,83.2
+2023-02,Vistara,BOM,67.9
+2023-02,Air Asia,DEL,78.2
+2023-02,Air Asia,HYD,69.9
+2023-02,Air Asia,BOM,65.1
+2023-02,Air Asia,BLR,63.7
+2023-02,Akasa Air,HYD,94.0
+2023-02,Akasa Air,BLR,91.5
+2023-02,Akasa Air,DEL,87.1
+2023-02,Akasa Air,BOM,77.0
+2023-03,Air India,HYD,91.7
+2023-03,Air India,BLR,84.3
+2023-03,Air India,BOM,82.1
+2023-03,Air India,DEL,80.2
+2023-03,Alliance Air,BLR,76.9
+2023-03,Alliance Air,HYD,76.2
+2023-03,Alliance Air,DEL,63.1
+2023-03,Alliance Air,BOM,57.5
+2023-03,Spicejet,BLR,81.4
+2023-03,Spicejet,HYD,78.6
+2023-03,Spicejet,DEL,64.9
+2023-03,Spicejet,BOM,47.0
+2023-03,Go First,HYD,81.4
+2023-03,Go First,BOM,53.5
+2023-03,Go First,BLR,46.0
+2023-03,Go First,DEL,44.0
+2023-03,IndiGo,BLR,95.0
+2023-03,IndiGo,HYD,94.4
+2023-03,IndiGo,DEL,89.9
+2023-03,IndiGo,BOM,88.8
+2023-03,Vistara,BLR,88.1
+2023-03,Vistara,HYD,85.4
+2023-03,Vistara,DEL,85.1
+2023-03,Vistara,BOM,79.0
+2023-03,Air Asia,HYD,82.5
+2023-03,Air Asia,DEL,78.6
+2023-03,Air Asia,BLR,75.7
+2023-03,Air Asia,BOM,64.3
+2023-03,Akasa Air,HYD,99.4
+2023-03,Akasa Air,BLR,96.6
+2023-03,Akasa Air,BOM,89.5
+2023-03,Akasa Air,DEL,84.0
+2023-04,Air India,HYD,94.6
+2023-04,Air India,DEL,92.3
+2023-04,Air India,BLR,91.4
+2023-04,Air India,BOM,88.8
+2023-04,Alliance Air,HYD,73.8
+2023-04,Alliance Air,DEL,71.0
+2023-04,Alliance Air,BLR,66.2
+2023-04,Alliance Air,BOM,45.5
+2023-04,Spicejet,BLR,87.3
+2023-04,Spicejet,HYD,86.5
+2023-04,Spicejet,DEL,65.2
+2023-04,Spicejet,BOM,64.7
+2023-04,Go First,HYD,78.0
+2023-04,Go First,DEL,47.2
+2023-04,Go First,BLR,37.4
+2023-04,Go First,BOM,35.7
+2023-04,IndiGo,BLR,91.9
+2023-04,IndiGo,DEL,91.6
+2023-04,IndiGo,HYD,87.6
+2023-04,IndiGo,BOM,85.8
+2023-04,Vistara,DEL,87.1
+2023-04,Vistara,BLR,86.3
+2023-04,Vistara,BOM,86.2
+2023-04,Vistara,HYD,84.1
+2023-04,Air Asia,HYD,86.6
+2023-04,Air Asia,DEL,83.9
+2023-04,Air Asia,BLR,81.9
+2023-04,Air Asia,BOM,78.5
+2023-04,Akasa Air,BLR,96.6
+2023-04,Akasa Air,HYD,92.8
+2023-04,Akasa Air,DEL,91.7
+2023-04,Akasa Air,BOM,89.9
+2023-05,Air India,HYD,88.5
+2023-05,Air India,BOM,82.8
+2023-05,Air India,BLR,82.4
+2023-05,Air India,DEL,81.6
+2023-05,Alliance Air,BLR,67.1
+2023-05,Alliance Air,DEL,65.5
+2023-05,Alliance Air,HYD,61.5
+2023-05,Alliance Air,BOM,40.3
+2023-05,Spicejet,HYD,84.8
+2023-05,Spicejet,BLR,84.0
+2023-05,Spicejet,DEL,57.1
+2023-05,Spicejet,BOM,52.6
+2023-05,Go First,HYD,100.0
+2023-05,Go First,DEL,56.7
+2023-05,Go First,BLR,33.3
+2023-05,Go First,BOM,32.7
+2023-05,IndiGo,DEL,92.0
+2023-05,IndiGo,BLR,91.6
+2023-05,IndiGo,BOM,88.8
+2023-05,IndiGo,HYD,87.7
+2023-05,Vistara,BLR,92.6
+2023-05,Vistara,BOM,90.0
+2023-05,Vistara,DEL,88.6
+2023-05,Vistara,HYD,87.3
+2023-05,Air Asia,HYD,89.2
+2023-05,Air Asia,BOM,85.2
+2023-05,Air Asia,BLR,84.4
+2023-05,Air Asia,DEL,83.4
+2023-05,Akasa Air,BLR,94.7
+2023-05,Akasa Air,HYD,93.2
+2023-05,Akasa Air,DEL,91.2
+2023-05,Akasa Air,BOM,88.9
+2023-06,Air India,HYD,75.2
+2023-06,Air India,DEL,71.5
+2023-06,Air India,BLR,70.9
+2023-06,Air India,BOM,65.3
+2023-06,Alliance Air,BLR,54.1
+2023-06,Alliance Air,HYD,46.7
+2023-06,Alliance Air,DEL,45.9
+2023-06,Alliance Air,BOM,42.6
+2023-06,Spicejet,HYD,74.8
+2023-06,Spicejet,BLR,74.1
+2023-06,Spicejet,BOM,58.1
+2023-06,Spicejet,DEL,56.7
+2023-06,IndiGo,BLR,92.9
+2023-06,IndiGo,DEL,90.4
+2023-06,IndiGo,HYD,87.7
+2023-06,IndiGo,BOM,78.2
+2023-06,Vistara,DEL,91.0
+2023-06,Vistara,BLR,90.5
+2023-06,Vistara,BOM,84.3
+2023-06,Vistara,HYD,82.8
+2023-06,Air Asia,BLR,86.6
+2023-06,Air Asia,HYD,85.6
+2023-06,Air Asia,DEL,83.9
+2023-06,Air Asia,BOM,51.1
+2023-06,Akasa Air,HYD,91.1
+2023-06,Akasa Air,DEL,89.4
+2023-06,Akasa Air,BLR,88.5
+2023-06,Akasa Air,BOM,84.9
+2023-07,Air India,BLR,80.4
+2023-07,Air India,HYD,75.1
+2023-07,Air India,DEL,74.3
+2023-07,Air India,BOM,61.3
+2023-07,Alliance Air,BLR,67.1
+2023-07,Alliance Air,DEL,63.7
+2023-07,Alliance Air,HYD,59.9
+2023-07,Alliance Air,BOM,27.6
+2023-07,Spicejet,BLR,77.5
+2023-07,Spicejet,HYD,77.2
+2023-07,Spicejet,BOM,65.7
+2023-07,Spicejet,DEL,62.0
+2023-07,IndiGo,BLR,93.3
+2023-07,IndiGo,DEL,89.4
+2023-07,IndiGo,HYD,87.4
+2023-07,IndiGo,BOM,76.4
+2023-07,Vistara,DEL,87.8
+2023-07,Vistara,BLR,84.1
+2023-07,Vistara,HYD,80.9
+2023-07,Vistara,BOM,77.5
+2023-07,Air Asia,HYD,90.8
+2023-07,Air Asia,BLR,87.6
+2023-07,Air Asia,DEL,87.3
+2023-07,Air Asia,BOM,42.5
+2023-07,Akasa Air,BLR,87.2
+2023-07,Akasa Air,HYD,86.5
+2023-07,Akasa Air,DEL,75.8
+2023-07,Akasa Air,BOM,74.4
+2023-08,Air India,BLR,86.3
+2023-08,Air India,DEL,86.3
+2023-08,Air India,HYD,82.9
+2023-08,Air India,BOM,72.3
+2023-08,Alliance Air,BLR,79.0
+2023-08,Alliance Air,HYD,78.1
+2023-08,Alliance Air,DEL,65.2
+2023-08,Alliance Air,BOM,53.2
+2023-08,Spicejet,HYD,93.1
+2023-08,Spicejet,BLR,86.9
+2023-08,Spicejet,DEL,77.5
+2023-08,Spicejet,BOM,68.5
+2023-08,IndiGo,BLR,93.1
+2023-08,IndiGo,DEL,92.0
+2023-08,IndiGo,HYD,91.4
+2023-08,IndiGo,BOM,78.7
+2023-08,Vistara,BLR,91.6
+2023-08,Vistara,DEL,88.2
+2023-08,Vistara,HYD,82.5
+2023-08,Vistara,BOM,73.8
+2023-08,Air Asia,DEL,92.9
+2023-08,Air Asia,HYD,92.2
+2023-08,Air Asia,BLR,91.4
+2023-08,Air Asia,BOM,45.5
+2023-08,Akasa Air,HYD,89.3
+2023-08,Akasa Air,DEL,88.6
+2023-08,Akasa Air,BLR,85.2
+2023-08,Akasa Air,BOM,74.2
+2023-09,Air India,DEL,80.2
+2023-09,Air India,HYD,79.9
+2023-09,Air India,BLR,78.0
+2023-09,Air India,BOM,64.8
+2023-09,Alliance Air,DEL,74.8
+2023-09,Alliance Air,BLR,73.4
+2023-09,Alliance Air,HYD,64.1
+2023-09,Alliance Air,BOM,42.3
+2023-09,Spicejet,HYD,86.8
+2023-09,Spicejet,BLR,82.0
+2023-09,Spicejet,DEL,66.2
+2023-09,Spicejet,BOM,53.2
+2023-09,IndiGo,BLR,92.1
+2023-09,IndiGo,HYD,89.7
+2023-09,IndiGo,DEL,80.1
+2023-09,IndiGo,BOM,73.7
+2023-09,Vistara,BLR,84.0
+2023-09,Vistara,DEL,77.6
+2023-09,Vistara,HYD,75.9
+2023-09,Vistara,BOM,66.4
+2023-09,Air Asia,HYD,94.1
+2023-09,Air Asia,BLR,90.4
+2023-09,Air Asia,DEL,77.4
+2023-09,Air Asia,BOM,44.4
+2023-09,Akasa Air,BLR,88.7
+2023-09,Akasa Air,DEL,72.7
+2023-09,Akasa Air,BOM,65.2
+2023-09,Akasa Air,HYD,54.9
+2023-10,Air India,DEL,82.2
+2023-10,Air India,BLR,80.5
+2023-10,Air India,HYD,76.3
+2023-10,Air India,BOM,70.2
+2023-10,Alliance Air,DEL,77.0
+2023-10,Alliance Air,BOM,71.6
+2023-10,Alliance Air,BLR,68.2
+2023-10,Alliance Air,HYD,66.9
+2023-10,Spicejet,BLR,67.0
+2023-10,Spicejet,HYD,65.9
+2023-10,Spicejet,DEL,55.5
+2023-10,Spicejet,BOM,52.0
+2023-10,IndiGo,BLR,92.4
+2023-10,IndiGo,HYD,92.3
+2023-10,IndiGo,DEL,90.7
+2023-10,IndiGo,BOM,77.7
+2023-10,Vistara,BLR,88.6
+2023-10,Vistara,DEL,86.3
+2023-10,Vistara,HYD,85.6
+2023-10,Vistara,BOM,71.8
+2023-10,Air Asia,BLR,87.9
+2023-10,Air Asia,HYD,86.1
+2023-10,Air Asia,DEL,83.1
+2023-10,Air Asia,BOM,60.0
+2023-10,Akasa Air,BLR,92.6
+2023-10,Akasa Air,DEL,83.2
+2023-10,Akasa Air,BOM,77.9
+2023-10,Akasa Air,HYD,76.6
+2023-11,Air India,BLR,69.2
+2023-11,Air India,HYD,68.2
+2023-11,Air India,DEL,66.6
+2023-11,Air India,BOM,53.2
+2023-11,Alliance Air,BLR,73.6
+2023-11,Alliance Air,DEL,69.3
+2023-11,Alliance Air,HYD,65.6
+2023-11,Alliance Air,BOM,42.7
+2023-11,Spicejet,HYD,52.1
+2023-11,Spicejet,BLR,47.5
+2023-11,Spicejet,DEL,41.0
+2023-11,Spicejet,BOM,32.3
+2023-11,IndiGo,BLR,89.6
+2023-11,IndiGo,HYD,83.7
+2023-11,IndiGo,DEL,81.6
+2023-11,IndiGo,BOM,53.1
+2023-11,Vistara,DEL,82.2
+2023-11,Vistara,BLR,80.1
+2023-11,Vistara,HYD,74.4
+2023-11,Vistara,BOM,58.0
+2023-11,AIX Connect,HYD,77.7
+2023-11,AIX Connect,BLR,76.3
+2023-11,AIX Connect,DEL,69.0
+2023-11,AIX Connect,BOM,36.3
+2023-11,Akasa Air,BLR,91.3
+2023-11,Akasa Air,HYD,79.3
+2023-11,Akasa Air,DEL,75.7
+2023-11,Akasa Air,BOM,67.1
+2023-12,Air India,BLR,57.4
+2023-12,Air India,HYD,56.5
+2023-12,Air India,DEL,55.2
+2023-12,Air India,BOM,45.8
+2023-12,Alliance Air,BLR,71.6
+2023-12,Alliance Air,HYD,50.0
+2023-12,Alliance Air,BOM,42.5
+2023-12,Alliance Air,DEL,37.0
+2023-12,Spicejet,HYD,36.9
+2023-12,Spicejet,DEL,31.4
+2023-12,Spicejet,BLR,26.0
+2023-12,Spicejet,BOM,24.6
+2023-12,IndiGo,BLR,78.5
+2023-12,IndiGo,DEL,74.5
+2023-12,IndiGo,HYD,71.9
+2023-12,IndiGo,BOM,44.0
+2023-12,Vistara,HYD,76.9
+2023-12,Vistara,BLR,75.8
+2023-12,Vistara,DEL,75.7
+2023-12,Vistara,BOM,61.1
+2023-12,AIX Connect,HYD,73.3
+2023-12,AIX Connect,BLR,71.6
+2023-12,AIX Connect,DEL,64.4
+2023-12,AIX Connect,BOM,39.9
+2023-12,Akasa Air,BLR,83.9
+2023-12,Akasa Air,HYD,80.2
+2023-12,Akasa Air,DEL,67.1
+2023-12,Akasa Air,BOM,63.2
+2024-01,Air India,BLR,50.6
+2024-01,Air India,DEL,50.1
+2024-01,Air India,HYD,49.6
+2024-01,Air India,BOM,42.6
+2024-01,Alliance Air,BLR,73.7
+2024-01,Alliance Air,HYD,61.7
+2024-01,Alliance Air,BOM,50.9
+2024-01,Alliance Air,DEL,25.4
+2024-01,Spicejet,HYD,60.1
+2024-01,Spicejet,BLR,36.4
+2024-01,Spicejet,BOM,36.1
+2024-01,Spicejet,DEL,32.6
+2024-01,IndiGo,BLR,68.2
+2024-01,IndiGo,HYD,67.4
+2024-01,IndiGo,DEL,64.1
+2024-01,IndiGo,BOM,40.9
+2024-01,Vistara,HYD,77.9
+2024-01,Vistara,BLR,72.9
+2024-01,Vistara,DEL,68.8
+2024-01,Vistara,BOM,62.2
+2024-01,AIX Connect,HYD,65.7
+2024-01,AIX Connect,BLR,62.5
+2024-01,AIX Connect,DEL,60.9
+2024-01,AIX Connect,BOM,40.2
+2024-01,Akasa Air,HYD,79.3
+2024-01,Akasa Air,BLR,78.7
+2024-01,Akasa Air,BOM,67.6
+2024-01,Akasa Air,DEL,61.3
+2024-02,Air India,BLR,62.8
+2024-02,Air India,DEL,62.5
+2024-02,Air India,HYD,57.5
+2024-02,Air India,BOM,45.1
+2024-02,Alliance Air,HYD,65.6
+2024-02,Alliance Air,BLR,55.6
+2024-02,Alliance Air,BOM,38.3
+2024-02,Alliance Air,DEL,35.4
+2024-02,Spicejet,HYD,78.9
+2024-02,Spicejet,BLR,67.9
+2024-02,Spicejet,BOM,55.6
+2024-02,Spicejet,DEL,53.7
+2024-02,IndiGo,BLR,81.3
+2024-02,IndiGo,HYD,79.9
+2024-02,IndiGo,DEL,78.0
+2024-02,IndiGo,BOM,50.1
+2024-02,Vistara,HYD,78.5
+2024-02,Vistara,BLR,75.1
+2024-02,Vistara,DEL,72.5
+2024-02,Vistara,BOM,54.9
+2024-02,AIX Connect,HYD,87.0
+2024-02,AIX Connect,BLR,79.5
+2024-02,AIX Connect,DEL,72.1
+2024-02,AIX Connect,BOM,41.0
+2024-02,Akasa Air,HYD,89.8
+2024-02,Akasa Air,BLR,83.4
+2024-02,Akasa Air,DEL,66.4
+2024-02,Akasa Air,BOM,62.7
+2024-03,Air India,DEL,77.2
+2024-03,Air India,BLR,76.6
+2024-03,Air India,HYD,67.0
+2024-03,Air India,BOM,64.8
+2024-03,Alliance Air,DEL,57.9
+2024-03,Alliance Air,BLR,46.1
+2024-03,Alliance Air,BOM,41.2
+2024-03,Alliance Air,HYD,39.9
+2024-03,Spicejet,HYD,88.6
+2024-03,Spicejet,BLR,71.0
+2024-03,Spicejet,DEL,59.6
+2024-03,Spicejet,BOM,54.2
+2024-03,IndiGo,BLR,86.7
+2024-03,IndiGo,DEL,85.9
+2024-03,IndiGo,HYD,85.2
+2024-03,IndiGo,BOM,64.8
+2024-03,Vistara,HYD,82.4
+2024-03,Vistara,DEL,81.2
+2024-03,Vistara,BLR,75.8
+2024-03,Vistara,BOM,69.3
+2024-03,AIX Connect,HYD,88.8
+2024-03,AIX Connect,BLR,88.7
+2024-03,AIX Connect,DEL,82.2
+2024-03,AIX Connect,BOM,55.6
+2024-03,Akasa Air,BLR,92.9
+2024-03,Akasa Air,DEL,81.5
+2024-03,Akasa Air,HYD,80.8
+2024-03,Akasa Air,BOM,78.0
+2024-04,Air India,DEL,77.8
+2024-04,Air India,BOM,72.7
+2024-04,Air India,HYD,64.6
+2024-04,Air India,BLR,64.0
+2024-04,Alliance Air,BOM,53.5
+2024-04,Alliance Air,DEL,53.3
+2024-04,Alliance Air,BLR,45.2
+2024-04,Alliance Air,HYD,43.9
+2024-04,Spicejet,HYD,72.7
+2024-04,Spicejet,DEL,63.8
+2024-04,Spicejet,BLR,63.3
+2024-04,Spicejet,BOM,59.2
+2024-04,IndiGo,BLR,80.4
+2024-04,IndiGo,DEL,80.3
+2024-04,IndiGo,HYD,74.1
+2024-04,IndiGo,BOM,67.0
+2024-04,Vistara,DEL,83.2
+2024-04,Vistara,HYD,77.4
+2024-04,Vistara,BOM,72.3
+2024-04,Vistara,BLR,66.3
+2024-04,AIX Connect,HYD,85.3
+2024-04,AIX Connect,DEL,80.1
+2024-04,AIX Connect,BLR,79.7
+2024-04,AIX Connect,BOM,72.5
+2024-04,Akasa Air,BLR,96.4
+2024-04,Akasa Air,DEL,90.1
+2024-04,Akasa Air,HYD,85.2
+2024-04,Akasa Air,BOM,82.5
+2024-05,Air India,BOM,72.4
+2024-05,Air India,BLR,69.4
+2024-05,Air India,DEL,67.1
+2024-05,Air India,HYD,62.0
+2024-05,Alliance Air,BOM,63.4
+2024-05,Alliance Air,DEL,62.5
+2024-05,Alliance Air,HYD,58.2
+2024-05,Alliance Air,BLR,44.5
+2024-05,Spicejet,HYD,78.0
+2024-05,Spicejet,BLR,61.8
+2024-05,Spicejet,DEL,60.0
+2024-05,Spicejet,BOM,50.9
+2024-05,IndiGo,HYD,74.5
+2024-05,IndiGo,BLR,73.1
+2024-05,IndiGo,DEL,72.6
+2024-05,IndiGo,BOM,71.0
+2024-05,Vistara,HYD,85.8
+2024-05,Vistara,BOM,82.9
+2024-05,Vistara,DEL,81.5
+2024-05,Vistara,BLR,79.4
+2024-05,AIX Connect,HYD,77.1
+2024-05,AIX Connect,BLR,76.0
+2024-05,AIX Connect,DEL,75.6
+2024-05,AIX Connect,BOM,67.3
+2024-05,Akasa Air,BLR,90.6
+2024-05,Akasa Air,HYD,88.7
+2024-05,Akasa Air,DEL,83.3
+2024-05,Akasa Air,BOM,82.0
+2024-06,Air India,BOM,70.7
+2024-06,Air India,BLR,61.2
+2024-06,Air India,DEL,56.0
+2024-06,Air India,HYD,53.1
+2024-06,Alliance Air,BOM,76.1
+2024-06,Alliance Air,HYD,69.8
+2024-06,Alliance Air,BLR,58.8
+2024-06,Alliance Air,DEL,49.5
+2024-06,Spicejet,HYD,60.3
+2024-06,Spicejet,BLR,45.9
+2024-06,Spicejet,DEL,44.9
+2024-06,Spicejet,BOM,42.9
+2024-06,IndiGo,HYD,83.5
+2024-06,IndiGo,BLR,76.3
+2024-06,IndiGo,DEL,72.6
+2024-06,IndiGo,BOM,71.2
+2024-06,Vistara,BOM,79.8
+2024-06,Vistara,DEL,79.3
+2024-06,Vistara,HYD,78.3
+2024-06,Vistara,BLR,77.5
+2024-06,AIX Connect,BLR,83.0
+2024-06,AIX Connect,HYD,83.0
+2024-06,AIX Connect,BOM,74.2
+2024-06,AIX Connect,DEL,71.6
+2024-06,Akasa Air,HYD,89.2
+2024-06,Akasa Air,BLR,84.5
+2024-06,Akasa Air,DEL,79.1
+2024-06,Akasa Air,BOM,72.8
+2024-07,Air India,BLR,67.7
+2024-07,Air India,HYD,59.4
+2024-07,Air India,DEL,56.7
+2024-07,Air India,BOM,52.6
+2024-07,Alliance Air,BOM,59.1
+2024-07,Alliance Air,HYD,57.4
+2024-07,Alliance Air,BLR,56.4
+2024-07,Alliance Air,DEL,45.4
+2024-07,Spicejet,HYD,61.6
+2024-07,Spicejet,BLR,54.5
+2024-07,Spicejet,DEL,22.9
+2024-07,Spicejet,BOM,21.6
+2024-07,IndiGo,HYD,76.4
+2024-07,IndiGo,BLR,72.3
+2024-07,IndiGo,DEL,57.1
+2024-07,IndiGo,BOM,43.2
+2024-07,Vistara,HYD,70.9
+2024-07,Vistara,BLR,70.5
+2024-07,Vistara,DEL,69.5
+2024-07,Vistara,BOM,53.3
+2024-07,AIX Connect,BLR,80.9
+2024-07,AIX Connect,HYD,79.4
+2024-07,AIX Connect,DEL,65.1
+2024-07,AIX Connect,BOM,34.3
+2024-07,Akasa Air,BLR,82.5
+2024-07,Akasa Air,HYD,73.5
+2024-07,Akasa Air,DEL,63.4
+2024-07,Akasa Air,BOM,45.2
+2024-08,Air India,BLR,74.7
+2024-08,Air India,HYD,66.4
+2024-08,Air India,BOM,65.1
+2024-08,Air India,DEL,63.7
+2024-08,Alliance Air,HYD,66.5
+2024-08,Alliance Air,BOM,57.8
+2024-08,Alliance Air,DEL,52.1
+2024-08,Alliance Air,BLR,49.1
+2024-08,Spicejet,BLR,41.5
+2024-08,Spicejet,DEL,31.0
+2024-08,Spicejet,HYD,30.3
+2024-08,Spicejet,BOM,28.9
+2024-08,IndiGo,HYD,78.4
+2024-08,IndiGo,BLR,69.4
+2024-08,IndiGo,DEL,63.3
+2024-08,IndiGo,BOM,54.2
+2024-08,Vistara,HYD,76.0
+2024-08,Vistara,BLR,70.2
+2024-08,Vistara,DEL,68.9
+2024-08,Vistara,BOM,65.5
+2024-08,AIX Connect,BLR,72.3
+2024-08,AIX Connect,HYD,71.6
+2024-08,AIX Connect,DEL,62.7
+2024-08,AIX Connect,BOM,51.6
+2024-08,Akasa Air,HYD,82.4
+2024-08,Akasa Air,BLR,81.9
+2024-08,Akasa Air,DEL,72.4
+2024-08,Akasa Air,BOM,58.7
+2024-09,Air India,HYD,70.6
+2024-09,Air India,BLR,69.4
+2024-09,Air India,DEL,68.6
+2024-09,Air India,BOM,65.6
+2024-09,Alliance Air,BLR,62.9
+2024-09,Alliance Air,BOM,61.5
+2024-09,Alliance Air,HYD,55.6
+2024-09,Alliance Air,DEL,45.8
+2024-09,Spicejet,HYD,37.9
+2024-09,Spicejet,DEL,32.7
+2024-09,Spicejet,BLR,27.7
+2024-09,Spicejet,BOM,17.5
+2024-09,IndiGo,HYD,79.5
+2024-09,IndiGo,BLR,73.5
+2024-09,IndiGo,DEL,68.1
+2024-09,IndiGo,BOM,55.3
+2024-09,Vistara,HYD,73.9
+2024-09,Vistara,DEL,73.1
+2024-09,Vistara,BLR,65.2
+2024-09,Vistara,BOM,64.9
+2024-09,AIX Connect,HYD,78.7
+2024-09,AIX Connect,BLR,74.2
+2024-09,AIX Connect,DEL,70.3
+2024-09,AIX Connect,BOM,46.9
+2024-09,Akasa Air,HYD,76.7
+2024-09,Akasa Air,BLR,71.5
+2024-09,Akasa Air,DEL,64.1
+2024-09,Akasa Air,BOM,49.6
+2024-10,Air India,DEL,73.6
+2024-10,Air India,HYD,62.4
+2024-10,Air India,BLR,61.1
+2024-10,Air India,BOM,60.5
+2024-10,Alliance Air,BLR,62.7
+2024-10,Alliance Air,DEL,59.9
+2024-10,Alliance Air,BOM,44.0
+2024-10,Alliance Air,HYD,40.2
+2024-10,Spicejet,HYD,70.8
+2024-10,Spicejet,DEL,67.3
+2024-10,Spicejet,BLR,59.5
+2024-10,Spicejet,BOM,49.8
+2024-10,IndiGo,HYD,77.7
+2024-10,IndiGo,DEL,77.5
+2024-10,IndiGo,BLR,73.6
+2024-10,IndiGo,BOM,55.4
+2024-10,Vistara,DEL,79.1
+2024-10,Vistara,HYD,72.6
+2024-10,Vistara,BLR,68.0
+2024-10,Vistara,BOM,62.2
+2024-10,Akasa Air,HYD,75.9
+2024-10,Akasa Air,BLR,74.6
+2024-10,Akasa Air,DEL,71.7
+2024-10,Akasa Air,BOM,55.1
+2024-11,Air India,BLR,59.8
+2024-11,Air India,DEL,59.7
+2024-11,Air India,HYD,58.6
+2024-11,Air India,BOM,56.6
+2024-11,Alliance Air,BLR,74.8
+2024-11,Alliance Air,DEL,58.6
+2024-11,Alliance Air,HYD,56.6
+2024-11,Alliance Air,BOM,42.9
+2024-11,Spicejet,HYD,84.2
+2024-11,Spicejet,BLR,75.8
+2024-11,Spicejet,DEL,65.3
+2024-11,Spicejet,BOM,38.3
+2024-11,IndiGo,HYD,82.4
+2024-11,IndiGo,BLR,77.3
+2024-11,IndiGo,DEL,75.2
+2024-11,IndiGo,BOM,62.1
+2024-11,Vistara*,HYD,86.7
+2024-11,Vistara*,DEL,83.9
+2024-11,Vistara*,BOM,78.5
+2024-11,Vistara*,BLR,67.1
+2024-11,Akasa Air,HYD,83.8
+2024-11,Akasa Air,BLR,69.9
+2024-11,Akasa Air,DEL,69.2
+2024-11,Akasa Air,BOM,58.6
+2024-12,Air India*,DEL,70.1
+2024-12,Air India*,HYD,68.8
+2024-12,Air India*,BLR,66.9
+2024-12,Air India*,BOM,63.4
+2024-12,Alliance Air,BLR,66.4
+2024-12,Alliance Air,DEL,59.1
+2024-12,Alliance Air,HYD,49.5
+2024-12,Alliance Air,BOM,38.6
+2024-12,Spicejet,HYD,79.7
+2024-12,Spicejet,DEL,64.9
+2024-12,Spicejet,BLR,64.3
+2024-12,Spicejet,BOM,44.3
+2024-12,IndiGo,DEL,78.1
+2024-12,IndiGo,BLR,76.4
+2024-12,IndiGo,HYD,76.0
+2024-12,IndiGo,BOM,60.4
+2024-12,Akasa Air,DEL,71.7
+2024-12,Akasa Air,BLR,70.8
+2024-12,Akasa Air,HYD,67.0
+2024-12,Akasa Air,BOM,48.7
+2025-01,Air India Group,HYD,74.3
+2025-01,Air India Group,CCU,72.0
+2025-01,Air India Group,BOM,71.0
+2025-01,Air India Group,MAA,70.4
+2025-01,Air India Group,BLR,69.3
+2025-01,Air India Group,DEL,67.6
+2025-01,Alliance Air,MAA,90.9
+2025-01,Alliance Air,HYD,76.0
+2025-01,Alliance Air,BLR,65.0
+2025-01,Alliance Air,DEL,57.9
+2025-01,Alliance Air,CCU,48.1
+2025-01,Alliance Air,BOM,31.8
+2025-01,Spicejet,HYD,80.0
+2025-01,Spicejet,MAA,61.7
+2025-01,Spicejet,BLR,55.4
+2025-01,Spicejet,BOM,52.6
+2025-01,Spicejet,DEL,51.8
+2025-01,Spicejet,CCU,44.3
+2025-01,IndiGo,HYD,79.1
+2025-01,IndiGo,MAA,78.0
+2025-01,IndiGo,BLR,76.0
+2025-01,IndiGo,CCU,75.9
+2025-01,IndiGo,DEL,74.2
+2025-01,IndiGo,BOM,69.9
+2025-01,Akasa Air,BLR,77.4
+2025-01,Akasa Air,DEL,75.7
+2025-01,Akasa Air,HYD,74.5
+2025-01,Akasa Air,CCU,69.6
+2025-01,Akasa Air,BOM,64.2
+2025-01,Akasa Air,MAA,64.1
+2025-02,Air India Group,BOM,77.2
+2025-02,Air India Group,BLR,74.7
+2025-02,Air India Group,HYD,73.8
+2025-02,Air India Group,MAA,72.2
+2025-02,Air India Group,CCU,71.5
+2025-02,Air India Group,DEL,71.2
+2025-02,Alliance Air,MAA,100.0
+2025-02,Alliance Air,DEL,59.1
+2025-02,Alliance Air,HYD,55.1
+2025-02,Alliance Air,CCU,53.9
+2025-02,Alliance Air,BLR,53.8
+2025-02,Alliance Air,BOM,26.8
+2025-02,Spicejet,HYD,75.2
+2025-02,Spicejet,BLR,71.3
+2025-02,Spicejet,DEL,58.8
+2025-02,Spicejet,MAA,54.1
+2025-02,Spicejet,BOM,51.4
+2025-02,Spicejet,CCU,51.3
+2025-02,IndiGo,CCU,86.3
+2025-02,IndiGo,DEL,82.1
+2025-02,IndiGo,BOM,79.1
+2025-02,IndiGo,HYD,78.7
+2025-02,IndiGo,BLR,78.5
+2025-02,IndiGo,MAA,77.4
+2025-02,Akasa Air,HYD,89.4
+2025-02,Akasa Air,MAA,87.7
+2025-02,Akasa Air,BLR,84.6
+2025-02,Akasa Air,DEL,78.9
+2025-02,Akasa Air,CCU,72.9
+2025-02,Akasa Air,BOM,72.3
+2025-03,Air India Group,BOM,83.7
+2025-03,Air India Group,DEL,83.3
+2025-03,Air India Group,MAA,82.1
+2025-03,Air India Group,CCU,81.5
+2025-03,Air India Group,HYD,79.6
+2025-03,Air India Group,BLR,78.6
+2025-03,Alliance Air,MAA,90.0
+2025-03,Alliance Air,DEL,72.6
+2025-03,Alliance Air,BLR,72.6
+2025-03,Alliance Air,HYD,61.9
+2025-03,Alliance Air,CCU,51.8
+2025-03,Alliance Air,BOM,42.6
+2025-03,Spicejet,MAA,78.0
+2025-03,Spicejet,BLR,76.8
+2025-03,Spicejet,CCU,76.7
+2025-03,Spicejet,DEL,72.3
+2025-03,Spicejet,HYD,67.5
+2025-03,Spicejet,BOM,67.1
+2025-03,IndiGo,CCU,92.7
+2025-03,IndiGo,DEL,90.9
+2025-03,IndiGo,HYD,88.2
+2025-03,IndiGo,MAA,87.9
+2025-03,IndiGo,BLR,85.8
+2025-03,IndiGo,BOM,83.6
+2025-03,Akasa Air,MAA,95.2
+2025-03,Akasa Air,HYD,90.7
+2025-03,Akasa Air,DEL,89.7
+2025-03,Akasa Air,CCU,89.1
+2025-03,Akasa Air,BLR,86.7
+2025-03,Akasa Air,BOM,83.6
+2025-04,Air India Group,BLR,80.8
+2025-04,Air India Group,CCU,77.2
+2025-04,Air India Group,MAA,77.2
+2025-04,Air India Group,HYD,75.8
+2025-04,Air India Group,BOM,75.5
+2025-04,Air India Group,DEL,68.8
+2025-04,Alliance Air,DEL,77.8
+2025-04,Alliance Air,BOM,57.5
+2025-04,Alliance Air,CCU,54.8
+2025-04,Alliance Air,HYD,50.0
+2025-04,Alliance Air,BLR,41.7
+2025-04,Alliance Air,MAA,28.6
+2025-04,Spicejet,HYD,91.9
+2025-04,Spicejet,MAA,91.0
+2025-04,Spicejet,CCU,68.5
+2025-04,Spicejet,BOM,58.4
+2025-04,Spicejet,BLR,55.4
+2025-04,Spicejet,DEL,54.2
+2025-04,IndiGo,MAA,89.4
+2025-04,IndiGo,CCU,87.9
+2025-04,IndiGo,BLR,83.1
+2025-04,IndiGo,HYD,82.4
+2025-04,IndiGo,BOM,80.6
+2025-04,IndiGo,DEL,65.6
+2025-04,Akasa Air,BLR,85.4
+2025-04,Akasa Air,HYD,82.5
+2025-04,Akasa Air,MAA,81.7
+2025-04,Akasa Air,BOM,79.7
+2025-04,Akasa Air,CCU,78.8
+2025-04,Akasa Air,DEL,59.9
+2025-05,Air India Group,BLR,86.5
+2025-05,Air India Group,CCU,83.8
+2025-05,Air India Group,HYD,79.7
+2025-05,Air India Group,MAA,79.0
+2025-05,Air India Group,BOM,78.5
+2025-05,Air India Group,DEL,76.7
+2025-05,Alliance Air,BOM,63.2
+2025-05,Alliance Air,DEL,61.1
+2025-05,Alliance Air,CCU,57.0
+2025-05,Alliance Air,HYD,43.9
+2025-05,Alliance Air,MAA,41.2
+2025-05,Alliance Air,BLR,38.1
+2025-05,Spicejet,MAA,75.4
+2025-05,Spicejet,CCU,65.4
+2025-05,Spicejet,HYD,55.8
+2025-05,Spicejet,BOM,51.7
+2025-05,Spicejet,DEL,45.5
+2025-05,Spicejet,BLR,39.5
+2025-05,IndiGo,CCU,91.6
+2025-05,IndiGo,MAA,90.0
+2025-05,IndiGo,BLR,85.7
+2025-05,IndiGo,HYD,82.5
+2025-05,IndiGo,DEL,81.1
+2025-05,IndiGo,BOM,77.5
+2025-05,Akasa Air,MAA,93.5
+2025-05,Akasa Air,HYD,82.7
+2025-05,Akasa Air,BLR,82.1
+2025-05,Akasa Air,BOM,78.8
+2025-05,Akasa Air,DEL,75.8
+2025-05,Akasa Air,CCU,71.6
+2025-06,Air India Group,BLR,87.5
+2025-06,Air India Group,HYD,80.0
+2025-06,Air India Group,CCU,78.5
+2025-06,Air India Group,MAA,77.6
+2025-06,Air India Group,BOM,75.2
+2025-06,Air India Group,DEL,70.7
+2025-06,Alliance Air,BLR,62.4
+2025-06,Alliance Air,HYD,61.3
+2025-06,Alliance Air,BOM,60.0
+2025-06,Alliance Air,DEL,57.3
+2025-06,Alliance Air,CCU,53.1
+2025-06,Alliance Air,MAA,50.0
+2025-06,Spicejet,CCU,79.5
+2025-06,Spicejet,HYD,68.3
+2025-06,Spicejet,DEL,56.0
+2025-06,Spicejet,BOM,50.9
+2025-06,Spicejet,MAA,46.2
+2025-06,Spicejet,BLR,35.5
+2025-06,IndiGo,CCU,93.3
+2025-06,IndiGo,BLR,89.6
+2025-06,IndiGo,MAA,88.4
+2025-06,IndiGo,DEL,85.7
+2025-06,IndiGo,HYD,83.9
+2025-06,IndiGo,BOM,79.6
+2025-06,Akasa Air,HYD,91.7
+2025-06,Akasa Air,MAA,91.5
+2025-06,Akasa Air,BLR,88.3
+2025-06,Akasa Air,DEL,82.3
+2025-06,Akasa Air,BOM,80.0
+2025-06,Akasa Air,CCU,72.1
+2025-07,Air India Group,BLR,91.6
+2025-07,Air India Group,HYD,85.2
+2025-07,Air India Group,BOM,82.0
+2025-07,Air India Group,MAA,81.7
+2025-07,Air India Group,DEL,79.2
+2025-07,Air India Group,CCU,78.5
+2025-07,Alliance Air,DEL,65.5
+2025-07,Alliance Air,HYD,59.0
+2025-07,Alliance Air,MAA,57.1
+2025-07,Alliance Air,CCU,53.1
+2025-07,Alliance Air,BLR,45.3
+2025-07,Alliance Air,BOM,20.9
+2025-07,Spicejet,CCU,79.5
+2025-07,Spicejet,HYD,74.0
+2025-07,Spicejet,MAA,66.4
+2025-07,Spicejet,DEL,64.1
+2025-07,Spicejet,BLR,63.6
+2025-07,Spicejet,BOM,47.3
+2025-07,IndiGo,BLR,95.7
+2025-07,IndiGo,MAA,93.9
+2025-07,IndiGo,CCU,93.3
+2025-07,IndiGo,HYD,91.0
+2025-07,IndiGo,DEL,91.0
+2025-07,IndiGo,BOM,84.7
+2025-07,Akasa Air,BLR,93.6
+2025-07,Akasa Air,MAA,88.2
+2025-07,Akasa Air,DEL,83.8
+2025-07,Akasa Air,BOM,82.7
+2025-07,Akasa Air,HYD,82.3
+2025-07,Akasa Air,CCU,72.1
+2025-08,Air India Group,BLR,92.2
+2025-08,Air India Group,CCU,87.7
+2025-08,Air India Group,HYD,85.1
+2025-08,Air India Group,MAA,82.9
+2025-08,Air India Group,BOM,82.1
+2025-08,Air India Group,DEL,82.0
+2025-08,Alliance Air,MAA,63.6
+2025-08,Alliance Air,DEL,63.0
+2025-08,Alliance Air,HYD,61.0
+2025-08,Alliance Air,CCU,57.1
+2025-08,Alliance Air,BLR,46.8
+2025-08,Alliance Air,BOM,26.9
+2025-08,Spicejet,HYD,77.0
+2025-08,Spicejet,CCU,74.8
+2025-08,Spicejet,MAA,71.5
+2025-08,Spicejet,DEL,70.0
+2025-08,Spicejet,BLR,69.4
+2025-08,Spicejet,BOM,52.1
+2025-08,IndiGo,MAA,96.1
+2025-08,IndiGo,CCU,95.8
+2025-08,IndiGo,BLR,94.2
+2025-08,IndiGo,HYD,90.6
+2025-08,IndiGo,DEL,89.2
+2025-08,IndiGo,BOM,81.0
+2025-08,Akasa Air,BLR,92.5
+2025-08,Akasa Air,HYD,90.2
+2025-08,Akasa Air,CCU,88.9
+2025-08,Akasa Air,DEL,84.0
+2025-08,Akasa Air,BOM,82.9
+2025-08,Akasa Air,MAA,80.6
+2025-09,Air India Group,HYD,88.7
+2025-09,Air India Group,BLR,86.6
+2025-09,Air India Group,MAA,82.8
+2025-09,Air India Group,CCU,79.0
+2025-09,Air India Group,DEL,76.7
+2025-09,Air India Group,BOM,74.4
+2025-09,Alliance Air,MAA,84.6
+2025-09,Alliance Air,HYD,74.3
+2025-09,Alliance Air,CCU,72.1
+2025-09,Alliance Air,BLR,65.4
+2025-09,Alliance Air,DEL,53.7
+2025-09,Alliance Air,BOM,14.6
+2025-09,Spicejet,MAA,87.1
+2025-09,Spicejet,HYD,87.0
+2025-09,Spicejet,CCU,73.3
+2025-09,Spicejet,BLR,61.1
+2025-09,Spicejet,DEL,60.5
+2025-09,Spicejet,BOM,48.2
+2025-09,IndiGo,MAA,94.3
+2025-09,IndiGo,CCU,91.1
+2025-09,IndiGo,BLR,90.8
+2025-09,IndiGo,HYD,90.1
+2025-09,IndiGo,DEL,85.4
+2025-09,IndiGo,BOM,75.9
+2025-09,Akasa Air,BLR,91.1
+2025-09,Akasa Air,HYD,88.5
+2025-09,Akasa Air,CCU,83.1
+2025-09,Akasa Air,DEL,81.5
+2025-09,Akasa Air,BOM,80.8
+2025-09,Akasa Air,MAA,80.0
+2025-10,Air India Group,HYD,86.8
+2025-10,Air India Group,MAA,84.9
+2025-10,Air India Group,BLR,83.1
+2025-10,Air India Group,CCU,82.1
+2025-10,Air India Group,DEL,78.9
+2025-10,Air India Group,BOM,71.4
+2025-10,Alliance Air,CCU,67.1
+2025-10,Alliance Air,DEL,65.5
+2025-10,Alliance Air,BLR,63.3
+2025-10,Alliance Air,MAA,61.1
+2025-10,Alliance Air,HYD,58.4
+2025-10,Alliance Air,BOM,42.1
+2025-10,Spicejet,MAA,69.8
+2025-10,Spicejet,HYD,62.7
+2025-10,Spicejet,DEL,57.8
+2025-10,Spicejet,BLR,50.0
+2025-10,Spicejet,CCU,45.6
+2025-10,Spicejet,BOM,44.8
+2025-10,IndiGo,MAA,94.0
+2025-10,IndiGo,CCU,91.5
+2025-10,IndiGo,BLR,87.9
+2025-10,IndiGo,HYD,84.3
+2025-10,IndiGo,DEL,81.2
+2025-10,IndiGo,BOM,70.7
+2025-10,Akasa Air,HYD,91.8
+2025-10,Akasa Air,MAA,87.9
+2025-10,Akasa Air,BLR,83.3
+2025-10,Akasa Air,CCU,78.6
+2025-10,Akasa Air,BOM,76.4
+2025-10,Akasa Air,DEL,74.4
+2025-11,Air India Group,MAA,80.9
+2025-11,Air India Group,HYD,79.9
+2025-11,Air India Group,BLR,78.5
+2025-11,Air India Group,CCU,73.8
+2025-11,Air India Group,DEL,66.8
+2025-11,Air India Group,BOM,58.0
+2025-11,Alliance Air,MAA,88.2
+2025-11,Alliance Air,HYD,85.2
+2025-11,Alliance Air,DEL,74.7
+2025-11,Alliance Air,BLR,52.3
+2025-11,Alliance Air,CCU,47.2
+2025-11,Alliance Air,BOM,22.5
+2025-11,Spicejet,MAA,60.2
+2025-11,Spicejet,BLR,57.6
+2025-11,Spicejet,HYD,56.9
+2025-11,Spicejet,CCU,56.3
+2025-11,Spicejet,DEL,52.6
+2025-11,Spicejet,BOM,27.8
+2025-11,IndiGo,MAA,89.5
+2025-11,IndiGo,BLR,79.0
+2025-11,IndiGo,CCU,76.8
+2025-11,IndiGo,HYD,75.0
+2025-11,IndiGo,DEL,58.3
+2025-11,IndiGo,BOM,43.4
+2025-11,Akasa Air,BLR,83.1
+2025-11,Akasa Air,MAA,76.6
+2025-11,Akasa Air,BOM,70.9
+2025-11,Akasa Air,CCU,70.8
+2025-11,Akasa Air,DEL,64.2
+2025-11,Akasa Air,HYD,63.3
+2025-12,Air India Group,MAA,78.0
+2025-12,Air India Group,HYD,77.1
+2025-12,Air India Group,CCU,70.8
+2025-12,Air India Group,BLR,70.3
+2025-12,Air India Group,DEL,65.4
+2025-12,Air India Group,BOM,57.7
+2025-12,Alliance Air,HYD,87.2
+2025-12,Alliance Air,BLR,82.4
+2025-12,Alliance Air,MAA,75.0
+2025-12,Alliance Air,DEL,55.9
+2025-12,Alliance Air,CCU,40.6
+2025-12,Alliance Air,BOM,38.1
+2025-12,Spicejet,HYD,58.3
+2025-12,Spicejet,MAA,54.0
+2025-12,Spicejet,BLR,52.0
+2025-12,Spicejet,CCU,50.9
+2025-12,Spicejet,DEL,47.2
+2025-12,Spicejet,BOM,37.7
+2025-12,IndiGo,MAA,84.8
+2025-12,IndiGo,BLR,71.5
+2025-12,IndiGo,HYD,69.1
+2025-12,IndiGo,CCU,67.2
+2025-12,IndiGo,DEL,50.8
+2025-12,IndiGo,BOM,42.3
+2025-12,Akasa Air,BLR,72.4
+2025-12,Akasa Air,CCU,64.5
+2025-12,Akasa Air,MAA,58.2
+2025-12,Akasa Air,BOM,49.2
+2025-12,Akasa Air,DEL,46.2
+2025-12,Akasa Air,HYD,35.5
+2026-01,ALL,MAA,87.7
+2026-01,ALL,BLR,80.1
+2026-01,ALL,HYD,76.5
+2026-01,ALL,CCU,76.0
+2026-01,ALL,COK,73.5
+2026-01,ALL,AMD,72.5
+2026-01,ALL,LKO,69.3
+2026-01,ALL,DEL,63.9
+2026-01,ALL,GAU,60.4
+2026-01,ALL,BOM,49.2
+2026-01,Air India Group,MAA,79.9
+2026-01,Air India Group,HYD,79.1
+2026-01,Air India Group,AMD,76.1
+2026-01,Air India Group,BLR,75.7
+2026-01,Air India Group,CCU,75.3
+2026-01,Air India Group,DEL,70.6
+2026-01,Air India Group,GAU,69.6
+2026-01,Air India Group,COK,66.5
+2026-01,Air India Group,BOM,57.3
+2026-01,Air India Group,LKO,56.6
+2026-01,Alliance Air,HYD,90.5
+2026-01,Alliance Air,BLR,85.4
+2026-01,Alliance Air,COK,78.4
+2026-01,Alliance Air,CCU,62.3
+2026-01,Alliance Air,DEL,61.4
+2026-01,Alliance Air,BOM,57.0
+2026-01,Alliance Air,AMD,55.6
+2026-01,Alliance Air,GAU,42.7
+2026-01,Spicejet,GAU,82.1
+2026-01,Spicejet,HYD,76.1
+2026-01,Spicejet,COK,75.0
+2026-01,Spicejet,MAA,69.0
+2026-01,Spicejet,BLR,66.5
+2026-01,Spicejet,CCU,63.3
+2026-01,Spicejet,DEL,54.9
+2026-01,Spicejet,AMD,48.0
+2026-01,Spicejet,BOM,43.3
+2026-01,IndiGo,MAA,91.6
+2026-01,IndiGo,BLR,84.3
+2026-01,IndiGo,CCU,78.6
+2026-01,IndiGo,COK,78.1
+2026-01,IndiGo,HYD,75.9
+2026-01,IndiGo,AMD,74.9
+2026-01,IndiGo,LKO,74.4
+2026-01,IndiGo,DEL,60.1
+2026-01,IndiGo,GAU,55.5
+2026-01,IndiGo,BOM,42.2
+2026-01,Akasa Air,MAA,74.2
+2026-01,Akasa Air,BLR,69.2
+2026-01,Akasa Air,AMD,69.0
+2026-01,Akasa Air,COK,68.3
+2026-01,Akasa Air,CCU,63.6
+2026-01,Akasa Air,BOM,57.4
+2026-01,Akasa Air,HYD,56.5
+2026-01,Akasa Air,GAU,49.6
+2026-01,Akasa Air,DEL,47.8
+2026-01,Akasa Air,LKO,35.5
+2026-02,ALL,MAA,90.1
+2026-02,ALL,BLR,85.9
+2026-02,ALL,HYD,84.6
+2026-02,ALL,CCU,83.1
+2026-02,ALL,COK,81.2
+2026-02,ALL,AMD,79.0
+2026-02,ALL,LKO,75.9
+2026-02,ALL,GAU,71.8
+2026-02,ALL,DEL,69.5
+2026-02,ALL,BOM,55.0
+2026-02,Air India Group,MAA,83.2
+2026-02,Air India Group,HYD,81.8
+2026-02,Air India Group,BLR,80.9
+2026-02,Air India Group,CCU,77.5
+2026-02,Air India Group,AMD,74.9
+2026-02,Air India Group,GAU,71.1
+2026-02,Air India Group,DEL,70.6
+2026-02,Air India Group,COK,70.6
+2026-02,Air India Group,LKO,67.5
+2026-02,Air India Group,BOM,56.1
+2026-02,Alliance Air,COK,92.4
+2026-02,Alliance Air,CCU,79.2
+2026-02,Alliance Air,HYD,73.3
+2026-02,Alliance Air,DEL,72.5
+2026-02,Alliance Air,BLR,70.5
+2026-02,Alliance Air,MAA,66.7
+2026-02,Alliance Air,GAU,61.9
+2026-02,Alliance Air,BOM,51.2
+2026-02,Alliance Air,AMD,27.2
+2026-02,Spicejet,COK,73.8
+2026-02,Spicejet,MAA,70.1
+2026-02,Spicejet,GAU,67.6
+2026-02,Spicejet,AMD,59.6
+2026-02,Spicejet,DEL,53.6
+2026-02,Spicejet,BLR,52.6
+2026-02,Spicejet,HYD,48.4
+2026-02,Spicejet,CCU,43.2
+2026-02,Spicejet,BOM,35.7
+2026-02,IndiGo,MAA,94.3
+2026-02,IndiGo,BLR,91.3
+2026-02,IndiGo,CCU,89.7
+2026-02,IndiGo,COK,88.3
+2026-02,IndiGo,HYD,86.6
+2026-02,IndiGo,AMD,82.6
+2026-02,IndiGo,LKO,79.8
+2026-02,IndiGo,GAU,75.8
+2026-02,IndiGo,DEL,70.7
+2026-02,IndiGo,BOM,56.9
+2026-02,Akasa Air,BLR,86.8
+2026-02,Akasa Air,COK,85.0
+2026-02,Akasa Air,AMD,80.1
+2026-02,Akasa Air,CCU,79.3
+2026-02,Akasa Air,HYD,78.2
+2026-02,Akasa Air,DEL,63.8
+2026-02,Akasa Air,MAA,61.7
+2026-02,Akasa Air,LKO,59.4
+2026-02,Akasa Air,BOM,56.3
+2026-02,Akasa Air,GAU,40.7
+2026-03,ALL,MAA,92.9
+2026-03,ALL,HYD,89.7
+2026-03,ALL,BLR,87.9
+2026-03,ALL,CCU,85.6
+2026-03,ALL,AMD,85.0
+2026-03,ALL,COK,83.2
+2026-03,ALL,LKO,81.8
+2026-03,ALL,DEL,79.6
+2026-03,ALL,GAU,73.9
+2026-03,ALL,BOM,72.4
+2026-03,Air India Group,MAA,88.9
+2026-03,Air India Group,BLR,84.6
+2026-03,Air India Group,HYD,84.2
+2026-03,Air India Group,CCU,81.2
+2026-03,Air India Group,DEL,77.7
+2026-03,Air India Group,AMD,75.6
+2026-03,Air India Group,LKO,73.4
+2026-03,Air India Group,BOM,71.8
+2026-03,Air India Group,COK,70.3
+2026-03,Air India Group,GAU,70.3
+2026-03,Alliance Air,DEL,86.7
+2026-03,Alliance Air,MAA,80.0
+2026-03,Alliance Air,COK,78.8
+2026-03,Alliance Air,HYD,65.5
+2026-03,Alliance Air,CCU,57.9
+2026-03,Alliance Air,GAU,54.3
+2026-03,Alliance Air,BOM,53.3
+2026-03,Alliance Air,AMD,47.0
+2026-03,Alliance Air,BLR,42.9
+2026-03,Spicejet,HYD,64.2
+2026-03,Spicejet,MAA,61.7
+2026-03,Spicejet,AMD,51.2
+2026-03,Spicejet,COK,48.9
+2026-03,Spicejet,DEL,47.0
+2026-03,Spicejet,BLR,42.0
+2026-03,Spicejet,GAU,33.7
+2026-03,Spicejet,CCU,31.6
+2026-03,Spicejet,BOM,29.0
+2026-03,IndiGo,MAA,96.8
+2026-03,IndiGo,CCU,93.1
+2026-03,IndiGo,COK,93.1
+2026-03,IndiGo,BLR,92.4
+2026-03,IndiGo,HYD,92.0
+2026-03,IndiGo,AMD,90.1
+2026-03,IndiGo,LKO,85.8
+2026-03,IndiGo,DEL,85.2
+2026-03,IndiGo,GAU,82.7
+2026-03,IndiGo,BOM,78.2
+2026-03,Akasa Air,COK,98.8
+2026-03,Akasa Air,MAA,93.9
+2026-03,Akasa Air,BLR,93.0
+2026-03,Akasa Air,HYD,91.8
+2026-03,Akasa Air,AMD,91.1
+2026-03,Akasa Air,CCU,87.0
+2026-03,Akasa Air,BOM,77.1
+2026-03,Akasa Air,DEL,73.3
+2026-03,Akasa Air,LKO,66.2
+2026-03,Akasa Air,GAU,51.7
+2026-04,ALL,MAA,93.9
+2026-04,ALL,HYD,87.7
+2026-04,ALL,BLR,86.7
+2026-04,ALL,CCU,84.0
+2026-04,ALL,COK,83.5
+2026-04,ALL,AMD,83.1
+2026-04,ALL,LKO,82.5
+2026-04,ALL,DEL,80.9
+2026-04,ALL,BOM,79.1
+2026-04,ALL,GAU,77.9
+2026-04,Air India Group,MAA,92.7
+2026-04,Air India Group,BLR,86.7
+2026-04,Air India Group,HYD,85.9
+2026-04,Air India Group,CCU,83.8
+2026-04,Air India Group,AMD,83.6
+2026-04,Air India Group,BOM,82.0
+2026-04,Air India Group,DEL,81.4
+2026-04,Air India Group,LKO,73.9
+2026-04,Air India Group,GAU,69.2
+2026-04,Air India Group,COK,67.0
+2026-04,Alliance Air,MAA,100.0
+2026-04,Alliance Air,COK,89.0
+2026-04,Alliance Air,HYD,79.7
+2026-04,Alliance Air,DEL,77.7
+2026-04,Alliance Air,BLR,73.3
+2026-04,Alliance Air,BOM,70.8
+2026-04,Alliance Air,AMD,59.3
+2026-04,Alliance Air,GAU,48.0
+2026-04,Alliance Air,CCU,38.9
+2026-04,Spicejet,MAA,48.3
+2026-04,Spicejet,DEL,45.4
+2026-04,Spicejet,COK,35.7
+2026-04,Spicejet,HYD,35.1
+2026-04,Spicejet,CCU,28.2
+2026-04,Spicejet,GAU,23.3
+2026-04,Spicejet,AMD,21.3
+2026-04,Spicejet,BOM,18.2
+2026-04,Spicejet,BLR,11.2
+2026-04,IndiGo,MAA,97.2
+2026-04,IndiGo,COK,91.7
+2026-04,IndiGo,BLR,89.6
+2026-04,IndiGo,HYD,89.3
+2026-04,IndiGo,CCU,89.0
+2026-04,IndiGo,AMD,88.4
+2026-04,IndiGo,GAU,86.7
+2026-04,IndiGo,BOM,85.1
+2026-04,IndiGo,LKO,85.0
+2026-04,IndiGo,DEL,84.8
+2026-04,Akasa Air,MAA,95.1
+2026-04,Akasa Air,COK,92.1
+2026-04,Akasa Air,HYD,91.7
+2026-04,Akasa Air,BLR,91.4
+2026-04,Akasa Air,LKO,87.6
+2026-04,Akasa Air,AMD,86.9
+2026-04,Akasa Air,CCU,81.8
+2026-04,Akasa Air,GAU,81.5
+2026-04,Akasa Air,BOM,73.6
+2026-04,Akasa Air,DEL,72.4
+2026-05,ALL,MAA,92.2
+2026-05,ALL,CCU,84.7
+2026-05,ALL,HYD,84.4
+2026-05,ALL,BLR,82.3
+2026-05,ALL,COK,81.5
+2026-05,ALL,AMD,76.7
+2026-05,ALL,LKO,76.7
+2026-05,ALL,GAU,75.3
+2026-05,ALL,DEL,72.6
+2026-05,ALL,BOM,70.5
+2026-05,Air India Group,MAA,89.5
+2026-05,Air India Group,HYD,81.6
+2026-05,Air India Group,BLR,79.8
+2026-05,Air India Group,CCU,78.2
+2026-05,Air India Group,AMD,76.4
+2026-05,Air India Group,DEL,72.5
+2026-05,Air India Group,COK,71.9
+2026-05,Air India Group,BOM,70.3
+2026-05,Air India Group,GAU,66.4
+2026-05,Air India Group,LKO,62.4
+2026-05,Alliance Air,MAA,100.0
+2026-05,Alliance Air,COK,86.4
+2026-05,Alliance Air,HYD,76.3
+2026-05,Alliance Air,DEL,72.9
+2026-05,Alliance Air,GAU,72.2
+2026-05,Alliance Air,BLR,70.4
+2026-05,Alliance Air,BOM,55.9
+2026-05,Alliance Air,CCU,53.1
+2026-05,Alliance Air,AMD,46.6
+2026-05,Spicejet,MAA,83.9
+2026-05,Spicejet,DEL,39.0
+2026-05,Spicejet,GAU,33.3
+2026-05,Spicejet,BLR,16.0
+2026-05,Spicejet,BOM,14.0
+2026-05,Spicejet,HYD,13.9
+2026-05,Spicejet,AMD,9.1
+2026-05,Spicejet,CCU,5.7
+2026-05,IndiGo,MAA,93.0
+2026-05,IndiGo,CCU,88.8
+2026-05,IndiGo,COK,87.2
+2026-05,IndiGo,HYD,85.5
+2026-05,IndiGo,BLR,84.9
+2026-05,IndiGo,GAU,81.2
+2026-05,IndiGo,LKO,81.0
+2026-05,IndiGo,AMD,79.7
+2026-05,IndiGo,DEL,76.3
+2026-05,IndiGo,BOM,76.2
+2026-05,Akasa Air,HYD,93.5
+2026-05,Akasa Air,LKO,88.0
+2026-05,Akasa Air,BLR,87.6
+2026-05,Akasa Air,COK,87.0
+2026-05,Akasa Air,MAA,86.4
+2026-05,Akasa Air,CCU,83.5
+2026-05,Akasa Air,AMD,77.8
+2026-05,Akasa Air,BOM,71.3
+2026-05,Akasa Air,GAU,71.3
+2026-05,Akasa Air,DEL,69.8
+2026-06,ALL,MAA,95.2
+2026-06,ALL,HYD,90.3
+2026-06,ALL,BLR,89.6
+2026-06,ALL,CCU,89.0
+2026-06,ALL,COK,87.1
+2026-06,ALL,LKO,85.9
+2026-06,ALL,BOM,85.1
+2026-06,ALL,DEL,84.0
+2026-06,ALL,GAU,81.1
+2026-06,ALL,AMD,76.7
+2026-06,Air India Group,MAA,89.4
+2026-06,Air India Group,DEL,88.0
+2026-06,Air India Group,HYD,87.9
+2026-06,Air India Group,BLR,87.0
+2026-06,Air India Group,CCU,86.5
+2026-06,Air India Group,BOM,85.9
+2026-06,Air India Group,GAU,80.1
+2026-06,Air India Group,AMD,76.4
+2026-06,Air India Group,LKO,76.1
+2026-06,Air India Group,COK,75.5
+2026-06,Alliance Air,COK,94.0
+2026-06,Alliance Air,HYD,81.7
+2026-06,Alliance Air,BLR,81.6
+2026-06,Alliance Air,BOM,75.8
+2026-06,Alliance Air,DEL,75.8
+2026-06,Alliance Air,MAA,72.7
+2026-06,Alliance Air,CCU,64.6
+2026-06,Alliance Air,GAU,51.9
+2026-06,Alliance Air,AMD,46.6
+2026-06,Spicejet,COK,80.0
+2026-06,Spicejet,DEL,42.2
+2026-06,Spicejet,BOM,27.2
+2026-06,Spicejet,BLR,18.1
+2026-06,Spicejet,CCU,13.3
+2026-06,Spicejet,AMD,9.1
+2026-06,Spicejet,MAA,0.0
+2026-06,IndiGo,MAA,96.5
+2026-06,IndiGo,COK,93.6
+2026-06,IndiGo,BLR,92.1
+2026-06,IndiGo,CCU,91.1
+2026-06,IndiGo,HYD,90.8
+2026-06,IndiGo,BOM,89.3
+2026-06,IndiGo,LKO,88.0
+2026-06,IndiGo,GAU,85.7
+2026-06,IndiGo,DEL,85.6
+2026-06,IndiGo,AMD,79.7
+2026-06,Akasa Air,LKO,94.1
+2026-06,Akasa Air,HYD,93.3
+2026-06,Akasa Air,MAA,91.0
+2026-06,Akasa Air,BLR,89.9
+2026-06,Akasa Air,COK,85.9
+2026-06,Akasa Air,CCU,84.3
+2026-06,Akasa Air,BOM,79.7
+2026-06,Akasa Air,AMD,77.8
+2026-06,Akasa Air,DEL,77.6
+2026-06,Akasa Air,GAU,63.5
+2026-07,ALL,MAA,96.7
+2026-07,ALL,BLR,94.0
+2026-07,ALL,HYD,92.4
+2026-07,ALL,CCU,92.0
+2026-07,ALL,AMD,88.8
+2026-07,ALL,LKO,87.9
+2026-07,ALL,COK,87.8
+2026-07,ALL,DEL,87.4
+2026-07,ALL,BOM,83.6
+2026-07,ALL,GAU,77.9
+2026-07,Air India Group,MAA,93.6
+2026-07,Air India Group,BLR,92.3
+2026-07,Air India Group,HYD,90.9
+2026-07,Air India Group,AMD,89.7
+2026-07,Air India Group,DEL,89.4
+2026-07,Air India Group,CCU,87.7
+2026-07,Air India Group,BOM,86.8
+2026-07,Air India Group,LKO,84.5
+2026-07,Air India Group,COK,81.9
+2026-07,Air India Group,GAU,73.4
+2026-07,Alliance Air,MAA,100.0
+2026-07,Alliance Air,COK,93.5
+2026-07,Alliance Air,HYD,85.6
+2026-07,Alliance Air,BLR,81.9
+2026-07,Alliance Air,DEL,80.9
+2026-07,Alliance Air,BOM,68.5
+2026-07,Alliance Air,AMD,67.7
+2026-07,Alliance Air,CCU,59.0
+2026-07,Alliance Air,GAU,53.8
+2026-07,Spicejet,BLR,41.2
+2026-07,Spicejet,DEL,40.9
+2026-07,Spicejet,BOM,24.9
+2026-07,Spicejet,COK,12.5
+2026-07,Spicejet,CCU,5.9
+2026-07,Spicejet,AMD,0.0
+2026-07,IndiGo,MAA,97.3
+2026-07,IndiGo,BLR,95.4
+2026-07,IndiGo,CCU,94.8
+2026-07,IndiGo,HYD,92.7
+2026-07,IndiGo,COK,92.4
+2026-07,IndiGo,DEL,89.4
+2026-07,IndiGo,AMD,88.7
+2026-07,IndiGo,LKO,88.7
+2026-07,IndiGo,BOM,84.5
+2026-07,IndiGo,GAU,83.2
+2026-07,Akasa Air,HYD,100.0
+2026-07,Akasa Air,MAA,100.0
+2026-07,Akasa Air,BLR,95.6
+2026-07,Akasa Air,AMD,94.7
+2026-07,Akasa Air,COK,94.0
+2026-07,Akasa Air,LKO,92.3
+2026-07,Akasa Air,BOM,89.3
+2026-07,Akasa Air,DEL,88.8
+2026-07,Akasa Air,CCU,85.7
+2026-07,Akasa Air,GAU,77.4
+2026-08,ALL,MAA,94.3
+2026-08,ALL,HYD,92.8
+2026-08,ALL,BLR,92.0
+2026-08,ALL,AMD,91.5
+2026-08,ALL,CCU,90.5
+2026-08,ALL,BOM,86.1
+2026-08,ALL,LKO,84.4
+2026-08,ALL,DEL,83.3
+2026-08,ALL,GAU,81.9
+2026-08,ALL,COK,80.2
+2026-08,Air India Group,MAA,92.6
+2026-08,Air India Group,HYD,88.3
+2026-08,Air India Group,BLR,87.3
+2026-08,Air India Group,AMD,86.6
+2026-08,Air India Group,CCU,86.1
+2026-08,Air India Group,GAU,85.4
+2026-08,Air India Group,BOM,85.1
+2026-08,Air India Group,DEL,82.4
+2026-08,Air India Group,LKO,71.7
+2026-08,Air India Group,COK,68.1
+2026-08,Alliance Air,GAU,92.0
+2026-08,Alliance Air,MAA,92.3
+2026-08,Alliance Air,HYD,83.0
+2026-08,Alliance Air,AMD,80.6
+2026-08,Alliance Air,COK,76.9
+2026-08,Alliance Air,BLR,76.8
+2026-08,Alliance Air,BOM,67.8
+2026-08,Alliance Air,DEL,66.7
+2026-08,Alliance Air,CCU,64.4
+2026-08,Alliance Air,GAU,63.5
+2026-08,Spicejet,DEL,24.3
+2026-08,Spicejet,BLR,18.2
+2026-08,Spicejet,BOM,9.1
+2026-08,Spicejet,COK,4.5
+2026-08,Spicejet,CCU,0.0
+2026-08,Spicejet,AMD,0.0
+2026-08,IndiGo,MAA,94.8
+2026-08,IndiGo,BLR,94.7
+2026-08,IndiGo,CCU,94.0
+2026-08,IndiGo,HYD,93.9
+2026-08,IndiGo,COK,92.4
+2026-08,IndiGo,AMD,92.2
+2026-08,IndiGo,BOM,90.3
+2026-08,IndiGo,LKO,88.6
+2026-08,IndiGo,DEL,87.7
+2026-08,IndiGo,GAU,80.9
+2026-08,Akasa Air,AMD,98.4
+2026-08,Akasa Air,HYD,96.8
+2026-08,Akasa Air,BLR,96.4
+2026-08,Akasa Air,GAU,95.2
+2026-08,Akasa Air,COK,94.0
+2026-08,Akasa Air,MAA,90.0
+2026-08,Akasa Air,LKO,88.9
+2026-08,Akasa Air,BOM,87.5
+2026-08,Akasa Air,DEL,87.4
+2026-08,Akasa Air,CCU,85.2
+2026-09,ALL,MAA,95.3
+2026-09,ALL,HYD,92.2
+2026-09,ALL,AMD,91.2
+2026-09,ALL,BLR,91.2
+2026-09,ALL,CCU,89.3
+2026-09,ALL,LKO,85.5
+2026-09,ALL,BOM,84.4
+2026-09,ALL,DEL,82.7
+2026-09,ALL,GAU,82.5
+2026-09,ALL,COK,82.1
+2026-09,Air India Group,MAA,93.1
+2026-09,Air India Group,HYD,90.0
+2026-09,Air India Group,AMD,84.6
+2026-09,Air India Group,BLR,84.4
+2026-09,Air India Group,BOM,82.4
+2026-09,Air India Group,CCU,80.7
+2026-09,Air India Group,DEL,80.0
+2026-09,Air India Group,GAU,76.3
+2026-09,Air India Group,LKO,75.6
+2026-09,Air India Group,COK,67.7
+2026-09,Alliance Air,MAA,92.3
+2026-09,Alliance Air,AMD,88.6
+2026-09,Alliance Air,HYD,82.8
+2026-09,Alliance Air,COK,81.6
+2026-09,Alliance Air,BOM,77.1
+2026-09,Alliance Air,BLR,77.0
+2026-09,Alliance Air,CCU,71.0
+2026-09,Alliance Air,DEL,61.5
+2026-09,Alliance Air,GAU,59.7
+2026-09,Spicejet,DEL,21.0
+2026-09,Spicejet,CCU,20.0
+2026-09,Spicejet,BOM,0.0
+2026-09,Spicejet,COK,0.0
+2026-09,IndiGo,MAA,95.9
+2026-09,IndiGo,COK,95.2
+2026-09,IndiGo,BLR,94.4
+2026-09,IndiGo,HYD,92.8
+2026-09,IndiGo,CCU,92.2
+2026-09,IndiGo,AMD,92.2
+2026-09,IndiGo,LKO,89.1
+2026-09,IndiGo,DEL,88.2
+2026-09,IndiGo,GAU,86.8
+2026-09,IndiGo,BOM,86.4
+2026-09,Akasa Air,COK,98.1
+2026-09,Akasa Air,AMD,98.0
+2026-09,Akasa Air,BLR,95.5
+2026-09,Akasa Air,GAU,95.1
+2026-09,Akasa Air,HYD,95.0
+2026-09,Akasa Air,LKO,92.8
+2026-09,Akasa Air,CCU,91.1
+2026-09,Akasa Air,BOM,88.0
+2026-09,Akasa Air,MAA,87.2
+2026-09,Akasa Air,DEL,86.7

@@ -1,0 +1,2352 @@
+report,chart,category,pct
+2018-01,complaint_reason,Fare,3.6
+2018-01,complaint_reason,Refund,7.3
+2018-01,complaint_reason,Flight Problem,27.5
+2018-01,complaint_reason,Baggage,24.2
+2018-01,complaint_reason,Customer Service,24.4
+2018-01,complaint_reason,Disability,0.3
+2018-01,complaint_reason,Staff Behaviour,5.8
+2018-01,complaint_reason,Catering,0.1
+2018-01,complaint_reason,Others,6.8
+2018-01,cancel_reason,Technical,13.2
+2018-01,cancel_reason,Weather,41.3
+2018-01,cancel_reason,Commercial,0.8
+2018-01,cancel_reason,Operational,3.4
+2018-01,cancel_reason,Conse/Misc,41.4
+2018-01,delay_reason,Pax,1.0
+2018-01,delay_reason,Ramp,1.0
+2018-01,delay_reason,Tech,2.0
+2018-01,delay_reason,Ops,3.0
+2018-01,delay_reason,Reactionary,61.0
+2018-01,delay_reason,Airport,5.0
+2018-01,delay_reason,Wx,9.0
+2018-01,delay_reason,ATC,17.0
+2018-01,delay_reason,Misc,1.0
+2018-02,complaint_reason,Fare,3.9
+2018-02,complaint_reason,Refund,6.9
+2018-02,complaint_reason,Flight Problem,31.5
+2018-02,complaint_reason,Baggage,25.4
+2018-02,complaint_reason,Customer Service,19.3
+2018-02,complaint_reason,Disability,0.2
+2018-02,complaint_reason,Staff Behaviour,5.8
+2018-02,complaint_reason,Catering,0.6
+2018-02,complaint_reason,Others,6.5
+2018-02,cancel_reason,Technical,55.4
+2018-02,cancel_reason,Weather,11.7
+2018-02,cancel_reason,Commercial,0.3
+2018-02,cancel_reason,Operational,3.9
+2018-02,cancel_reason,Conse/Misc,28.7
+2018-02,delay_reason,Pax,2.0
+2018-02,delay_reason,Ramp,1.0
+2018-02,delay_reason,Tech,2.0
+2018-02,delay_reason,Ops,4.0
+2018-02,delay_reason,Reactionary,61.0
+2018-02,delay_reason,Airport,6.0
+2018-02,delay_reason,Wx,1.0
+2018-02,delay_reason,ATC,21.0
+2018-02,delay_reason,Misc,2.0
+2018-03,complaint_reason,Fare,5.0
+2018-03,complaint_reason,Refund,8.1
+2018-03,complaint_reason,Flight Problem,27.2
+2018-03,complaint_reason,Baggage,23.6
+2018-03,complaint_reason,Customer Service,27.2
+2018-03,complaint_reason,Disability,0.0
+2018-03,complaint_reason,Staff Behaviour,3.5
+2018-03,complaint_reason,Catering,0.5
+2018-03,complaint_reason,Others,4.9
+2018-03,cancel_reason,Technical,60.5
+2018-03,cancel_reason,Weather,2.0
+2018-03,cancel_reason,Commercial,9.0
+2018-03,cancel_reason,Operational,1.4
+2018-03,cancel_reason,Conse/Misc,27.1
+2018-03,delay_reason,Pax,2.0
+2018-03,delay_reason,Ramp,1.0
+2018-03,delay_reason,Tech,3.0
+2018-03,delay_reason,Ops,4.0
+2018-03,delay_reason,Reactionary,60.0
+2018-03,delay_reason,Airport,5.0
+2018-03,delay_reason,Wx,1.0
+2018-03,delay_reason,ATC,22.0
+2018-03,delay_reason,Misc,2.0
+2018-04,complaint_reason,Fare,1.1
+2018-04,complaint_reason,Refund,4.8
+2018-04,complaint_reason,Flight Problem,28.3
+2018-04,complaint_reason,Baggage,21.0
+2018-04,complaint_reason,Customer Service,33.6
+2018-04,complaint_reason,Disability,0.1
+2018-04,complaint_reason,Staff Behaviour,5.5
+2018-04,complaint_reason,Catering,0.4
+2018-04,complaint_reason,Others,5.1
+2018-04,cancel_reason,Technical,20.4
+2018-04,cancel_reason,Weather,5.9
+2018-04,cancel_reason,Commercial,8.8
+2018-04,cancel_reason,Operational,1.0
+2018-04,cancel_reason,Conse/Misc,63.9
+2018-04,delay_reason,Pax,2.0
+2018-04,delay_reason,Ramp,1.0
+2018-04,delay_reason,Tech,5.0
+2018-04,delay_reason,Ops,4.0
+2018-04,delay_reason,Reactionary,57.0
+2018-04,delay_reason,Airport,7.0
+2018-04,delay_reason,Wx,2.0
+2018-04,delay_reason,ATC,20.0
+2018-04,delay_reason,Misc,2.0
+2018-05,complaint_reason,Fare,1.2
+2018-05,complaint_reason,Refund,3.9
+2018-05,complaint_reason,Flight Problem,30.5
+2018-05,complaint_reason,Baggage,23.9
+2018-05,complaint_reason,Customer Service,29.1
+2018-05,complaint_reason,Disability,0.4
+2018-05,complaint_reason,Staff Behaviour,6.5
+2018-05,complaint_reason,Catering,0.1
+2018-05,complaint_reason,Others,4.3
+2018-05,cancel_reason,Technical,22.9
+2018-05,cancel_reason,Weather,24.9
+2018-05,cancel_reason,Commercial,3.8
+2018-05,cancel_reason,Operational,3.8
+2018-05,cancel_reason,Conse/Misc,44.6
+2018-05,delay_reason,Pax,2.0
+2018-05,delay_reason,Ramp,1.0
+2018-05,delay_reason,Tech,4.0
+2018-05,delay_reason,Ops,3.0
+2018-05,delay_reason,Reactionary,64.0
+2018-05,delay_reason,Airport,9.0
+2018-05,delay_reason,Wx,2.0
+2018-05,delay_reason,ATC,13.0
+2018-05,delay_reason,Misc,2.0
+2018-06,complaint_reason,Fare,1.2
+2018-06,complaint_reason,Refund,4.9
+2018-06,complaint_reason,Flight Problem,29.2
+2018-06,complaint_reason,Baggage,27.5
+2018-06,complaint_reason,Customer Service,24.7
+2018-06,complaint_reason,Disability,0.3
+2018-06,complaint_reason,Staff Behaviour,8.1
+2018-06,complaint_reason,Catering,0.1
+2018-06,complaint_reason,Others,4.0
+2018-06,cancel_reason,Technical,28.0
+2018-06,cancel_reason,Weather,28.1
+2018-06,cancel_reason,Commercial,5.8
+2018-06,cancel_reason,Operational,3.0
+2018-06,cancel_reason,Conse/Misc,35.0
+2018-06,delay_reason,Pax,2.0
+2018-06,delay_reason,Ramp,1.0
+2018-06,delay_reason,Tech,4.0
+2018-06,delay_reason,Ops,5.0
+2018-06,delay_reason,Reactionary,64.0
+2018-06,delay_reason,Airport,4.0
+2018-06,delay_reason,Wx,2.0
+2018-06,delay_reason,ATC,17.0
+2018-06,delay_reason,Misc,1.0
+2018-07,complaint_reason,Fare,0.4
+2018-07,complaint_reason,Refund,3.2
+2018-07,complaint_reason,Flight Problem,28.0
+2018-07,complaint_reason,Baggage,25.2
+2018-07,complaint_reason,Customer Service,28.9
+2018-07,complaint_reason,Disability,0.3
+2018-07,complaint_reason,Staff Behaviour,6.7
+2018-07,complaint_reason,Catering,0.0
+2018-07,complaint_reason,Others,7.3
+2018-07,cancel_reason,Technical,20.8
+2018-07,cancel_reason,Weather,8.7
+2018-07,cancel_reason,Commercial,1.6
+2018-07,cancel_reason,Operational,5.5
+2018-07,cancel_reason,Conse/Misc,63.4
+2018-07,delay_reason,Pax,2.0
+2018-07,delay_reason,Ramp,1.0
+2018-07,delay_reason,Tech,5.0
+2018-07,delay_reason,Ops,5.0
+2018-07,delay_reason,Reactionary,66.0
+2018-07,delay_reason,Airport,3.0
+2018-07,delay_reason,Wx,2.0
+2018-07,delay_reason,ATC,14.0
+2018-07,delay_reason,Misc,2.0
+2018-08,complaint_reason,Fare,0.6
+2018-08,complaint_reason,Refund,2.8
+2018-08,complaint_reason,Flight Problem,27.8
+2018-08,complaint_reason,Baggage,28.0
+2018-08,complaint_reason,Customer Service,24.7
+2018-08,complaint_reason,Disability,0.6
+2018-08,complaint_reason,Staff Behaviour,6.6
+2018-08,complaint_reason,Catering,0.7
+2018-08,complaint_reason,Others,8.1
+2018-08,cancel_reason,Technical,6.9
+2018-08,cancel_reason,Weather,50.7
+2018-08,cancel_reason,Commercial,1.6
+2018-08,cancel_reason,Operational,1.8
+2018-08,cancel_reason,Conse/Misc,39.1
+2018-08,delay_reason,Pax,2.0
+2018-08,delay_reason,Ramp,1.0
+2018-08,delay_reason,Tech,5.0
+2018-08,delay_reason,Ops,6.0
+2018-08,delay_reason,Reactionary,64.0
+2018-08,delay_reason,Airport,5.0
+2018-08,delay_reason,Wx,1.0
+2018-08,delay_reason,ATC,14.0
+2018-08,delay_reason,Misc,2.0
+2018-09,complaint_reason,Fare,0.6
+2018-09,complaint_reason,Refund,4.5
+2018-09,complaint_reason,Flight Problem,24.7
+2018-09,complaint_reason,Baggage,26.0
+2018-09,complaint_reason,Customer Service,27.5
+2018-09,complaint_reason,Disability,0.6
+2018-09,complaint_reason,Staff Behaviour,3.4
+2018-09,complaint_reason,Catering,0.1
+2018-09,complaint_reason,Others,12.6
+2018-09,cancel_reason,Technical,16.1
+2018-09,cancel_reason,Weather,9.8
+2018-09,cancel_reason,Commercial,3.8
+2018-09,cancel_reason,Operational,3.3
+2018-09,cancel_reason,Conse/Misc,67.1
+2018-09,delay_reason,Pax,2.0
+2018-09,delay_reason,Ramp,1.0
+2018-09,delay_reason,Tech,6.0
+2018-09,delay_reason,Ops,8.0
+2018-09,delay_reason,Reactionary,61.0
+2018-09,delay_reason,Airport,4.0
+2018-09,delay_reason,Wx,2.0
+2018-09,delay_reason,ATC,12.0
+2018-09,delay_reason,Misc,4.0
+2018-10,complaint_reason,Fare,0.1
+2018-10,complaint_reason,Refund,2.8
+2018-10,complaint_reason,Flight Problem,30.2
+2018-10,complaint_reason,Baggage,35.4
+2018-10,complaint_reason,Customer Service,21.8
+2018-10,complaint_reason,Disability,0.7
+2018-10,complaint_reason,Staff Behaviour,3.6
+2018-10,complaint_reason,Catering,0.0
+2018-10,complaint_reason,Others,5.2
+2018-10,cancel_reason,Technical,16.0
+2018-10,cancel_reason,Weather,6.6
+2018-10,cancel_reason,Commercial,4.7
+2018-10,cancel_reason,Operational,26.6
+2018-10,cancel_reason,Conse/Misc,46.1
+2018-10,delay_reason,Pax,3.0
+2018-10,delay_reason,Ramp,1.0
+2018-10,delay_reason,Tech,5.0
+2018-10,delay_reason,Ops,6.0
+2018-10,delay_reason,Reactionary,59.0
+2018-10,delay_reason,Airport,4.0
+2018-10,delay_reason,Wx,1.0
+2018-10,delay_reason,ATC,17.0
+2018-10,delay_reason,Misc,4.0
+2018-11,complaint_reason,Fare,0.5
+2018-11,complaint_reason,Refund,2.7
+2018-11,complaint_reason,Flight Problem,31.8
+2018-11,complaint_reason,Baggage,23.9
+2018-11,complaint_reason,Customer Service,31.0
+2018-11,complaint_reason,Disability,0.3
+2018-11,complaint_reason,Staff Behaviour,4.6
+2018-11,complaint_reason,Catering,0.0
+2018-11,complaint_reason,Others,5.2
+2018-11,cancel_reason,Technical,23.8
+2018-11,cancel_reason,Weather,15.3
+2018-11,cancel_reason,Commercial,8.2
+2018-11,cancel_reason,Operational,9.4
+2018-11,cancel_reason,Conse/Misc,43.2
+2018-11,delay_reason,Pax,2.0
+2018-11,delay_reason,Ramp,1.0
+2018-11,delay_reason,Tech,3.0
+2018-11,delay_reason,Ops,7.0
+2018-11,delay_reason,Reactionary,65.0
+2018-11,delay_reason,Airport,3.0
+2018-11,delay_reason,Wx,1.0
+2018-11,delay_reason,ATC,16.0
+2018-11,delay_reason,Misc,2.0
+2018-12,complaint_reason,Fare,0.5
+2018-12,complaint_reason,Refund,2.2
+2018-12,complaint_reason,Flight Problem,30.0
+2018-12,complaint_reason,Baggage,23.9
+2018-12,complaint_reason,Customer Service,32.5
+2018-12,complaint_reason,Disability,0.1
+2018-12,complaint_reason,Staff Behaviour,4.6
+2018-12,complaint_reason,Catering,0.0
+2018-12,complaint_reason,Others,6.1
+2018-12,cancel_reason,Technical,28.1
+2018-12,cancel_reason,Weather,37.0
+2018-12,cancel_reason,Commercial,2.0
+2018-12,cancel_reason,Operational,15.1
+2018-12,cancel_reason,Conse/Misc,17.8
+2018-12,delay_reason,Pax,2.0
+2018-12,delay_reason,Ramp,1.0
+2018-12,delay_reason,Tech,3.0
+2018-12,delay_reason,Ops,7.0
+2018-12,delay_reason,Reactionary,62.0
+2018-12,delay_reason,Airport,4.0
+2018-12,delay_reason,Wx,3.0
+2018-12,delay_reason,ATC,17.0
+2018-12,delay_reason,Misc,1.0
+2019-01,complaint_reason,Fare,0.5
+2019-01,complaint_reason,Refund,2.5
+2019-01,complaint_reason,Flight Problem,28.5
+2019-01,complaint_reason,Baggage,31.2
+2019-01,complaint_reason,Customer Service,25.0
+2019-01,complaint_reason,Disability,1.4
+2019-01,complaint_reason,Staff Behaviour,6.0
+2019-01,complaint_reason,Catering,0.0
+2019-01,complaint_reason,Others,4.9
+2019-01,cancel_reason,Technical,8.0
+2019-01,cancel_reason,Weather,50.5
+2019-01,cancel_reason,Commercial,1.4
+2019-01,cancel_reason,Operational,12.8
+2019-01,cancel_reason,Conse/Misc,27.2
+2019-01,delay_reason,Pax,2.0
+2019-01,delay_reason,Ramp,1.0
+2019-01,delay_reason,Tech,2.0
+2019-01,delay_reason,Ops,8.0
+2019-01,delay_reason,Reactionary,63.0
+2019-01,delay_reason,Airport,4.0
+2019-01,delay_reason,Wx,6.0
+2019-01,delay_reason,ATC,13.0
+2019-01,delay_reason,Misc,1.0
+2019-02,complaint_reason,Fare,0.9
+2019-02,complaint_reason,Refund,2.0
+2019-02,complaint_reason,Flight Problem,51.8
+2019-02,complaint_reason,Baggage,18.1
+2019-02,complaint_reason,Customer Service,19.6
+2019-02,complaint_reason,Disability,0.6
+2019-02,complaint_reason,Staff Behaviour,2.7
+2019-02,complaint_reason,Catering,0.0
+2019-02,complaint_reason,Others,4.2
+2019-02,cancel_reason,Technical,12.4
+2019-02,cancel_reason,Weather,21.0
+2019-02,cancel_reason,Commercial,0.9
+2019-02,cancel_reason,Operational,7.2
+2019-02,cancel_reason,Conse/Misc,58.6
+2019-02,delay_reason,Pax,2.0
+2019-02,delay_reason,Ramp,1.0
+2019-02,delay_reason,Tech,3.0
+2019-02,delay_reason,Ops,10.0
+2019-02,delay_reason,Reactionary,67.0
+2019-02,delay_reason,Airport,4.0
+2019-02,delay_reason,Wx,1.0
+2019-02,delay_reason,ATC,12.0
+2019-02,delay_reason,Misc,0.0
+2019-03,complaint_reason,Refund,11.8
+2019-03,complaint_reason,Flight Problem,60.0
+2019-03,complaint_reason,Baggage,16.3
+2019-03,complaint_reason,Customer Service,6.3
+2019-03,complaint_reason,Disability,1.7
+2019-03,complaint_reason,Staff Behaviour,1.6
+2019-03,complaint_reason,Catering,0.0
+2019-03,complaint_reason,Others,0.4
+2019-03,cancel_reason,Technical,29.4
+2019-03,cancel_reason,Weather,3.4
+2019-03,cancel_reason,Commercial,4.0
+2019-03,cancel_reason,Operational,21.8
+2019-03,cancel_reason,Conse/Misc,41.5
+2019-03,delay_reason,Pax,2.0
+2019-03,delay_reason,Ramp,1.0
+2019-03,delay_reason,Tech,6.0
+2019-03,delay_reason,Ops,8.0
+2019-03,delay_reason,Reactionary,69.0
+2019-03,delay_reason,Airport,3.0
+2019-03,delay_reason,Wx,2.0
+2019-03,delay_reason,ATC,8.0
+2019-03,delay_reason,Misc,1.0
+2019-04,complaint_reason,Fare,0.9
+2019-04,complaint_reason,Refund,35.5
+2019-04,complaint_reason,Flight Problem,27.5
+2019-04,complaint_reason,Baggage,10.3
+2019-04,complaint_reason,Customer Service,16.7
+2019-04,complaint_reason,Disability,0.1
+2019-04,complaint_reason,Staff Behaviour,1.7
+2019-04,complaint_reason,Catering,0.7
+2019-04,complaint_reason,Others,6.7
+2019-04,cancel_reason,Technical,32.5
+2019-04,cancel_reason,Weather,3.1
+2019-04,cancel_reason,Commercial,4.3
+2019-04,cancel_reason,Operational,2.8
+2019-04,cancel_reason,Conse/Misc,57.3
+2019-04,delay_reason,Pax,2.0
+2019-04,delay_reason,Ramp,1.0
+2019-04,delay_reason,Tech,7.0
+2019-04,delay_reason,Ops,11.0
+2019-04,delay_reason,Reactionary,68.0
+2019-04,delay_reason,Airport,3.0
+2019-04,delay_reason,Wx,1.0
+2019-04,delay_reason,ATC,4.0
+2019-04,delay_reason,Misc,3.0
+2019-05,complaint_reason,Refund,2.3
+2019-05,complaint_reason,Flight Problem,33.2
+2019-05,complaint_reason,Baggage,24.1
+2019-05,complaint_reason,Customer Service,35.0
+2019-05,complaint_reason,Disability,0.3
+2019-05,complaint_reason,Staff Behaviour,2.5
+2019-05,complaint_reason,Catering,0.0
+2019-05,complaint_reason,Others,0.0
+2019-05,cancel_reason,Technical,18.2
+2019-05,cancel_reason,Weather,72.6
+2019-05,cancel_reason,Commercial,3.3
+2019-05,cancel_reason,Operational,1.3
+2019-05,cancel_reason,Conse/Misc,4.6
+2019-05,delay_reason,Pax,2.0
+2019-05,delay_reason,Ramp,2.0
+2019-05,delay_reason,Tech,5.0
+2019-05,delay_reason,Ops,9.0
+2019-05,delay_reason,Reactionary,68.0
+2019-05,delay_reason,Airport,4.0
+2019-05,delay_reason,Wx,2.0
+2019-05,delay_reason,ATC,7.0
+2019-05,delay_reason,Misc,1.0
+2019-06,complaint_reason,Fare,0.0
+2019-06,complaint_reason,Refund,1.9
+2019-06,complaint_reason,Flight Problem,42.8
+2019-06,complaint_reason,Baggage,20.9
+2019-06,complaint_reason,Customer Service,26.3
+2019-06,complaint_reason,Disability,0.8
+2019-06,complaint_reason,Staff Behaviour,4.0
+2019-06,complaint_reason,Catering,0.0
+2019-06,complaint_reason,Others,3.3
+2019-06,cancel_reason,Technical,40.8
+2019-06,cancel_reason,Weather,18.4
+2019-06,cancel_reason,Commercial,26.6
+2019-06,cancel_reason,Operational,6.4
+2019-06,cancel_reason,Conse/Misc,7.8
+2019-06,delay_reason,Pax,2.0
+2019-06,delay_reason,Ramp,1.0
+2019-06,delay_reason,Tech,6.0
+2019-06,delay_reason,Ops,8.0
+2019-06,delay_reason,Reactionary,65.0
+2019-06,delay_reason,Airport,4.0
+2019-06,delay_reason,Wx,3.0
+2019-06,delay_reason,ATC,11.0
+2019-06,delay_reason,Misc,0.0
+2019-07,complaint_reason,Fare,0.0
+2019-07,complaint_reason,Refund,2.1
+2019-07,complaint_reason,Flight Problem,51.0
+2019-07,complaint_reason,Baggage,18.6
+2019-07,complaint_reason,Customer Service,21.2
+2019-07,complaint_reason,Disability,0.7
+2019-07,complaint_reason,Staff Behaviour,3.0
+2019-07,complaint_reason,Catering,0.1
+2019-07,complaint_reason,Others,3.1
+2019-07,cancel_reason,Technical,21.2
+2019-07,cancel_reason,Weather,45.5
+2019-07,cancel_reason,Commercial,3.3
+2019-07,cancel_reason,Operational,8.8
+2019-07,cancel_reason,Conse/Misc,21.3
+2019-07,delay_reason,Pax,2.0
+2019-07,delay_reason,Ramp,1.0
+2019-07,delay_reason,Tech,4.0
+2019-07,delay_reason,Ops,8.0
+2019-07,delay_reason,Reactionary,62.0
+2019-07,delay_reason,Airport,4.0
+2019-07,delay_reason,Wx,4.0
+2019-07,delay_reason,ATC,14.0
+2019-07,delay_reason,Misc,1.0
+2019-08,complaint_reason,Fare,0.1
+2019-08,complaint_reason,Refund,3.4
+2019-08,complaint_reason,Flight Problem,49.2
+2019-08,complaint_reason,Baggage,20.4
+2019-08,complaint_reason,Customer Service,19.1
+2019-08,complaint_reason,Disability,0.8
+2019-08,complaint_reason,Staff Behaviour,4.1
+2019-08,complaint_reason,Catering,0.1
+2019-08,complaint_reason,Others,2.8
+2019-08,cancel_reason,Technical,39.7
+2019-08,cancel_reason,Weather,35.9
+2019-08,cancel_reason,Commercial,6.7
+2019-08,cancel_reason,Operational,8.9
+2019-08,cancel_reason,Conse/Misc,8.7
+2019-08,delay_reason,Pax,2.0
+2019-08,delay_reason,Ramp,1.0
+2019-08,delay_reason,Tech,5.0
+2019-08,delay_reason,Ops,7.0
+2019-08,delay_reason,Reactionary,66.0
+2019-08,delay_reason,Airport,5.0
+2019-08,delay_reason,Wx,2.0
+2019-08,delay_reason,ATC,12.0
+2019-08,delay_reason,Misc,0.0
+2019-09,complaint_reason,Fare,0.0
+2019-09,complaint_reason,Refund,3.4
+2019-09,complaint_reason,Flight Problem,47.8
+2019-09,complaint_reason,Baggage,21.0
+2019-09,complaint_reason,Customer Service,20.1
+2019-09,complaint_reason,Disability,0.4
+2019-09,complaint_reason,Staff Behaviour,4.6
+2019-09,complaint_reason,Catering,0.0
+2019-09,complaint_reason,Others,2.7
+2019-09,cancel_reason,Technical,60.1
+2019-09,cancel_reason,Weather,27.3
+2019-09,cancel_reason,Commercial,2.8
+2019-09,cancel_reason,Operational,6.2
+2019-09,cancel_reason,Conse/Misc,3.5
+2019-09,delay_reason,Pax,2.0
+2019-09,delay_reason,Ramp,2.0
+2019-09,delay_reason,Tech,5.0
+2019-09,delay_reason,Ops,7.0
+2019-09,delay_reason,Reactionary,64.0
+2019-09,delay_reason,Airport,4.0
+2019-09,delay_reason,Wx,3.0
+2019-09,delay_reason,ATC,12.0
+2019-09,delay_reason,Misc,1.0
+2019-10,complaint_reason,Fare,0.0
+2019-10,complaint_reason,Refund,4.2
+2019-10,complaint_reason,Flight Problem,47.5
+2019-10,complaint_reason,Baggage,20.1
+2019-10,complaint_reason,Customer Service,22.3
+2019-10,complaint_reason,Disability,0.8
+2019-10,complaint_reason,Staff Behaviour,2.1
+2019-10,complaint_reason,Catering,0.3
+2019-10,complaint_reason,Others,2.8
+2019-10,cancel_reason,Technical,50.1
+2019-10,cancel_reason,Weather,12.0
+2019-10,cancel_reason,Commercial,1.7
+2019-10,cancel_reason,Operational,9.5
+2019-10,cancel_reason,Conse/Misc,26.7
+2019-10,delay_reason,Pax,2.0
+2019-10,delay_reason,Ramp,1.0
+2019-10,delay_reason,Tech,4.0
+2019-10,delay_reason,Ops,7.0
+2019-10,delay_reason,Reactionary,63.0
+2019-10,delay_reason,Airport,4.0
+2019-10,delay_reason,Wx,2.0
+2019-10,delay_reason,ATC,16.0
+2019-10,delay_reason,Misc,1.0
+2019-11,complaint_reason,Refund,1.0
+2019-11,complaint_reason,Flight Problem,49.2
+2019-11,complaint_reason,Baggage,27.8
+2019-11,complaint_reason,Customer Service,16.3
+2019-11,complaint_reason,Disability,0.6
+2019-11,complaint_reason,Staff Behaviour,3.0
+2019-11,complaint_reason,Catering,0.2
+2019-11,complaint_reason,Others,0.0
+2019-11,cancel_reason,Technical,32.6
+2019-11,cancel_reason,Weather,45.3
+2019-11,cancel_reason,Commercial,3.9
+2019-11,cancel_reason,Operational,3.8
+2019-11,cancel_reason,Conse/Misc,14.4
+2019-11,delay_reason,Pax,3.0
+2019-11,delay_reason,Ramp,1.0
+2019-11,delay_reason,Tech,3.0
+2019-11,delay_reason,Ops,6.0
+2019-11,delay_reason,Reactionary,66.0
+2019-11,delay_reason,Airport,5.0
+2019-11,delay_reason,Wx,3.0
+2019-11,delay_reason,ATC,12.0
+2019-11,delay_reason,Misc,1.0
+2019-12,complaint_reason,Refund,1.3
+2019-12,complaint_reason,Flight Problem,48.0
+2019-12,complaint_reason,Baggage,15.4
+2019-12,complaint_reason,Customer Service,29.6
+2019-12,complaint_reason,Disability,0.3
+2019-12,complaint_reason,Staff Behaviour,3.8
+2019-12,complaint_reason,Catering,0.3
+2019-12,complaint_reason,Others,0.0
+2019-12,cancel_reason,Technical,15.0
+2019-12,cancel_reason,Weather,68.7
+2019-12,cancel_reason,Commercial,4.8
+2019-12,cancel_reason,Operational,1.2
+2019-12,cancel_reason,Conse/Misc,10.3
+2019-12,delay_reason,Pax,2.0
+2019-12,delay_reason,Ramp,1.0
+2019-12,delay_reason,Tech,3.0
+2019-12,delay_reason,Ops,6.0
+2019-12,delay_reason,Reactionary,65.0
+2019-12,delay_reason,Airport,4.0
+2019-12,delay_reason,Wx,6.0
+2019-12,delay_reason,ATC,13.0
+2019-12,delay_reason,Misc,0.0
+2020-01,complaint_reason,Refund,2.6
+2020-01,complaint_reason,Flight Problem,46.6
+2020-01,complaint_reason,Baggage,24.8
+2020-01,complaint_reason,Customer Service,21.6
+2020-01,complaint_reason,Disability,0.5
+2020-01,complaint_reason,Staff Behaviour,2.4
+2020-01,complaint_reason,Catering,0.0
+2020-01,complaint_reason,Others,0.0
+2020-01,cancel_reason,Technical,24.1
+2020-01,cancel_reason,Weather,52.2
+2020-01,cancel_reason,Commercial,2.5
+2020-01,cancel_reason,Operational,8.3
+2020-01,cancel_reason,Conse/Misc,12.9
+2020-01,delay_reason,Pax,2.0
+2020-01,delay_reason,Ramp,1.0
+2020-01,delay_reason,Tech,2.0
+2020-01,delay_reason,Ops,6.0
+2020-01,delay_reason,Reactionary,65.0
+2020-01,delay_reason,Airport,4.0
+2020-01,delay_reason,Wx,5.0
+2020-01,delay_reason,ATC,15.0
+2020-01,delay_reason,Misc,0.0
+2020-02,complaint_reason,Refund,3.8
+2020-02,complaint_reason,Flight Problem,39.4
+2020-02,complaint_reason,Baggage,20.0
+2020-02,complaint_reason,Customer Service,29.7
+2020-02,complaint_reason,Disability,0.9
+2020-02,complaint_reason,Staff Behaviour,4.3
+2020-02,complaint_reason,Catering,0.1
+2020-02,complaint_reason,Others,0.0
+2020-02,cancel_reason,Technical,43.8
+2020-02,cancel_reason,Weather,24.5
+2020-02,cancel_reason,Commercial,5.0
+2020-02,cancel_reason,Operational,4.1
+2020-02,cancel_reason,Conse/Misc,22.6
+2020-02,delay_reason,Pax,3.0
+2020-02,delay_reason,Ramp,1.0
+2020-02,delay_reason,Tech,3.0
+2020-02,delay_reason,Ops,6.0
+2020-02,delay_reason,Reactionary,64.0
+2020-02,delay_reason,Airport,3.0
+2020-02,delay_reason,Wx,2.0
+2020-02,delay_reason,ATC,18.0
+2020-02,delay_reason,Misc,0.0
+2020-05,complaint_reason,Fare,0.0
+2020-05,complaint_reason,Refund,17.1
+2020-05,complaint_reason,Flight Problem,57.1
+2020-05,complaint_reason,Baggage,0.0
+2020-05,complaint_reason,Customer Service,5.7
+2020-05,complaint_reason,Disability,0.0
+2020-05,complaint_reason,Staff Behaviour,2.9
+2020-05,complaint_reason,Catering,0.0
+2020-05,complaint_reason,Others,17.1
+2020-05,cancel_reason,Technical,6.8
+2020-05,cancel_reason,Weather,3.0
+2020-05,cancel_reason,Commercial,66.9
+2020-05,cancel_reason,Operational,3.8
+2020-05,cancel_reason,Conse/Misc,19.5
+2020-05,delay_reason,Pax,15.0
+2020-05,delay_reason,Ramp,4.0
+2020-05,delay_reason,Tech,14.0
+2020-05,delay_reason,Ops,13.0
+2020-05,delay_reason,Reactionary,40.0
+2020-05,delay_reason,Airport,4.0
+2020-05,delay_reason,Wx,1.0
+2020-05,delay_reason,ATC,1.0
+2020-05,delay_reason,Misc,8.0
+2020-06,complaint_reason,Fare,0.0
+2020-06,complaint_reason,Refund,78.5
+2020-06,complaint_reason,Flight Problem,10.4
+2020-06,complaint_reason,Baggage,1.4
+2020-06,complaint_reason,Customer Service,1.9
+2020-06,complaint_reason,Disability,0.0
+2020-06,complaint_reason,Staff Behaviour,0.9
+2020-06,complaint_reason,Catering,0.0
+2020-06,complaint_reason,Others,6.9
+2020-06,cancel_reason,Technical,9.0
+2020-06,cancel_reason,Weather,5.1
+2020-06,cancel_reason,Commercial,62.0
+2020-06,cancel_reason,Operational,6.2
+2020-06,cancel_reason,Conse/Misc,17.8
+2020-06,delay_reason,Pax,9.0
+2020-06,delay_reason,Ramp,2.0
+2020-06,delay_reason,Tech,12.0
+2020-06,delay_reason,Ops,11.0
+2020-06,delay_reason,Reactionary,52.0
+2020-06,delay_reason,Airport,7.0
+2020-06,delay_reason,Wx,2.0
+2020-06,delay_reason,ATC,1.0
+2020-06,delay_reason,Misc,4.0
+2020-07,complaint_reason,Refund,87.0
+2020-07,complaint_reason,Flight Problem,5.6
+2020-07,complaint_reason,Baggage,2.9
+2020-07,complaint_reason,Customer Service,1.9
+2020-07,complaint_reason,Disability,0.0
+2020-07,complaint_reason,Staff Behaviour,1.3
+2020-07,complaint_reason,Catering,0.0
+2020-07,complaint_reason,Others,0.0
+2020-07,cancel_reason,Technical,12.4
+2020-07,cancel_reason,Weather,2.1
+2020-07,cancel_reason,Commercial,49.2
+2020-07,cancel_reason,Operational,14.0
+2020-07,cancel_reason,Conse/Misc,22.3
+2020-07,delay_reason,Pax,6.0
+2020-07,delay_reason,Ramp,1.0
+2020-07,delay_reason,Tech,13.0
+2020-07,delay_reason,Ops,10.0
+2020-07,delay_reason,Reactionary,52.0
+2020-07,delay_reason,Airport,6.0
+2020-07,delay_reason,Wx,9.0
+2020-07,delay_reason,ATC,2.0
+2020-07,delay_reason,Misc,1.0
+2020-08,complaint_reason,Refund,67.4
+2020-08,complaint_reason,Flight Problem,14.5
+2020-08,complaint_reason,Baggage,2.6
+2020-08,complaint_reason,Customer Service,5.8
+2020-08,complaint_reason,Disability,0.0
+2020-08,complaint_reason,Staff Behaviour,7.4
+2020-08,complaint_reason,Catering,0.0
+2020-08,complaint_reason,Others,0.0
+2020-08,cancel_reason,Technical,3.4
+2020-08,cancel_reason,Weather,9.6
+2020-08,cancel_reason,Commercial,44.6
+2020-08,cancel_reason,Operational,16.3
+2020-08,cancel_reason,Conse/Misc,26.0
+2020-08,delay_reason,Pax,4.0
+2020-08,delay_reason,Ramp,1.0
+2020-08,delay_reason,Tech,13.0
+2020-08,delay_reason,Ops,7.0
+2020-08,delay_reason,Reactionary,56.0
+2020-08,delay_reason,Airport,6.0
+2020-08,delay_reason,Wx,9.0
+2020-08,delay_reason,ATC,3.0
+2020-08,delay_reason,Misc,1.0
+2020-09,complaint_reason,Fare,0.2
+2020-09,complaint_reason,Refund,81.6
+2020-09,complaint_reason,Flight Problem,5.6
+2020-09,complaint_reason,Baggage,3.8
+2020-09,complaint_reason,Customer Service,4.4
+2020-09,complaint_reason,Disability,0.0
+2020-09,complaint_reason,Staff Behaviour,1.6
+2020-09,complaint_reason,Catering,0.0
+2020-09,complaint_reason,Others,2.9
+2020-09,cancel_reason,Technical,3.6
+2020-09,cancel_reason,Weather,1.6
+2020-09,cancel_reason,Commercial,61.5
+2020-09,cancel_reason,Operational,27.7
+2020-09,cancel_reason,Conse/Misc,5.6
+2020-09,delay_reason,Pax,4.0
+2020-09,delay_reason,Ramp,1.0
+2020-09,delay_reason,Tech,14.0
+2020-09,delay_reason,Ops,6.0
+2020-09,delay_reason,Reactionary,57.0
+2020-09,delay_reason,Airport,10.0
+2020-09,delay_reason,Wx,4.0
+2020-09,delay_reason,ATC,2.0
+2020-09,delay_reason,Misc,2.0
+2020-10,complaint_reason,Refund,83.9
+2020-10,complaint_reason,Flight Problem,6.7
+2020-10,complaint_reason,Baggage,2.1
+2020-10,complaint_reason,Customer Service,3.9
+2020-10,complaint_reason,Disability,0.0
+2020-10,complaint_reason,Staff Behaviour,0.9
+2020-10,complaint_reason,Catering,0.0
+2020-10,complaint_reason,Others,0.0
+2020-10,cancel_reason,Technical,11.9
+2020-10,cancel_reason,Weather,6.0
+2020-10,cancel_reason,Commercial,52.0
+2020-10,cancel_reason,Operational,22.3
+2020-10,cancel_reason,Misc,7.8
+2020-10,delay_reason,Pax,5.0
+2020-10,delay_reason,Ramp,1.0
+2020-10,delay_reason,Tech,12.0
+2020-10,delay_reason,Ops,7.0
+2020-10,delay_reason,Reactionary,46.0
+2020-10,delay_reason,Airport,4.0
+2020-10,delay_reason,Wx,13.0
+2020-10,delay_reason,ATC,10.0
+2020-10,delay_reason,Misc,2.0
+2020-11,complaint_reason,Fare,0.0
+2020-11,complaint_reason,Refund,62.4
+2020-11,complaint_reason,Flight Problem,15.0
+2020-11,complaint_reason,Baggage,6.1
+2020-11,complaint_reason,Customer Service,9.9
+2020-11,complaint_reason,Disability,0.0
+2020-11,complaint_reason,Staff Behaviour,0.5
+2020-11,complaint_reason,Catering,0.0
+2020-11,complaint_reason,Others,6.1
+2020-11,cancel_reason,Weather,30.9
+2020-11,cancel_reason,Commercial,53.9
+2020-11,cancel_reason,Operational,3.6
+2020-11,cancel_reason,Misc,5.6
+2020-11,delay_reason,Pax,5.0
+2020-11,delay_reason,Ramp,1.0
+2020-11,delay_reason,Tech,7.0
+2020-11,delay_reason,Ops,7.0
+2020-11,delay_reason,Reactionary,62.0
+2020-11,delay_reason,Airport,3.0
+2020-11,delay_reason,Wx,5.0
+2020-11,delay_reason,ATC,8.0
+2020-11,delay_reason,Misc,2.0
+2020-12,complaint_reason,Fare,0.0
+2020-12,complaint_reason,Refund,61.4
+2020-12,complaint_reason,Flight Problem,14.2
+2020-12,complaint_reason,Baggage,6.1
+2020-12,complaint_reason,Customer Service,11.4
+2020-12,complaint_reason,Disability,0.0
+2020-12,complaint_reason,Staff Behaviour,4.0
+2020-12,complaint_reason,Catering,0.0
+2020-12,complaint_reason,Others,2.8
+2020-12,cancel_reason,Technical,5.5
+2020-12,cancel_reason,Weather,36.6
+2020-12,cancel_reason,Commercial,50.1
+2020-12,cancel_reason,Operational,1.6
+2020-12,cancel_reason,Misc,6.2
+2020-12,delay_reason,Pax,2.0
+2020-12,delay_reason,Ramp,1.0
+2020-12,delay_reason,Tech,6.0
+2020-12,delay_reason,Ops,4.0
+2020-12,delay_reason,Reactionary,58.0
+2020-12,delay_reason,Airport,6.0
+2020-12,delay_reason,Wx,13.0
+2020-12,delay_reason,ATC,9.0
+2020-12,delay_reason,Misc,1.0
+2021-01,complaint_reason,Fare,0.0
+2021-01,complaint_reason,Refund,41.3
+2021-01,complaint_reason,Flight Problem,14.1
+2021-01,complaint_reason,Baggage,12.6
+2021-01,complaint_reason,Customer Service,22.6
+2021-01,complaint_reason,Disability,0.0
+2021-01,complaint_reason,Staff Behaviour,6.6
+2021-01,complaint_reason,Catering,0.0
+2021-01,complaint_reason,Others,2.9
+2021-01,cancel_reason,Technical,3.9
+2021-01,cancel_reason,Weather,58.0
+2021-01,cancel_reason,Commercial,23.5
+2021-01,cancel_reason,Operational,4.0
+2021-01,cancel_reason,Misc,10.5
+2021-01,delay_reason,Pax,2.0
+2021-01,delay_reason,Ramp,1.0
+2021-01,delay_reason,Tech,4.0
+2021-01,delay_reason,Ops,4.0
+2021-01,delay_reason,Reactionary,57.0
+2021-01,delay_reason,Airport,4.0
+2021-01,delay_reason,Wx,17.0
+2021-01,delay_reason,ATC,10.0
+2021-01,delay_reason,Misc,1.0
+2021-02,complaint_reason,Refund,54.6
+2021-02,complaint_reason,Flight Problem,13.2
+2021-02,complaint_reason,Baggage,15.7
+2021-02,complaint_reason,Customer Service,9.0
+2021-02,complaint_reason,Staff Behaviour,4.2
+2021-02,complaint_reason,Catering,0.4
+2021-02,complaint_reason,Others,2.9
+2021-02,cancel_reason,Technical,15.6
+2021-02,cancel_reason,Weather,54.7
+2021-02,cancel_reason,Commercial,13.2
+2021-02,cancel_reason,Operational,1.4
+2021-02,cancel_reason,Misc,15.0
+2021-02,delay_reason,Pax,3.0
+2021-02,delay_reason,Ramp,1.0
+2021-02,delay_reason,Tech,4.0
+2021-02,delay_reason,Ops,5.0
+2021-02,delay_reason,Reactionary,62.0
+2021-02,delay_reason,Airport,3.0
+2021-02,delay_reason,Wx,12.0
+2021-02,delay_reason,ATC,8.0
+2021-02,delay_reason,Misc,1.0
+2021-03,complaint_reason,Refund,65.7
+2021-03,complaint_reason,Flight Problem,3.7
+2021-03,complaint_reason,Baggage,6.6
+2021-03,complaint_reason,Customer Service,19.0
+2021-03,complaint_reason,Staff Behaviour,4.0
+2021-03,complaint_reason,Catering,0.4
+2021-03,complaint_reason,Others,0.6
+2021-03,cancel_reason,Technical,20.5
+2021-03,cancel_reason,Weather,19.5
+2021-03,cancel_reason,Commercial,42.1
+2021-03,cancel_reason,Operational,9.8
+2021-03,cancel_reason,Misc,8.1
+2021-03,delay_reason,Pax,5.0
+2021-03,delay_reason,Ramp,1.0
+2021-03,delay_reason,Tech,7.0
+2021-03,delay_reason,Ops,4.0
+2021-03,delay_reason,Reactionary,70.0
+2021-03,delay_reason,Airport,5.0
+2021-03,delay_reason,Wx,4.0
+2021-03,delay_reason,ATC,3.0
+2021-03,delay_reason,Misc,2.0
+2021-04,complaint_reason,Fare,0.0
+2021-04,complaint_reason,Refund,75.9
+2021-04,complaint_reason,Flight Problem,5.3
+2021-04,complaint_reason,Baggage,6.0
+2021-04,complaint_reason,Customer Service,7.0
+2021-04,complaint_reason,Disability,0.0
+2021-04,complaint_reason,Staff Behaviour,3.8
+2021-04,complaint_reason,Catering,0.3
+2021-04,complaint_reason,Others,1.8
+2021-04,cancel_reason,Weather,5.4
+2021-04,cancel_reason,Commercial,76.9
+2021-04,cancel_reason,Operational,6.8
+2021-04,delay_reason,Pax,5.0
+2021-04,delay_reason,Ramp,2.0
+2021-04,delay_reason,Tech,7.0
+2021-04,delay_reason,Ops,5.0
+2021-04,delay_reason,Reactionary,66.0
+2021-04,delay_reason,Airport,8.0
+2021-04,delay_reason,Wx,1.0
+2021-04,delay_reason,ATC,3.0
+2021-04,delay_reason,Misc,3.0
+2021-05,complaint_reason,Fare,0.3
+2021-05,complaint_reason,Refund,54.1
+2021-05,complaint_reason,Flight Problem,16.3
+2021-05,complaint_reason,Baggage,3.6
+2021-05,complaint_reason,Customer Service,15.1
+2021-05,complaint_reason,Disability,0.0
+2021-05,complaint_reason,Staff Behaviour,5.0
+2021-05,complaint_reason,Catering,0.0
+2021-05,complaint_reason,Others,5.6
+2021-05,cancel_reason,Technical,1.0
+2021-05,cancel_reason,Weather,17.0
+2021-05,cancel_reason,Commercial,67.9
+2021-05,cancel_reason,Operational,7.6
+2021-05,cancel_reason,Misc,6.4
+2021-05,delay_reason,Pax,3.0
+2021-05,delay_reason,Ramp,2.0
+2021-05,delay_reason,Tech,14.0
+2021-05,delay_reason,Ops,7.0
+2021-05,delay_reason,Reactionary,45.0
+2021-05,delay_reason,Airport,16.0
+2021-05,delay_reason,Wx,5.0
+2021-05,delay_reason,ATC,7.0
+2021-05,delay_reason,Misc,1.0
+2021-06,complaint_reason,Fare,0.0
+2021-06,complaint_reason,Refund,52.8
+2021-06,complaint_reason,Flight Problem,19.9
+2021-06,complaint_reason,Baggage,4.3
+2021-06,complaint_reason,Customer Service,16.6
+2021-06,complaint_reason,Disability,0.0
+2021-06,complaint_reason,Staff Behaviour,5.6
+2021-06,complaint_reason,Catering,0.0
+2021-06,complaint_reason,Others,0.7
+2021-06,cancel_reason,Technical,8.1
+2021-06,cancel_reason,Weather,24.9
+2021-06,cancel_reason,Commercial,46.5
+2021-06,cancel_reason,Operational,2.1
+2021-06,cancel_reason,Misc,18.4
+2021-06,delay_reason,Pax,5.0
+2021-06,delay_reason,Ramp,2.0
+2021-06,delay_reason,Tech,8.0
+2021-06,delay_reason,Ops,8.0
+2021-06,delay_reason,Reactionary,55.0
+2021-06,delay_reason,Airport,4.0
+2021-06,delay_reason,Wx,6.0
+2021-06,delay_reason,ATC,7.0
+2021-06,delay_reason,Misc,5.0
+2021-07,complaint_reason,Fare,0.0
+2021-07,complaint_reason,Refund,42.2
+2021-07,complaint_reason,Flight Problem,19.9
+2021-07,complaint_reason,Baggage,4.9
+2021-07,complaint_reason,Customer Service,16.5
+2021-07,complaint_reason,Disability,0.0
+2021-07,complaint_reason,Staff Behaviour,16.5
+2021-07,complaint_reason,Catering,0.0
+2021-07,complaint_reason,Others,0.0
+2021-07,cancel_reason,Technical,8.8
+2021-07,cancel_reason,Weather,61.0
+2021-07,cancel_reason,Commercial,21.2
+2021-07,cancel_reason,Operational,1.3
+2021-07,cancel_reason,Misc,7.8
+2021-07,delay_reason,Pax,3.0
+2021-07,delay_reason,Ramp,1.0
+2021-07,delay_reason,Tech,9.0
+2021-07,delay_reason,Ops,12.0
+2021-07,delay_reason,Reactionary,47.0
+2021-07,delay_reason,Airport,8.0
+2021-07,delay_reason,Wx,11.0
+2021-07,delay_reason,ATC,8.0
+2021-07,delay_reason,Misc,1.0
+2021-08,complaint_reason,Fare,0.0
+2021-08,complaint_reason,Refund,44.1
+2021-08,complaint_reason,Flight Problem,16.3
+2021-08,complaint_reason,Baggage,8.6
+2021-08,complaint_reason,Customer Service,21.3
+2021-08,complaint_reason,Disability,0.0
+2021-08,complaint_reason,Staff Behaviour,6.5
+2021-08,complaint_reason,Catering,0.0
+2021-08,complaint_reason,Others,3.3
+2021-08,cancel_reason,Technical,10.3
+2021-08,cancel_reason,Weather,49.5
+2021-08,cancel_reason,Commercial,28.8
+2021-08,cancel_reason,Operational,0.9
+2021-08,cancel_reason,Misc,10.6
+2021-08,delay_reason,Pax,8.0
+2021-08,delay_reason,Ramp,2.0
+2021-08,delay_reason,Tech,11.0
+2021-08,delay_reason,Ops,9.0
+2021-08,delay_reason,Reactionary,59.0
+2021-08,delay_reason,Airport,4.0
+2021-08,delay_reason,Wx,2.0
+2021-08,delay_reason,ATC,4.0
+2021-08,delay_reason,Misc,1.0
+2021-09,complaint_reason,Fare,0.0
+2021-09,complaint_reason,Refund,29.2
+2021-09,complaint_reason,Flight Problem,28.4
+2021-09,complaint_reason,Baggage,24.0
+2021-09,complaint_reason,Customer Service,7.1
+2021-09,complaint_reason,Disability,0.0
+2021-09,complaint_reason,Staff Behaviour,6.0
+2021-09,complaint_reason,Catering,1.9
+2021-09,complaint_reason,Others,3.3
+2021-09,cancel_reason,Technical,7.1
+2021-09,cancel_reason,Weather,37.0
+2021-09,cancel_reason,Commercial,30.1
+2021-09,cancel_reason,Operational,3.5
+2021-09,cancel_reason,Misc,22.3
+2021-09,delay_reason,Pax,5.0
+2021-09,delay_reason,Ramp,2.0
+2021-09,delay_reason,Tech,7.0
+2021-09,delay_reason,Ops,6.0
+2021-09,delay_reason,Reactionary,66.0
+2021-09,delay_reason,Airport,4.0
+2021-09,delay_reason,Wx,6.0
+2021-09,delay_reason,ATC,3.0
+2021-09,delay_reason,Misc,1.0
+2021-10,complaint_reason,Fare,13.3
+2021-10,complaint_reason,Refund,22.5
+2021-10,complaint_reason,Flight Problem,40.2
+2021-10,complaint_reason,Baggage,6.4
+2021-10,complaint_reason,Customer Service,10.7
+2021-10,complaint_reason,Disability,0.6
+2021-10,complaint_reason,Staff Behaviour,3.9
+2021-10,complaint_reason,Catering,0.2
+2021-10,complaint_reason,Others,2.1
+2021-10,cancel_reason,Technical,13.2
+2021-10,cancel_reason,Weather,46.4
+2021-10,cancel_reason,Commercial,25.0
+2021-10,cancel_reason,Operational,1.0
+2021-10,cancel_reason,Misc,14.5
+2021-10,delay_reason,Pax,5.0
+2021-10,delay_reason,Ramp,2.0
+2021-10,delay_reason,Tech,4.0
+2021-10,delay_reason,Ops,6.0
+2021-10,delay_reason,Reactionary,67.0
+2021-10,delay_reason,Airport,6.0
+2021-10,delay_reason,Wx,2.0
+2021-10,delay_reason,ATC,7.0
+2021-10,delay_reason,Misc,1.0
+2021-11,complaint_reason,Fare,5.8
+2021-11,complaint_reason,Refund,13.5
+2021-11,complaint_reason,Flight Problem,28.0
+2021-11,complaint_reason,Baggage,2.7
+2021-11,complaint_reason,Customer Service,39.2
+2021-11,complaint_reason,Disability,0.4
+2021-11,complaint_reason,Staff Behaviour,7.4
+2021-11,complaint_reason,Catering,0.0
+2021-11,complaint_reason,Others,3.1
+2021-11,cancel_reason,Technical,22.5
+2021-11,cancel_reason,Weather,48.5
+2021-11,cancel_reason,Commercial,20.3
+2021-11,cancel_reason,Operational,0.2
+2021-11,cancel_reason,Misc,8.5
+2021-11,delay_reason,Pax,5.0
+2021-11,delay_reason,Ramp,2.0
+2021-11,delay_reason,Tech,3.0
+2021-11,delay_reason,Ops,6.0
+2021-11,delay_reason,Reactionary,72.0
+2021-11,delay_reason,Airport,3.0
+2021-11,delay_reason,Wx,1.0
+2021-11,delay_reason,ATC,7.0
+2021-11,delay_reason,Misc,1.0
+2021-12,complaint_reason,Fare,5.1
+2021-12,complaint_reason,Refund,15.2
+2021-12,complaint_reason,Flight Problem,33.9
+2021-12,complaint_reason,Baggage,10.7
+2021-12,complaint_reason,Customer Service,14.9
+2021-12,complaint_reason,Disability,0.4
+2021-12,complaint_reason,Staff Behaviour,4.6
+2021-12,complaint_reason,Catering,0.2
+2021-12,complaint_reason,Others,15.0
+2021-12,cancel_reason,Technical,17.6
+2021-12,cancel_reason,Weather,69.2
+2021-12,cancel_reason,Commercial,8.1
+2021-12,cancel_reason,Operational,1.8
+2021-12,cancel_reason,Misc,3.3
+2021-12,delay_reason,Pax,3.0
+2021-12,delay_reason,Ramp,1.0
+2021-12,delay_reason,Tech,3.0
+2021-12,delay_reason,Ops,5.0
+2021-12,delay_reason,Reactionary,69.0
+2021-12,delay_reason,Airport,3.0
+2021-12,delay_reason,Wx,5.0
+2021-12,delay_reason,ATC,11.0
+2021-12,delay_reason,Misc,0.0
+2022-01,complaint_reason,Fare,3.4
+2022-01,complaint_reason,Refund,41.5
+2022-01,complaint_reason,Flight Problem,41.1
+2022-01,complaint_reason,Baggage,5.0
+2022-01,complaint_reason,Customer Service,4.8
+2022-01,complaint_reason,Disability,0.0
+2022-01,complaint_reason,Staff Behaviour,3.8
+2022-01,complaint_reason,Catering,0.0
+2022-01,complaint_reason,Others,0.4
+2022-01,cancel_reason,Technical,3.5
+2022-01,cancel_reason,Weather,46.5
+2022-01,cancel_reason,Commercial,25.0
+2022-01,cancel_reason,Operational,22.2
+2022-01,cancel_reason,Misc,2.9
+2022-01,delay_reason,Pax,3.0
+2022-01,delay_reason,Ramp,1.0
+2022-01,delay_reason,Tech,4.0
+2022-01,delay_reason,Ops,9.0
+2022-01,delay_reason,Reactionary,58.0
+2022-01,delay_reason,Airport,2.0
+2022-01,delay_reason,Wx,12.0
+2022-01,delay_reason,ATC,11.0
+2022-01,delay_reason,Misc,0.0
+2022-02,complaint_reason,Fare,0.6
+2022-02,complaint_reason,Refund,31.5
+2022-02,complaint_reason,Flight Problem,34.3
+2022-02,complaint_reason,Baggage,8.6
+2022-02,complaint_reason,Customer Service,17.7
+2022-02,complaint_reason,Disability,0.9
+2022-02,complaint_reason,Staff Behaviour,5.5
+2022-02,complaint_reason,Catering,0.3
+2022-02,complaint_reason,Others,0.6
+2022-02,cancel_reason,Technical,10.2
+2022-02,cancel_reason,Weather,45.3
+2022-02,cancel_reason,Commercial,29.7
+2022-02,cancel_reason,Operational,8.2
+2022-02,delay_reason,Pax,4.0
+2022-02,delay_reason,Ramp,1.0
+2022-02,delay_reason,Tech,6.0
+2022-02,delay_reason,Ops,7.0
+2022-02,delay_reason,Reactionary,58.0
+2022-02,delay_reason,Airport,11.0
+2022-02,delay_reason,Wx,4.0
+2022-02,delay_reason,ATC,9.0
+2022-02,delay_reason,Misc,0.0
+2022-03,complaint_reason,Fare,0.7
+2022-03,complaint_reason,Refund,29.7
+2022-03,complaint_reason,Flight Problem,37.8
+2022-03,complaint_reason,Baggage,7.2
+2022-03,complaint_reason,Customer Service,19.4
+2022-03,complaint_reason,Disability,0.7
+2022-03,complaint_reason,Staff Behaviour,3.7
+2022-03,complaint_reason,Catering,0.0
+2022-03,complaint_reason,Others,0.9
+2022-03,cancel_reason,Technical,8.7
+2022-03,cancel_reason,Weather,16.6
+2022-03,cancel_reason,Commercial,10.2
+2022-03,cancel_reason,Operational,47.2
+2022-03,delay_reason,Pax,4.0
+2022-03,delay_reason,Ramp,2.0
+2022-03,delay_reason,Tech,5.0
+2022-03,delay_reason,Ops,7.0
+2022-03,delay_reason,Reactionary,65.0
+2022-03,delay_reason,Airport,4.0
+2022-03,delay_reason,Wx,2.0
+2022-03,delay_reason,ATC,9.0
+2022-03,delay_reason,Misc,2.0
+2022-04,complaint_reason,Fare,12.4
+2022-04,complaint_reason,Refund,15.8
+2022-04,complaint_reason,Flight Problem,44.9
+2022-04,complaint_reason,Baggage,8.4
+2022-04,complaint_reason,Customer Service,11.6
+2022-04,complaint_reason,Disability,0.0
+2022-04,complaint_reason,Staff Behaviour,4.0
+2022-04,complaint_reason,Catering,0.0
+2022-04,complaint_reason,Others,2.7
+2022-04,cancel_reason,Technical,57.7
+2022-04,cancel_reason,Weather,26.9
+2022-04,cancel_reason,Commercial,6.4
+2022-04,cancel_reason,Operational,4.5
+2022-04,cancel_reason,Misc,4.5
+2022-04,delay_reason,Pax,5.0
+2022-04,delay_reason,Ramp,2.0
+2022-04,delay_reason,Tech,6.0
+2022-04,delay_reason,Ops,8.0
+2022-04,delay_reason,Reactionary,67.0
+2022-04,delay_reason,Airport,3.0
+2022-04,delay_reason,Wx,2.0
+2022-04,delay_reason,ATC,6.0
+2022-04,delay_reason,Misc,1.0
+2022-05,complaint_reason,Fare,4.5
+2022-05,complaint_reason,Refund,18.1
+2022-05,complaint_reason,Flight Problem,40.4
+2022-05,complaint_reason,Baggage,12.6
+2022-05,complaint_reason,Customer Service,13.7
+2022-05,complaint_reason,Disability,0.5
+2022-05,complaint_reason,Staff Behaviour,5.6
+2022-05,complaint_reason,Catering,0.4
+2022-05,complaint_reason,Others,4.2
+2022-05,cancel_reason,Technical,10.7
+2022-05,cancel_reason,Weather,51.6
+2022-05,cancel_reason,Commercial,1.1
+2022-05,cancel_reason,Operational,28.6
+2022-05,cancel_reason,Misc,7.9
+2022-05,delay_reason,Pax,3.0
+2022-05,delay_reason,Ramp,1.0
+2022-05,delay_reason,Tech,6.0
+2022-05,delay_reason,Ops,5.0
+2022-05,delay_reason,Reactionary,71.0
+2022-05,delay_reason,Airport,3.0
+2022-05,delay_reason,Wx,4.0
+2022-05,delay_reason,ATC,6.0
+2022-05,delay_reason,Misc,1.0
+2022-06,complaint_reason,Fare,4.0
+2022-06,complaint_reason,Refund,18.9
+2022-06,complaint_reason,Flight Problem,32.8
+2022-06,complaint_reason,Baggage,11.8
+2022-06,complaint_reason,Customer Service,19.1
+2022-06,complaint_reason,Disability,0.0
+2022-06,complaint_reason,Staff Behaviour,6.3
+2022-06,complaint_reason,Catering,0.2
+2022-06,complaint_reason,Others,6.8
+2022-06,cancel_reason,Technical,31.3
+2022-06,cancel_reason,Weather,28.2
+2022-06,cancel_reason,Commercial,2.1
+2022-06,cancel_reason,Operational,32.8
+2022-06,cancel_reason,Misc,5.6
+2022-06,delay_reason,Pax,4.0
+2022-06,delay_reason,Ramp,1.0
+2022-06,delay_reason,Tech,6.0
+2022-06,delay_reason,Ops,8.0
+2022-06,delay_reason,Reactionary,68.0
+2022-06,delay_reason,Airport,2.0
+2022-06,delay_reason,Wx,3.0
+2022-06,delay_reason,ATC,7.0
+2022-06,delay_reason,Misc,1.0
+2022-07,complaint_reason,Fare,1.9
+2022-07,complaint_reason,Refund,30.3
+2022-07,complaint_reason,Flight Problem,28.3
+2022-07,complaint_reason,Baggage,11.5
+2022-07,complaint_reason,Customer Service,6.6
+2022-07,complaint_reason,Disability,0.2
+2022-07,complaint_reason,Staff Behaviour,1.7
+2022-07,complaint_reason,Catering,0.0
+2022-07,complaint_reason,Others,19.6
+2022-07,cancel_reason,Technical,23.2
+2022-07,cancel_reason,Weather,11.8
+2022-07,cancel_reason,Commercial,4.8
+2022-07,cancel_reason,Operational,58.4
+2022-07,cancel_reason,Misc,1.8
+2022-07,delay_reason,Pax,4.0
+2022-07,delay_reason,Ramp,1.0
+2022-07,delay_reason,Tech,6.0
+2022-07,delay_reason,Ops,9.0
+2022-07,delay_reason,Reactionary,65.0
+2022-07,delay_reason,Airport,3.0
+2022-07,delay_reason,Wx,5.0
+2022-07,delay_reason,ATC,7.0
+2022-07,delay_reason,Misc,0.0
+2022-08,complaint_reason,Fare,1.3
+2022-08,complaint_reason,Refund,27.8
+2022-08,complaint_reason,Flight Problem,30.7
+2022-08,complaint_reason,Baggage,17.6
+2022-08,complaint_reason,Customer Service,5.2
+2022-08,complaint_reason,Disability,0.2
+2022-08,complaint_reason,Staff Behaviour,2.7
+2022-08,complaint_reason,Catering,0.5
+2022-08,complaint_reason,Others,14.0
+2022-08,cancel_reason,Technical,27.0
+2022-08,cancel_reason,Weather,14.0
+2022-08,cancel_reason,Commercial,56.5
+2022-08,cancel_reason,Operational,0.0
+2022-08,cancel_reason,Misc,2.5
+2022-08,delay_reason,Pax,3.0
+2022-08,delay_reason,Ramp,1.0
+2022-08,delay_reason,Tech,8.0
+2022-08,delay_reason,Ops,6.0
+2022-08,delay_reason,Reactionary,68.0
+2022-08,delay_reason,Airport,2.0
+2022-08,delay_reason,Wx,4.0
+2022-08,delay_reason,ATC,7.0
+2022-08,delay_reason,Misc,1.0
+2022-09,complaint_reason,Fare,2.5
+2022-09,complaint_reason,Refund,33.8
+2022-09,complaint_reason,Flight Problem,33.8
+2022-09,complaint_reason,Baggage,11.0
+2022-09,complaint_reason,Customer Service,4.4
+2022-09,complaint_reason,Disability,0.2
+2022-09,complaint_reason,Staff Behaviour,2.3
+2022-09,complaint_reason,Catering,0.2
+2022-09,complaint_reason,Others,11.6
+2022-09,cancel_reason,Technical,33.3
+2022-09,cancel_reason,Weather,23.9
+2022-09,cancel_reason,Commercial,37.4
+2022-09,cancel_reason,Operational,3.0
+2022-09,cancel_reason,Misc,2.3
+2022-09,delay_reason,Pax,4.0
+2022-09,delay_reason,Ramp,1.0
+2022-09,delay_reason,Tech,6.0
+2022-09,delay_reason,Ops,6.0
+2022-09,delay_reason,Reactionary,68.0
+2022-09,delay_reason,Airport,3.0
+2022-09,delay_reason,Wx,3.0
+2022-09,delay_reason,ATC,8.0
+2022-09,delay_reason,Misc,1.0
+2022-10,complaint_reason,Fare,0.5
+2022-10,complaint_reason,Refund,26.8
+2022-10,complaint_reason,Flight Problem,27.0
+2022-10,complaint_reason,Baggage,13.6
+2022-10,complaint_reason,Customer Service,4.8
+2022-10,complaint_reason,Disability,0.0
+2022-10,complaint_reason,Staff Behaviour,4.3
+2022-10,complaint_reason,Catering,0.3
+2022-10,complaint_reason,Others,22.7
+2022-10,cancel_reason,Technical,24.1
+2022-10,cancel_reason,Weather,55.6
+2022-10,cancel_reason,Commercial,14.2
+2022-10,cancel_reason,Operational,2.2
+2022-10,cancel_reason,Misc,3.9
+2022-10,delay_reason,Pax,4.0
+2022-10,delay_reason,Ramp,1.0
+2022-10,delay_reason,Tech,6.0
+2022-10,delay_reason,Ops,8.0
+2022-10,delay_reason,Reactionary,68.0
+2022-10,delay_reason,Airport,2.0
+2022-10,delay_reason,Wx,3.0
+2022-10,delay_reason,ATC,7.0
+2022-10,delay_reason,Misc,1.0
+2022-11,complaint_reason,Fare,0.5
+2022-11,complaint_reason,Refund,30.5
+2022-11,complaint_reason,Flight Problem,16.4
+2022-11,complaint_reason,Baggage,21.6
+2022-11,complaint_reason,Customer Service,6.9
+2022-11,complaint_reason,Disability,0.5
+2022-11,complaint_reason,Staff Behaviour,6.2
+2022-11,complaint_reason,Catering,0.5
+2022-11,complaint_reason,Others,16.9
+2022-11,cancel_reason,Technical,41.7
+2022-11,cancel_reason,Weather,31.6
+2022-11,cancel_reason,Commercial,14.1
+2022-11,cancel_reason,Operational,8.3
+2022-11,cancel_reason,Misc,4.4
+2022-11,delay_reason,Pax,4.0
+2022-11,delay_reason,Ramp,1.0
+2022-11,delay_reason,Tech,5.0
+2022-11,delay_reason,Ops,8.0
+2022-11,delay_reason,Reactionary,70.0
+2022-11,delay_reason,Airport,2.0
+2022-11,delay_reason,Wx,2.0
+2022-11,delay_reason,ATC,7.0
+2022-11,delay_reason,Misc,1.0
+2022-12,complaint_reason,Fare,1.2
+2022-12,complaint_reason,Refund,23.8
+2022-12,complaint_reason,Flight Problem,24.0
+2022-12,complaint_reason,Baggage,22.3
+2022-12,complaint_reason,Customer Service,9.6
+2022-12,complaint_reason,Disability,0.0
+2022-12,complaint_reason,Staff Behaviour,7.1
+2022-12,complaint_reason,Catering,0.2
+2022-12,complaint_reason,Others,11.8
+2022-12,cancel_reason,Technical,7.8
+2022-12,cancel_reason,Weather,81.1
+2022-12,cancel_reason,Commercial,6.4
+2022-12,cancel_reason,Operational,2.1
+2022-12,cancel_reason,Misc,2.5
+2022-12,delay_reason,Pax,3.0
+2022-12,delay_reason,Ramp,1.0
+2022-12,delay_reason,Tech,3.0
+2022-12,delay_reason,Ops,8.0
+2022-12,delay_reason,Reactionary,68.0
+2022-12,delay_reason,Airport,3.0
+2022-12,delay_reason,Wx,4.0
+2022-12,delay_reason,ATC,9.0
+2022-12,delay_reason,Misc,1.0
+2023-01,complaint_reason,Fare,0.5
+2023-01,complaint_reason,Refund,23.7
+2023-01,complaint_reason,Flight Problem,27.3
+2023-01,complaint_reason,Baggage,20.6
+2023-01,complaint_reason,Customer Service,10.0
+2023-01,complaint_reason,Disability,0.0
+2023-01,complaint_reason,Staff Behaviour,8.9
+2023-01,complaint_reason,Catering,0.2
+2023-01,complaint_reason,Others,8.9
+2023-01,cancel_reason,Technical,4.8
+2023-01,cancel_reason,Weather,86.5
+2023-01,cancel_reason,Commercial,5.8
+2023-01,cancel_reason,Operational,0.6
+2023-01,cancel_reason,Misc,2.3
+2023-01,delay_reason,Pax,2.0
+2023-01,delay_reason,Ramp,1.0
+2023-01,delay_reason,Tech,2.0
+2023-01,delay_reason,Ops,7.0
+2023-01,delay_reason,Reactionary,67.0
+2023-01,delay_reason,Airport,2.0
+2023-01,delay_reason,Wx,7.0
+2023-01,delay_reason,ATC,11.0
+2023-01,delay_reason,Misc,1.0
+2023-02,complaint_reason,Fare,0.3
+2023-02,complaint_reason,Refund,12.0
+2023-02,complaint_reason,Flight Problem,28.4
+2023-02,complaint_reason,Baggage,26.2
+2023-02,complaint_reason,Customer Service,8.1
+2023-02,complaint_reason,Disability,0.6
+2023-02,complaint_reason,Staff Behaviour,3.9
+2023-02,complaint_reason,Catering,3.3
+2023-02,complaint_reason,Others,17.3
+2023-02,cancel_reason,Technical,27.0
+2023-02,cancel_reason,Weather,43.1
+2023-02,cancel_reason,Commercial,0.5
+2023-02,cancel_reason,Operational,21.6
+2023-02,cancel_reason,Misc,7.8
+2023-02,delay_reason,Pax,2.0
+2023-02,delay_reason,Ramp,2.0
+2023-02,delay_reason,Tech,3.0
+2023-02,delay_reason,Ops,8.0
+2023-02,delay_reason,Reactionary,69.0
+2023-02,delay_reason,Airport,3.0
+2023-02,delay_reason,Wx,3.0
+2023-02,delay_reason,ATC,9.0
+2023-02,delay_reason,Misc,1.0
+2023-03,complaint_reason,Fare,0.6
+2023-03,complaint_reason,Refund,11.5
+2023-03,complaint_reason,Flight Problem,38.6
+2023-03,complaint_reason,Baggage,22.2
+2023-03,complaint_reason,Customer Service,6.9
+2023-03,complaint_reason,Disability,0.3
+2023-03,complaint_reason,Staff Behaviour,4.0
+2023-03,complaint_reason,Catering,4.3
+2023-03,complaint_reason,Others,11.5
+2023-03,cancel_reason,Technical,53.6
+2023-03,cancel_reason,Weather,22.2
+2023-03,cancel_reason,Commercial,2.3
+2023-03,cancel_reason,Operational,11.5
+2023-03,cancel_reason,Misc,10.3
+2023-03,delay_reason,Pax,3.0
+2023-03,delay_reason,Ramp,1.0
+2023-03,delay_reason,Tech,5.0
+2023-03,delay_reason,Ops,7.0
+2023-03,delay_reason,Reactionary,72.0
+2023-03,delay_reason,Airport,3.0
+2023-03,delay_reason,Wx,2.0
+2023-03,delay_reason,ATC,7.0
+2023-03,delay_reason,Misc,0.0
+2023-04,complaint_reason,Fare,0.3
+2023-04,complaint_reason,Refund,11.7
+2023-04,complaint_reason,Flight Problem,33.6
+2023-04,complaint_reason,Baggage,16.9
+2023-04,complaint_reason,Customer Service,6.7
+2023-04,complaint_reason,Disability,0.3
+2023-04,complaint_reason,Staff Behaviour,2.5
+2023-04,complaint_reason,Catering,0.8
+2023-04,complaint_reason,Others,27.2
+2023-04,cancel_reason,Technical,36.1
+2023-04,cancel_reason,Weather,13.5
+2023-04,cancel_reason,Commercial,2.6
+2023-04,cancel_reason,Operational,43.5
+2023-04,cancel_reason,Misc,4.3
+2023-04,delay_reason,Pax,3.0
+2023-04,delay_reason,Ramp,1.0
+2023-04,delay_reason,Tech,5.0
+2023-04,delay_reason,Ops,7.0
+2023-04,delay_reason,Reactionary,74.0
+2023-04,delay_reason,Airport,2.0
+2023-04,delay_reason,Wx,2.0
+2023-04,delay_reason,ATC,6.0
+2023-04,delay_reason,Misc,0.0
+2023-05,complaint_reason,Fare,0.2
+2023-05,complaint_reason,Refund,46.4
+2023-05,complaint_reason,Flight Problem,25.7
+2023-05,complaint_reason,Baggage,11.3
+2023-05,complaint_reason,Customer Service,5.0
+2023-05,complaint_reason,Disability,0.2
+2023-05,complaint_reason,Staff Behaviour,1.1
+2023-05,complaint_reason,Catering,0.4
+2023-05,complaint_reason,Others,9.7
+2023-05,cancel_reason,Technical,55.8
+2023-05,cancel_reason,Weather,18.5
+2023-05,cancel_reason,Commercial,0.3
+2023-05,cancel_reason,Operational,3.9
+2023-05,cancel_reason,Misc,21.6
+2023-05,delay_reason,Pax,4.0
+2023-05,delay_reason,Ramp,2.0
+2023-05,delay_reason,Tech,6.0
+2023-05,delay_reason,Ops,5.0
+2023-05,delay_reason,Reactionary,71.0
+2023-05,delay_reason,Airport,3.0
+2023-05,delay_reason,Wx,3.0
+2023-05,delay_reason,ATC,6.0
+2023-05,delay_reason,Misc,0.0
+2023-06,complaint_reason,Fare,0.6
+2023-06,complaint_reason,Refund,10.2
+2023-06,complaint_reason,Flight Problem,49.7
+2023-06,complaint_reason,Baggage,18.0
+2023-06,complaint_reason,Customer Service,6.7
+2023-06,complaint_reason,Disability,0.6
+2023-06,complaint_reason,Staff Behaviour,2.0
+2023-06,complaint_reason,Catering,1.2
+2023-06,complaint_reason,Others,11.0
+2023-06,cancel_reason,Technical,30.8
+2023-06,cancel_reason,Weather,42.0
+2023-06,cancel_reason,Commercial,2.6
+2023-06,cancel_reason,Operational,10.1
+2023-06,cancel_reason,Misc,14.4
+2023-06,delay_reason,Pax,3.0
+2023-06,delay_reason,Ramp,2.0
+2023-06,delay_reason,Tech,5.0
+2023-06,delay_reason,Ops,8.0
+2023-06,delay_reason,Reactionary,68.0
+2023-06,delay_reason,Airport,3.0
+2023-06,delay_reason,Wx,4.0
+2023-06,delay_reason,ATC,7.0
+2023-06,delay_reason,Misc,0.0
+2023-07,complaint_reason,Fare,0.3
+2023-07,complaint_reason,Refund,15.5
+2023-07,complaint_reason,Flight Problem,40.7
+2023-07,complaint_reason,Baggage,22.1
+2023-07,complaint_reason,Customer Service,6.6
+2023-07,complaint_reason,Disability,0.9
+2023-07,complaint_reason,Staff Behaviour,3.7
+2023-07,complaint_reason,Catering,0.6
+2023-07,complaint_reason,Others,9.7
+2023-07,cancel_reason,Technical,50.1
+2023-07,cancel_reason,Weather,35.3
+2023-07,cancel_reason,Commercial,0.5
+2023-07,cancel_reason,Operational,8.0
+2023-07,cancel_reason,Misc,6.1
+2023-07,delay_reason,Pax,2.0
+2023-07,delay_reason,Ramp,1.0
+2023-07,delay_reason,Tech,4.0
+2023-07,delay_reason,Ops,8.0
+2023-07,delay_reason,Reactionary,65.0
+2023-07,delay_reason,Airport,2.0
+2023-07,delay_reason,Wx,9.0
+2023-07,delay_reason,ATC,9.0
+2023-07,delay_reason,Misc,0.0
+2023-08,complaint_reason,Fare,0.3
+2023-08,complaint_reason,Refund,16.0
+2023-08,complaint_reason,Flight Problem,41.3
+2023-08,complaint_reason,Baggage,18.4
+2023-08,complaint_reason,Customer Service,5.9
+2023-08,complaint_reason,Disability,1.0
+2023-08,complaint_reason,Staff Behaviour,2.4
+2023-08,complaint_reason,Catering,0.3
+2023-08,complaint_reason,Others,14.2
+2023-08,cancel_reason,Technical,50.1
+2023-08,cancel_reason,Weather,23.3
+2023-08,cancel_reason,Commercial,0.2
+2023-08,cancel_reason,Operational,10.3
+2023-08,cancel_reason,Misc,16.2
+2023-08,delay_reason,Pax,3.0
+2023-08,delay_reason,Ramp,1.0
+2023-08,delay_reason,Tech,4.0
+2023-08,delay_reason,Ops,9.0
+2023-08,delay_reason,Reactionary,62.0
+2023-08,delay_reason,Airport,3.0
+2023-08,delay_reason,Wx,3.0
+2023-08,delay_reason,ATC,13.0
+2023-08,delay_reason,Misc,2.0
+2023-09,complaint_reason,Fare,0.4
+2023-09,complaint_reason,Refund,15.4
+2023-09,complaint_reason,Flight Problem,41.9
+2023-09,complaint_reason,Baggage,19.9
+2023-09,complaint_reason,Customer Service,10.2
+2023-09,complaint_reason,Disability,1.2
+2023-09,complaint_reason,Staff Behaviour,4.9
+2023-09,complaint_reason,Catering,1.2
+2023-09,complaint_reason,Others,4.9
+2023-09,cancel_reason,Technical,22.3
+2023-09,cancel_reason,Weather,21.0
+2023-09,cancel_reason,Commercial,1.3
+2023-09,cancel_reason,Operational,13.1
+2023-09,cancel_reason,Misc,42.3
+2023-09,delay_reason,Pax,2.0
+2023-09,delay_reason,Ramp,1.0
+2023-09,delay_reason,Tech,3.0
+2023-09,delay_reason,Ops,7.0
+2023-09,delay_reason,Reactionary,67.0
+2023-09,delay_reason,Airport,3.0
+2023-09,delay_reason,Wx,4.0
+2023-09,delay_reason,ATC,13.0
+2023-09,delay_reason,Misc,0.0
+2023-10,complaint_reason,Fare,7.6
+2023-10,complaint_reason,Refund,23.4
+2023-10,complaint_reason,Flight Problem,39.4
+2023-10,complaint_reason,Baggage,11.8
+2023-10,complaint_reason,Customer Service,5.3
+2023-10,complaint_reason,Disability,1.3
+2023-10,complaint_reason,Staff Behaviour,4.6
+2023-10,complaint_reason,Catering,0.4
+2023-10,complaint_reason,Others,6.3
+2023-10,cancel_reason,Technical,42.5
+2023-10,cancel_reason,Weather,24.4
+2023-10,cancel_reason,Commercial,1.5
+2023-10,cancel_reason,Operational,13.3
+2023-10,cancel_reason,Misc,18.3
+2023-10,delay_reason,Pax,3.0
+2023-10,delay_reason,Ramp,1.0
+2023-10,delay_reason,Tech,4.0
+2023-10,delay_reason,Ops,7.0
+2023-10,delay_reason,Reactionary,68.0
+2023-10,delay_reason,Airport,2.0
+2023-10,delay_reason,Wx,2.0
+2023-10,delay_reason,ATC,12.0
+2023-10,delay_reason,Misc,1.0
+2023-11,complaint_reason,Fare,2.0
+2023-11,complaint_reason,Refund,14.8
+2023-11,complaint_reason,Flight Problem,54.6
+2023-11,complaint_reason,Baggage,12.8
+2023-11,complaint_reason,Customer Service,7.0
+2023-11,complaint_reason,Disability,0.3
+2023-11,complaint_reason,Staff Behaviour,3.0
+2023-11,complaint_reason,Catering,1.2
+2023-11,complaint_reason,Others,4.3
+2023-11,cancel_reason,Technical,31.2
+2023-11,cancel_reason,Weather,29.9
+2023-11,cancel_reason,Commercial,1.2
+2023-11,cancel_reason,Operational,6.5
+2023-11,cancel_reason,Misc,31.2
+2023-11,delay_reason,Pax,3.0
+2023-11,delay_reason,Ramp,2.0
+2023-11,delay_reason,Tech,2.0
+2023-11,delay_reason,Ops,8.0
+2023-11,delay_reason,Reactionary,68.0
+2023-11,delay_reason,Airport,2.0
+2023-11,delay_reason,Wx,1.0
+2023-11,delay_reason,ATC,14.0
+2023-11,delay_reason,Misc,0.0
+2023-12,complaint_reason,Fare,0.3
+2023-12,complaint_reason,Refund,12.8
+2023-12,complaint_reason,Flight Problem,61.8
+2023-12,complaint_reason,Baggage,11.9
+2023-12,complaint_reason,Customer Service,5.5
+2023-12,complaint_reason,Disability,0.3
+2023-12,complaint_reason,Staff Behaviour,3.4
+2023-12,complaint_reason,Catering,0.1
+2023-12,complaint_reason,Others,3.9
+2023-12,cancel_reason,Technical,9.4
+2023-12,cancel_reason,Weather,64.9
+2023-12,cancel_reason,Commercial,0.1
+2023-12,cancel_reason,Operational,4.9
+2023-12,cancel_reason,Misc,20.7
+2023-12,delay_reason,Pax,3.0
+2023-12,delay_reason,Ramp,2.0
+2023-12,delay_reason,Tech,2.0
+2023-12,delay_reason,Ops,8.0
+2023-12,delay_reason,Reactionary,66.0
+2023-12,delay_reason,Airport,2.0
+2023-12,delay_reason,Wx,4.0
+2023-12,delay_reason,ATC,13.0
+2023-12,delay_reason,Misc,0.0
+2024-01,complaint_reason,Fare,0.8
+2024-01,complaint_reason,Refund,17.8
+2024-01,complaint_reason,Flight Problem,54.8
+2024-01,complaint_reason,Baggage,10.4
+2024-01,complaint_reason,Customer Service,5.2
+2024-01,complaint_reason,Disability,0.4
+2024-01,complaint_reason,Staff Behaviour,4.6
+2024-01,complaint_reason,Catering,0.1
+2024-01,complaint_reason,Others,5.9
+2024-01,cancel_reason,Technical,4.1
+2024-01,cancel_reason,Weather,82.8
+2024-01,cancel_reason,Commercial,0.3
+2024-01,cancel_reason,Operational,2.6
+2024-01,cancel_reason,Misc,10.2
+2024-01,delay_reason,Pax,3.0
+2024-01,delay_reason,Ramp,2.0
+2024-01,delay_reason,Tech,2.0
+2024-01,delay_reason,Ops,8.0
+2024-01,delay_reason,Reactionary,63.0
+2024-01,delay_reason,Airport,2.0
+2024-01,delay_reason,Wx,6.0
+2024-01,delay_reason,ATC,14.0
+2024-01,delay_reason,Misc,0.0
+2024-02,complaint_reason,Fare,2.0
+2024-02,complaint_reason,Refund,16.3
+2024-02,complaint_reason,Flight Problem,37.8
+2024-02,complaint_reason,Baggage,19.0
+2024-02,complaint_reason,Customer Service,11.1
+2024-02,complaint_reason,Disability,0.3
+2024-02,complaint_reason,Staff Behaviour,3.2
+2024-02,complaint_reason,Catering,1.6
+2024-02,complaint_reason,Others,8.7
+2024-02,cancel_reason,Technical,19.7
+2024-02,cancel_reason,Weather,58.6
+2024-02,cancel_reason,Commercial,1.5
+2024-02,cancel_reason,Operational,6.8
+2024-02,cancel_reason,Misc,13.4
+2024-02,delay_reason,Pax,2.0
+2024-02,delay_reason,Ramp,1.0
+2024-02,delay_reason,Tech,3.0
+2024-02,delay_reason,Ops,7.0
+2024-02,delay_reason,Reactionary,66.0
+2024-02,delay_reason,Airport,2.0
+2024-02,delay_reason,Wx,2.0
+2024-02,delay_reason,ATC,16.0
+2024-02,delay_reason,Misc,1.0
+2024-03,complaint_reason,Fare,2.1
+2024-03,complaint_reason,Refund,16.6
+2024-03,complaint_reason,Flight Problem,35.2
+2024-03,complaint_reason,Baggage,18.5
+2024-03,complaint_reason,Customer Service,11.4
+2024-03,complaint_reason,Disability,0.3
+2024-03,complaint_reason,Staff Behaviour,4.4
+2024-03,complaint_reason,Catering,1.9
+2024-03,complaint_reason,Others,9.7
+2024-03,cancel_reason,Technical,38.9
+2024-03,cancel_reason,Weather,15.6
+2024-03,cancel_reason,Commercial,0.7
+2024-03,cancel_reason,Operational,15.3
+2024-03,cancel_reason,Misc,29.5
+2024-03,delay_reason,Pax,3.0
+2024-03,delay_reason,Ramp,1.0
+2024-03,delay_reason,Tech,3.0
+2024-03,delay_reason,Ops,9.0
+2024-03,delay_reason,Reactionary,65.0
+2024-03,delay_reason,Airport,2.0
+2024-03,delay_reason,Wx,0.0
+2024-03,delay_reason,ATC,16.0
+2024-03,delay_reason,Misc,1.0
+2024-04,complaint_reason,Fare,0.9
+2024-04,complaint_reason,Refund,18.1
+2024-04,complaint_reason,Flight Problem,36.7
+2024-04,complaint_reason,Baggage,17.8
+2024-04,complaint_reason,Customer Service,10.1
+2024-04,complaint_reason,Disability,0.6
+2024-04,complaint_reason,Staff Behaviour,4.4
+2024-04,complaint_reason,Catering,1.2
+2024-04,complaint_reason,Others,10.2
+2024-04,cancel_reason,Technical,28.2
+2024-04,cancel_reason,Weather,16.2
+2024-04,cancel_reason,Commercial,0.7
+2024-04,cancel_reason,Operational,12.6
+2024-04,cancel_reason,Misc,42.3
+2024-04,delay_reason,Pax,3.0
+2024-04,delay_reason,Ramp,1.0
+2024-04,delay_reason,Tech,3.0
+2024-04,delay_reason,Ops,7.0
+2024-04,delay_reason,Reactionary,71.0
+2024-04,delay_reason,Airport,3.0
+2024-04,delay_reason,Wx,0.0
+2024-04,delay_reason,ATC,11.0
+2024-04,delay_reason,Misc,1.0
+2024-05,complaint_reason,Fare,1.7
+2024-05,complaint_reason,Refund,9.4
+2024-05,complaint_reason,Flight Problem,43.2
+2024-05,complaint_reason,Baggage,18.1
+2024-05,complaint_reason,Customer Service,8.2
+2024-05,complaint_reason,Disability,0.3
+2024-05,complaint_reason,Staff Behaviour,6.5
+2024-05,complaint_reason,Catering,3.3
+2024-05,complaint_reason,Others,9.4
+2024-05,cancel_reason,Technical,16.4
+2024-05,cancel_reason,Weather,39.6
+2024-05,cancel_reason,Commercial,1.3
+2024-05,cancel_reason,Operational,23.2
+2024-05,cancel_reason,Misc,19.5
+2024-05,delay_reason,Pax,3.0
+2024-05,delay_reason,Ramp,1.0
+2024-05,delay_reason,Tech,4.0
+2024-05,delay_reason,Ops,7.0
+2024-05,delay_reason,Reactionary,73.0
+2024-05,delay_reason,Airport,2.0
+2024-05,delay_reason,Wx,1.0
+2024-05,delay_reason,ATC,8.0
+2024-05,delay_reason,Misc,1.0
+2024-06,complaint_reason,Fare,0.5
+2024-06,complaint_reason,Refund,8.0
+2024-06,complaint_reason,Flight Problem,42.1
+2024-06,complaint_reason,Baggage,21.8
+2024-06,complaint_reason,Customer Service,7.3
+2024-06,complaint_reason,Disability,0.3
+2024-06,complaint_reason,Staff Behaviour,6.9
+2024-06,complaint_reason,Catering,2.8
+2024-06,complaint_reason,Others,10.4
+2024-06,cancel_reason,Technical,25.9
+2024-06,cancel_reason,Weather,9.5
+2024-06,cancel_reason,Commercial,1.6
+2024-06,cancel_reason,Operational,22.9
+2024-06,cancel_reason,Misc,40.1
+2024-06,delay_reason,Pax,3.0
+2024-06,delay_reason,Ramp,1.0
+2024-06,delay_reason,Tech,4.0
+2024-06,delay_reason,Ops,8.0
+2024-06,delay_reason,Reactionary,71.0
+2024-06,delay_reason,Airport,2.0
+2024-06,delay_reason,Wx,2.0
+2024-06,delay_reason,ATC,8.0
+2024-06,delay_reason,Misc,1.0
+2024-07,complaint_reason,Fare,0.3
+2024-07,complaint_reason,Refund,13.0
+2024-07,complaint_reason,Flight Problem,38.6
+2024-07,complaint_reason,Baggage,21.5
+2024-07,complaint_reason,Customer Service,6.3
+2024-07,complaint_reason,Disability,0.1
+2024-07,complaint_reason,Staff Behaviour,4.6
+2024-07,complaint_reason,Catering,0.7
+2024-07,complaint_reason,Others,14.9
+2024-07,cancel_reason,Technical,17.2
+2024-07,cancel_reason,Weather,28.3
+2024-07,cancel_reason,Commercial,0.3
+2024-07,cancel_reason,Operational,8.0
+2024-07,cancel_reason,Misc,46.1
+2024-07,delay_reason,Pax,3.0
+2024-07,delay_reason,Ramp,1.0
+2024-07,delay_reason,Tech,3.0
+2024-07,delay_reason,Ops,7.0
+2024-07,delay_reason,Reactionary,68.0
+2024-07,delay_reason,Airport,2.0
+2024-07,delay_reason,Wx,5.0
+2024-07,delay_reason,ATC,10.0
+2024-07,delay_reason,Misc,1.0
+2024-08,complaint_reason,Fare,0.7
+2024-08,complaint_reason,Refund,10.7
+2024-08,complaint_reason,Flight Problem,43.1
+2024-08,complaint_reason,Baggage,17.9
+2024-08,complaint_reason,Customer Service,7.4
+2024-08,complaint_reason,Disability,0.1
+2024-08,complaint_reason,Staff Behaviour,5.4
+2024-08,complaint_reason,Catering,1.3
+2024-08,complaint_reason,Others,13.5
+2024-08,cancel_reason,Technical,45.1
+2024-08,cancel_reason,Weather,22.2
+2024-08,cancel_reason,Commercial,0.6
+2024-08,cancel_reason,Operational,12.1
+2024-08,cancel_reason,Misc,19.9
+2024-08,delay_reason,Pax,4.0
+2024-08,delay_reason,Ramp,2.0
+2024-08,delay_reason,Tech,3.0
+2024-08,delay_reason,Ops,7.0
+2024-08,delay_reason,Reactionary,68.0
+2024-08,delay_reason,Airport,2.0
+2024-08,delay_reason,Wx,2.0
+2024-08,delay_reason,ATC,11.0
+2024-08,delay_reason,Misc,1.0
+2024-09,complaint_reason,Fare,0.4
+2024-09,complaint_reason,Refund,10.3
+2024-09,complaint_reason,Flight Problem,40.7
+2024-09,complaint_reason,Baggage,19.2
+2024-09,complaint_reason,Customer Service,9.4
+2024-09,complaint_reason,Disability,0.4
+2024-09,complaint_reason,Staff Behaviour,6.3
+2024-09,complaint_reason,Catering,2.2
+2024-09,complaint_reason,Others,11.1
+2024-09,cancel_reason,Technical,41.6
+2024-09,cancel_reason,Weather,17.8
+2024-09,cancel_reason,Commercial,0.8
+2024-09,cancel_reason,Operational,11.9
+2024-09,cancel_reason,Misc,27.9
+2024-09,delay_reason,Pax,3.0
+2024-09,delay_reason,Ramp,1.0
+2024-09,delay_reason,Tech,3.0
+2024-09,delay_reason,Ops,7.0
+2024-09,delay_reason,Reactionary,69.0
+2024-09,delay_reason,Airport,3.0
+2024-09,delay_reason,Wx,3.0
+2024-09,delay_reason,ATC,10.0
+2024-09,delay_reason,Misc,1.0
+2024-10,complaint_reason,Fare,0.2
+2024-10,complaint_reason,Refund,12.7
+2024-10,complaint_reason,Flight Problem,36.2
+2024-10,complaint_reason,Baggage,23.3
+2024-10,complaint_reason,Customer Service,10.6
+2024-10,complaint_reason,Disability,0.2
+2024-10,complaint_reason,Staff Behaviour,3.4
+2024-10,complaint_reason,Catering,2.5
+2024-10,complaint_reason,Others,11.1
+2024-10,cancel_reason,Technical,24.9
+2024-10,cancel_reason,Weather,15.8
+2024-10,cancel_reason,Commercial,2.7
+2024-10,cancel_reason,Operational,16.1
+2024-10,cancel_reason,Misc,40.6
+2024-10,delay_reason,Pax,4.0
+2024-10,delay_reason,Ramp,1.0
+2024-10,delay_reason,Tech,3.0
+2024-10,delay_reason,Ops,6.0
+2024-10,delay_reason,Reactionary,68.0
+2024-10,delay_reason,Airport,3.0
+2024-10,delay_reason,Wx,1.0
+2024-10,delay_reason,ATC,12.0
+2024-10,delay_reason,Misc,2.0
+2024-11,complaint_reason,Fare,0.3
+2024-11,complaint_reason,Refund,13.8
+2024-11,complaint_reason,Flight Problem,34.3
+2024-11,complaint_reason,Baggage,25.3
+2024-11,complaint_reason,Customer Service,10.4
+2024-11,complaint_reason,Disability,0.2
+2024-11,complaint_reason,Staff Behaviour,5.3
+2024-11,complaint_reason,Catering,1.1
+2024-11,complaint_reason,Others,9.3
+2024-11,cancel_reason,Technical,13.3
+2024-11,cancel_reason,Weather,33.4
+2024-11,cancel_reason,Commercial,0.8
+2024-11,cancel_reason,Operational,23.0
+2024-11,cancel_reason,Misc,29.5
+2024-11,delay_reason,Pax,4.0
+2024-11,delay_reason,Ramp,2.0
+2024-11,delay_reason,Tech,3.0
+2024-11,delay_reason,Ops,8.0
+2024-11,delay_reason,Reactionary,66.0
+2024-11,delay_reason,Airport,2.0
+2024-11,delay_reason,Wx,2.0
+2024-11,delay_reason,ATC,12.0
+2024-11,delay_reason,Misc,1.0
+2024-12,complaint_reason,Fare,0.2
+2024-12,complaint_reason,Refund,21.3
+2024-12,complaint_reason,Flight Problem,24.6
+2024-12,complaint_reason,Baggage,25.8
+2024-12,complaint_reason,Customer Service,7.7
+2024-12,complaint_reason,Disability,0.4
+2024-12,complaint_reason,Staff Behaviour,6.5
+2024-12,complaint_reason,Catering,0.6
+2024-12,complaint_reason,Others,12.9
+2024-12,cancel_reason,Technical,20.8
+2024-12,cancel_reason,Weather,27.2
+2024-12,cancel_reason,Commercial,1.3
+2024-12,cancel_reason,Operational,6.4
+2024-12,cancel_reason,Misc,44.4
+2024-12,delay_reason,Pax,5.0
+2024-12,delay_reason,Ramp,1.0
+2024-12,delay_reason,Tech,3.0
+2024-12,delay_reason,Ops,7.0
+2024-12,delay_reason,Reactionary,66.0
+2024-12,delay_reason,Airport,2.0
+2024-12,delay_reason,Wx,2.0
+2024-12,delay_reason,ATC,12.0
+2024-12,delay_reason,Misc,2.0
+2025-01,complaint_reason,Fare,0.1
+2025-01,complaint_reason,Refund,16.6
+2025-01,complaint_reason,Flight Problem,37.8
+2025-01,complaint_reason,Baggage,19.2
+2025-01,complaint_reason,Customer Service,6.7
+2025-01,complaint_reason,Disability,0.1
+2025-01,complaint_reason,Staff Behaviour,4.7
+2025-01,complaint_reason,Catering,0.5
+2025-01,complaint_reason,Others,14.2
+2025-01,cancel_reason,Technical,10.3
+2025-01,cancel_reason,Weather,75.1
+2025-01,cancel_reason,Commercial,0.2
+2025-01,cancel_reason,Operational,7.0
+2025-01,cancel_reason,Misc,7.4
+2025-01,delay_reason,Pax,3.0
+2025-01,delay_reason,Ramp,1.0
+2025-01,delay_reason,Tech,3.0
+2025-01,delay_reason,Ops,5.0
+2025-01,delay_reason,Reactionary,64.0
+2025-01,delay_reason,Airport,3.0
+2025-01,delay_reason,Wx,9.0
+2025-01,delay_reason,ATC,10.0
+2025-01,delay_reason,Misc,2.0
+2025-02,complaint_reason,Fare,2.9
+2025-02,complaint_reason,Refund,21.2
+2025-02,complaint_reason,Flight Problem,41.8
+2025-02,complaint_reason,Baggage,18.3
+2025-02,complaint_reason,Customer Service,5.0
+2025-02,complaint_reason,Disability,0.2
+2025-02,complaint_reason,Staff Behaviour,3.5
+2025-02,complaint_reason,Catering,0.5
+2025-02,complaint_reason,Others,6.6
+2025-02,cancel_reason,Technical,42.4
+2025-02,cancel_reason,Weather,21.6
+2025-02,cancel_reason,Commercial,0.3
+2025-02,cancel_reason,Operational,29.8
+2025-02,cancel_reason,Misc,5.9
+2025-02,delay_reason,Pax,4.0
+2025-02,delay_reason,Ramp,1.0
+2025-02,delay_reason,Tech,3.0
+2025-02,delay_reason,Ops,5.0
+2025-02,delay_reason,Reactionary,71.0
+2025-02,delay_reason,Airport,2.0
+2025-02,delay_reason,Wx,3.0
+2025-02,delay_reason,ATC,9.0
+2025-02,delay_reason,Misc,2.0
+2025-03,complaint_reason,Fare,0.3
+2025-03,complaint_reason,Refund,18.0
+2025-03,complaint_reason,Flight Problem,40.5
+2025-03,complaint_reason,Baggage,20.3
+2025-03,complaint_reason,Customer Service,8.0
+2025-03,complaint_reason,Disability,0.7
+2025-03,complaint_reason,Staff Behaviour,4.7
+2025-03,complaint_reason,Catering,0.5
+2025-03,complaint_reason,Others,7.0
+2025-03,cancel_reason,Technical,46.9
+2025-03,cancel_reason,Weather,30.9
+2025-03,cancel_reason,Commercial,2.6
+2025-03,cancel_reason,Operational,11.6
+2025-03,cancel_reason,Misc,7.9
+2025-03,delay_reason,Pax,4.0
+2025-03,delay_reason,Ramp,1.0
+2025-03,delay_reason,Tech,5.0
+2025-03,delay_reason,Ops,5.0
+2025-03,delay_reason,Reactionary,70.0
+2025-03,delay_reason,Airport,3.0
+2025-03,delay_reason,Wx,0.0
+2025-03,delay_reason,ATC,10.0
+2025-03,delay_reason,Misc,2.0
+2025-04,complaint_reason,Fare,0.0
+2025-04,complaint_reason,Refund,13.7
+2025-04,complaint_reason,Flight Problem,46.3
+2025-04,complaint_reason,Baggage,19.2
+2025-04,complaint_reason,Customer Service,5.4
+2025-04,complaint_reason,Disability,0.3
+2025-04,complaint_reason,Staff Behaviour,2.6
+2025-04,complaint_reason,Catering,0.3
+2025-04,complaint_reason,Others,12.1
+2025-04,cancel_reason,Technical,25.8
+2025-04,cancel_reason,Weather,38.8
+2025-04,cancel_reason,Commercial,1.3
+2025-04,cancel_reason,Operational,22.3
+2025-04,cancel_reason,Misc,11.7
+2025-04,delay_reason,Pax,3.0
+2025-04,delay_reason,Ramp,2.0
+2025-04,delay_reason,Tech,3.0
+2025-04,delay_reason,Ops,5.0
+2025-04,delay_reason,Reactionary,70.0
+2025-04,delay_reason,Airport,3.0
+2025-04,delay_reason,Wx,2.0
+2025-04,delay_reason,ATC,11.0
+2025-04,delay_reason,Misc,1.0
+2025-05,complaint_reason,Fare,1.4
+2025-05,complaint_reason,Refund,19.0
+2025-05,complaint_reason,Flight Problem,39.7
+2025-05,complaint_reason,Baggage,19.6
+2025-05,complaint_reason,Customer Service,7.6
+2025-05,complaint_reason,Disability,0.3
+2025-05,complaint_reason,Staff Behaviour,3.4
+2025-05,complaint_reason,Catering,0.3
+2025-05,complaint_reason,Others,8.7
+2025-05,cancel_reason,Technical,10.6
+2025-05,cancel_reason,Weather,9.4
+2025-05,cancel_reason,Commercial,6.5
+2025-05,cancel_reason,Operational,7.8
+2025-05,cancel_reason,Misc,65.7
+2025-05,delay_reason,Pax,3.0
+2025-05,delay_reason,Ramp,2.0
+2025-05,delay_reason,Tech,4.0
+2025-05,delay_reason,Ops,6.0
+2025-05,delay_reason,Reactionary,70.0
+2025-05,delay_reason,Airport,2.0
+2025-05,delay_reason,Wx,4.0
+2025-05,delay_reason,ATC,8.0
+2025-05,delay_reason,Misc,1.0
+2025-06,complaint_reason,Fare,0.8
+2025-06,complaint_reason,Refund,17.7
+2025-06,complaint_reason,Flight Problem,42.1
+2025-06,complaint_reason,Baggage,16.4
+2025-06,complaint_reason,Customer Service,8.7
+2025-06,complaint_reason,Disability,0.3
+2025-06,complaint_reason,Staff Behaviour,4.5
+2025-06,complaint_reason,Catering,0.3
+2025-06,complaint_reason,Others,9.2
+2025-06,cancel_reason,Technical,36.6
+2025-06,cancel_reason,Weather,22.4
+2025-06,cancel_reason,Commercial,0.5
+2025-06,cancel_reason,Operational,25.0
+2025-06,cancel_reason,Misc,15.6
+2025-06,delay_reason,Pax,3.0
+2025-06,delay_reason,Ramp,1.0
+2025-06,delay_reason,Tech,6.0
+2025-06,delay_reason,Ops,7.0
+2025-06,delay_reason,Reactionary,67.0
+2025-06,delay_reason,Airport,2.0
+2025-06,delay_reason,Wx,3.0
+2025-06,delay_reason,ATC,10.0
+2025-06,delay_reason,Misc,1.0
+2025-07,complaint_reason,Fare,6.0
+2025-07,complaint_reason,Refund,19.5
+2025-07,complaint_reason,Flight Problem,30.3
+2025-07,complaint_reason,Baggage,18.3
+2025-07,complaint_reason,Customer Service,10.9
+2025-07,complaint_reason,Disability,0.4
+2025-07,complaint_reason,Staff Behaviour,2.2
+2025-07,complaint_reason,Catering,0.6
+2025-07,complaint_reason,Others,11.7
+2025-07,cancel_reason,Technical,29.0
+2025-07,cancel_reason,Weather,44.5
+2025-07,cancel_reason,Commercial,0.3
+2025-07,cancel_reason,Operational,17.5
+2025-07,cancel_reason,Misc,8.7
+2025-07,delay_reason,Pax,3.0
+2025-07,delay_reason,Ramp,1.0
+2025-07,delay_reason,Tech,7.0
+2025-07,delay_reason,Ops,9.0
+2025-07,delay_reason,Reactionary,62.0
+2025-07,delay_reason,Airport,2.0
+2025-07,delay_reason,Wx,5.0
+2025-07,delay_reason,ATC,10.0
+2025-07,delay_reason,Misc,1.0
+2025-08,complaint_reason,Fare,0.4
+2025-08,complaint_reason,Refund,19.4
+2025-08,complaint_reason,Flight Problem,45.2
+2025-08,complaint_reason,Baggage,15.1
+2025-08,complaint_reason,Customer Service,9.3
+2025-08,complaint_reason,Disability,0.4
+2025-08,complaint_reason,Staff Behaviour,2.3
+2025-08,complaint_reason,Catering,3.7
+2025-08,complaint_reason,Others,4.1
+2025-08,cancel_reason,Technical,31.3
+2025-08,cancel_reason,Weather,30.0
+2025-08,cancel_reason,Commercial,0.4
+2025-08,cancel_reason,Operational,24.5
+2025-08,cancel_reason,Misc,13.9
+2025-08,delay_reason,Pax,2.0
+2025-08,delay_reason,Ramp,1.0
+2025-08,delay_reason,Tech,8.0
+2025-08,delay_reason,Ops,10.0
+2025-08,delay_reason,Reactionary,57.0
+2025-08,delay_reason,Airport,3.0
+2025-08,delay_reason,Wx,6.0
+2025-08,delay_reason,ATC,11.0
+2025-08,delay_reason,Misc,2.0
+2025-09,complaint_reason,Fare,0.3
+2025-09,complaint_reason,Refund,22.6
+2025-09,complaint_reason,Flight Problem,42.0
+2025-09,complaint_reason,Baggage,17.8
+2025-09,complaint_reason,Customer Service,8.8
+2025-09,complaint_reason,Disability,0.2
+2025-09,complaint_reason,Staff Behaviour,2.4
+2025-09,complaint_reason,Catering,0.2
+2025-09,complaint_reason,Others,5.6
+2025-09,cancel_reason,Technical,36.5
+2025-09,cancel_reason,Weather,28.9
+2025-09,cancel_reason,Commercial,0.2
+2025-09,cancel_reason,Operational,25.5
+2025-09,cancel_reason,Misc,9.0
+2025-09,delay_reason,Pax,2.0
+2025-09,delay_reason,Ramp,1.0
+2025-09,delay_reason,Tech,5.0
+2025-09,delay_reason,Ops,5.0
+2025-09,delay_reason,Reactionary,65.0
+2025-09,delay_reason,Airport,1.0
+2025-09,delay_reason,Wx,3.0
+2025-09,delay_reason,ATC,15.0
+2025-09,delay_reason,Misc,3.0
+2025-10,complaint_reason,Fare,1.0
+2025-10,complaint_reason,Refund,16.3
+2025-10,complaint_reason,Flight Problem,45.6
+2025-10,complaint_reason,Baggage,18.9
+2025-10,complaint_reason,Customer Service,4.0
+2025-10,complaint_reason,Disability,0.2
+2025-10,complaint_reason,Staff Behaviour,2.0
+2025-10,complaint_reason,Catering,0.5
+2025-10,complaint_reason,Others,11.6
+2025-10,cancel_reason,Technical,38.7
+2025-10,cancel_reason,Weather,17.7
+2025-10,cancel_reason,Commercial,3.6
+2025-10,cancel_reason,Operational,15.4
+2025-10,cancel_reason,Misc,24.6
+2025-10,delay_reason,Pax,3.0
+2025-10,delay_reason,Ramp,1.0
+2025-10,delay_reason,Tech,5.0
+2025-10,delay_reason,Ops,6.0
+2025-10,delay_reason,Reactionary,63.0
+2025-10,delay_reason,Airport,4.0
+2025-10,delay_reason,Wx,2.0
+2025-10,delay_reason,ATC,12.0
+2025-10,delay_reason,Misc,4.0
+2025-11,complaint_reason,Fare,1.2
+2025-11,complaint_reason,Refund,12.5
+2025-11,complaint_reason,Flight Problem,50.6
+2025-11,complaint_reason,Baggage,17.9
+2025-11,complaint_reason,Customer Service,6.0
+2025-11,complaint_reason,Disability,0.0
+2025-11,complaint_reason,Staff Behaviour,2.7
+2025-11,complaint_reason,Catering,0.3
+2025-11,complaint_reason,Others,8.8
+2025-11,cancel_reason,Technical,18.7
+2025-11,cancel_reason,Weather,2.4
+2025-11,cancel_reason,Commercial,0.4
+2025-11,cancel_reason,Operational,16.5
+2025-11,cancel_reason,Misc,62.0
+2025-11,delay_reason,Pax,3.0
+2025-11,delay_reason,Ramp,1.0
+2025-11,delay_reason,Tech,3.0
+2025-11,delay_reason,Ops,11.0
+2025-11,delay_reason,Reactionary,67.0
+2025-11,delay_reason,Airport,1.0
+2025-11,delay_reason,Wx,1.0
+2025-11,delay_reason,ATC,11.0
+2025-11,delay_reason,Misc,2.0
+2025-12,complaint_reason,Fare,0.2
+2025-12,complaint_reason,Refund,7.5
+2025-12,complaint_reason,Flight Problem,60.2
+2025-12,complaint_reason,Baggage,28.1
+2025-12,complaint_reason,Customer Service,2.1
+2025-12,complaint_reason,Disability,0.0
+2025-12,complaint_reason,Staff Behaviour,0.2
+2025-12,complaint_reason,Catering,0.1
+2025-12,complaint_reason,Others,1.6
+2025-12,cancel_reason,Technical,2.3
+2025-12,cancel_reason,Weather,31.6
+2025-12,cancel_reason,Commercial,0.1
+2025-12,cancel_reason,Operational,63.9
+2025-12,cancel_reason,Misc,2.2
+2025-12,delay_reason,Pax,2.0
+2025-12,delay_reason,Ramp,1.0
+2025-12,delay_reason,Tech,2.0
+2025-12,delay_reason,Ops,13.0
+2025-12,delay_reason,Reactionary,64.0
+2025-12,delay_reason,Airport,1.0
+2025-12,delay_reason,Wx,6.0
+2025-12,delay_reason,ATC,10.0
+2025-12,delay_reason,Misc,1.0
+2026-01,complaint_reason,Fare,0.5
+2026-01,complaint_reason,Refund,10.2
+2026-01,complaint_reason,Flight Problem,21.7
+2026-01,complaint_reason,Baggage,57.3
+2026-01,complaint_reason,Customer Service,3.8
+2026-01,complaint_reason,Disability,0.2
+2026-01,complaint_reason,Staff Behaviour,0.8
+2026-01,complaint_reason,Catering,0.5
+2026-01,complaint_reason,Others,5.1
+2026-01,cancel_reason,Technical,8.3
+2026-01,cancel_reason,Weather,58.7
+2026-01,cancel_reason,Commercial,0.3
+2026-01,cancel_reason,Operational,28.3
+2026-01,cancel_reason,Misc,4.4
+2026-01,delay_reason,Pax,2.0
+2026-01,delay_reason,Ramp,2.0
+2026-01,delay_reason,Tech,2.0
+2026-01,delay_reason,Ops,7.0
+2026-01,delay_reason,Reactionary,67.0
+2026-01,delay_reason,Airport,3.0
+2026-01,delay_reason,Wx,4.0
+2026-01,delay_reason,ATC,11.0
+2026-01,delay_reason,Misc,2.0
+2026-02,complaint_reason,Fare,0.4
+2026-02,complaint_reason,Refund,8.9
+2026-02,complaint_reason,Flight Problem,16.6
+2026-02,complaint_reason,Baggage,58.4
+2026-02,complaint_reason,Customer Service,3.5
+2026-02,complaint_reason,Disability,0.3
+2026-02,complaint_reason,Staff Behaviour,1.1
+2026-02,complaint_reason,Catering,0.3
+2026-02,complaint_reason,Others,10.6
+2026-02,cancel_reason,Technical,38.7
+2026-02,cancel_reason,Weather,18.1
+2026-02,cancel_reason,Commercial,0.6
+2026-02,cancel_reason,Operational,33.3
+2026-02,cancel_reason,Misc,9.2
+2026-02,delay_reason,Pax,3.0
+2026-02,delay_reason,Ramp,1.0
+2026-02,delay_reason,Tech,3.0
+2026-02,delay_reason,Ops,9.0
+2026-02,delay_reason,Reactionary,69.0
+2026-02,delay_reason,Airport,3.0
+2026-02,delay_reason,Wx,1.0
+2026-02,delay_reason,ATC,10.0
+2026-02,delay_reason,Misc,1.0
+2026-03,complaint_reason,Fare,0.2
+2026-03,complaint_reason,Refund,19.0
+2026-03,complaint_reason,Flight Problem,20.3
+2026-03,complaint_reason,Baggage,47.1
+2026-03,complaint_reason,Customer Service,5.3
+2026-03,complaint_reason,Disability,0.3
+2026-03,complaint_reason,Staff Behaviour,0.7
+2026-03,complaint_reason,Catering,0.4
+2026-03,complaint_reason,Others,6.9
+2026-03,cancel_reason,Technical,38.4
+2026-03,cancel_reason,Weather,19.1
+2026-03,cancel_reason,Commercial,6.0
+2026-03,cancel_reason,Operational,27.2
+2026-03,cancel_reason,Misc,9.3
+2026-03,delay_reason,Pax,2.0
+2026-03,delay_reason,Ramp,1.0
+2026-03,delay_reason,Tech,4.0
+2026-03,delay_reason,Ops,10.0
+2026-03,delay_reason,Reactionary,66.0
+2026-03,delay_reason,Airport,3.0
+2026-03,delay_reason,Wx,2.0
+2026-03,delay_reason,ATC,9.0
+2026-03,delay_reason,Misc,3.0
+2026-04,complaint_reason,Fare,0.4
+2026-04,complaint_reason,Refund,26.5
+2026-04,complaint_reason,Flight Problem,23.7
+2026-04,complaint_reason,Baggage,24.6
+2026-04,complaint_reason,Customer Service,8.1
+2026-04,complaint_reason,Disability,0.3
+2026-04,complaint_reason,Staff Behaviour,0.8
+2026-04,complaint_reason,Catering,0.7
+2026-04,complaint_reason,Others,15.0
+2026-04,cancel_reason,Technical,44.2
+2026-04,cancel_reason,Weather,13.7
+2026-04,cancel_reason,Commercial,2.3
+2026-04,cancel_reason,Operational,13.9
+2026-04,cancel_reason,Misc,25.9
+2026-04,delay_reason,Pax,3.0
+2026-04,delay_reason,Ramp,1.0
+2026-04,delay_reason,Tech,5.0
+2026-04,delay_reason,Ops,8.0
+2026-04,delay_reason,Reactionary,69.0
+2026-04,delay_reason,Airport,3.0
+2026-04,delay_reason,Wx,3.0
+2026-04,delay_reason,ATC,6.0
+2026-04,delay_reason,Misc,2.0
+2026-05,complaint_reason,Fare,0.2
+2026-05,complaint_reason,Refund,19.0
+2026-05,complaint_reason,Flight Problem,26.4
+2026-05,complaint_reason,Baggage,28.7
+2026-05,complaint_reason,Customer Service,6.2
+2026-05,complaint_reason,Disability,0.6
+2026-05,complaint_reason,Staff Behaviour,1.1
+2026-05,complaint_reason,Catering,1.6
+2026-05,complaint_reason,Others,16.2
+2026-05,cancel_reason,Technical,45.1
+2026-05,cancel_reason,Weather,15.3
+2026-05,cancel_reason,Commercial,1.4
+2026-05,cancel_reason,Operational,26.6
+2026-05,cancel_reason,Misc,11.6
+2026-05,delay_reason,Pax,3.0
+2026-05,delay_reason,Ramp,1.0
+2026-05,delay_reason,Tech,4.0
+2026-05,delay_reason,Ops,6.0
+2026-05,delay_reason,Reactionary,71.0
+2026-05,delay_reason,Airport,3.0
+2026-05,delay_reason,Wx,2.0
+2026-05,delay_reason,ATC,9.0
+2026-05,delay_reason,Misc,1.0
+2026-06,complaint_reason,Fare,0.3
+2026-06,complaint_reason,Refund,19.7
+2026-06,complaint_reason,Flight Problem,24.3
+2026-06,complaint_reason,Baggage,27.8
+2026-06,complaint_reason,Customer Service,5.4
+2026-06,complaint_reason,Disability,0.7
+2026-06,complaint_reason,Staff Behaviour,1.3
+2026-06,complaint_reason,Catering,2.2
+2026-06,complaint_reason,Others,18.3
+2026-06,cancel_reason,Technical,39.6
+2026-06,cancel_reason,Weather,20.3
+2026-06,cancel_reason,Commercial,2.1
+2026-06,cancel_reason,Operational,36.3
+2026-06,cancel_reason,Misc,1.8
+2026-06,delay_reason,Pax,4.0
+2026-06,delay_reason,Ramp,1.0
+2026-06,delay_reason,Tech,6.0
+2026-06,delay_reason,Ops,6.0
+2026-06,delay_reason,Reactionary,69.0
+2026-06,delay_reason,Airport,3.0
+2026-06,delay_reason,Wx,4.0
+2026-06,delay_reason,ATC,5.0
+2026-06,delay_reason,Misc,2.0
+2026-07,complaint_reason,Fare,0.3
+2026-07,complaint_reason,Refund,18.4
+2026-07,complaint_reason,Flight Problem,20.6
+2026-07,complaint_reason,Baggage,31.3
+2026-07,complaint_reason,Customer Service,5.8
+2026-07,complaint_reason,Disability,0.3
+2026-07,complaint_reason,Staff Behaviour,1.3
+2026-07,complaint_reason,Catering,2.6
+2026-07,complaint_reason,Others,19.5
+2026-07,cancel_reason,Technical,39.9
+2026-07,cancel_reason,Weather,22.7
+2026-07,cancel_reason,Commercial,0.6
+2026-07,cancel_reason,Operational,27.4
+2026-07,cancel_reason,Misc,9.4
+2026-07,delay_reason,Pax,3.0
+2026-07,delay_reason,Ramp,1.0
+2026-07,delay_reason,Tech,6.0
+2026-07,delay_reason,Ops,7.0
+2026-07,delay_reason,Reactionary,65.0
+2026-07,delay_reason,Airport,2.0
+2026-07,delay_reason,Wx,6.0
+2026-07,delay_reason,ATC,7.0
+2026-07,delay_reason,Misc,3.0
+2026-08,complaint_reason,Fare,0.7
+2026-08,complaint_reason,Refund,17.3
+2026-08,complaint_reason,Flight Problem,26.3
+2026-08,complaint_reason,Baggage,29.5
+2026-08,complaint_reason,Customer Service,5.8
+2026-08,complaint_reason,Disability,0.7
+2026-08,complaint_reason,Staff Behaviour,0.9
+2026-08,complaint_reason,Catering,1.4
+2026-08,complaint_reason,Others,17.4
+2026-08,cancel_reason,Technical,50.2
+2026-08,cancel_reason,Weather,8.5
+2026-08,cancel_reason,Commercial,3.5
+2026-08,cancel_reason,Operational,20.4
+2026-08,cancel_reason,Misc,17.4
+2026-08,delay_reason,Pax,2.0
+2026-08,delay_reason,Ramp,2.0
+2026-08,delay_reason,Tech,6.0
+2026-08,delay_reason,Ops,8.0
+2026-08,delay_reason,Reactionary,65.0
+2026-08,delay_reason,Airport,3.0
+2026-08,delay_reason,Wx,5.0
+2026-08,delay_reason,ATC,6.0
+2026-08,delay_reason,Misc,3.0
+2026-09,complaint_reason,Fare,0.2
+2026-09,complaint_reason,Refund,20.8
+2026-09,complaint_reason,Flight Problem,29.6
+2026-09,complaint_reason,Baggage,22.7
+2026-09,complaint_reason,Customer Service,4.8
+2026-09,complaint_reason,Disability,0.2
+2026-09,complaint_reason,Staff Behaviour,1.4
+2026-09,complaint_reason,Catering,0.6
+2026-09,complaint_reason,Others,19.5
+2026-09,cancel_reason,Technical,37.8
+2026-09,cancel_reason,Weather,12.1
+2026-09,cancel_reason,Commercial,0.8
+2026-09,cancel_reason,Operational,31.2
+2026-09,cancel_reason,Misc,18.1
+2026-09,delay_reason,Pax,3.0
+2026-09,delay_reason,Ramp,1.0
+2026-09,delay_reason,Tech,6.0
+2026-09,delay_reason,Ops,7.0
+2026-09,delay_reason,Reactionary,65.0
+2026-09,delay_reason,Airport,4.0
+2026-09,delay_reason,Wx,3.0
+2026-09,delay_reason,ATC,9.0
+2026-09,delay_reason,Misc,2.0

@@ -1,0 +1,486 @@
+report,airline,metric,value,found_in_same_report_text
+2018-04,Air Deccan,cancel_pct,31.58,True
+2018-04,Air Deccan,complaints_per10k,42.7,True
+2018-04,Air Deccan,share_pct,0.0,True
+2018-04,Air Deccan,pax_lakh,0.00,True
+2018-04,Air India,otp_pct,76.4,True
+2018-04,Air India,cancel_pct,1.07,True
+2018-04,Air India,complaints_per10k,1.7,True
+2018-04,Air India,share_pct,13.3,True
+2018-04,Air India,pax_lakh,15.31,True
+2018-04,Air Odisha,cancel_pct,45.60,True
+2018-04,Air Odisha,complaints_per10k,30.0,True
+2018-04,Air Odisha,share_pct,0.0,True
+2018-04,Air Odisha,pax_lakh,0.01,True
+2018-04,AirAsia India,cancel_pct,0.21,True
+2018-04,AirAsia India,complaints_per10k,0.2,True
+2018-04,AirAsia India,share_pct,5.0,True
+2018-04,AirAsia India,pax_lakh,5.79,True
+2018-04,Go First,otp_pct,86.1,True
+2018-04,Go First,cancel_pct,0.13,True
+2018-04,Go First,complaints_per10k,0.5,True
+2018-04,Go First,share_pct,8.8,True
+2018-04,Go First,pax_lakh,10.10,True
+2018-04,IndiGo,otp_pct,86.6,True
+2018-04,IndiGo,cancel_pct,0.43,True
+2018-04,IndiGo,complaints_per10k,0.3,True
+2018-04,IndiGo,share_pct,39.8,True
+2018-04,IndiGo,pax_lakh,45.80,True
+2018-04,Jet Airways,otp_pct,82.9,True
+2018-04,Jet Airways,cancel_pct,0.06,True
+2018-04,Jet Airways,complaints_per10k,1.2,True
+2018-04,Jet Airways,share_pct,14.7,True
+2018-04,Jet Airways,pax_lakh,16.94,True
+2018-04,JetLite,cancel_pct,0.00,True
+2018-04,JetLite,share_pct,1.5,True
+2018-04,JetLite,pax_lakh,1.73,True
+2018-04,SpiceJet,otp_pct,86.1,True
+2018-04,SpiceJet,cancel_pct,0.51,True
+2018-04,SpiceJet,complaints_per10k,0.2,True
+2018-04,SpiceJet,share_pct,12.4,True
+2018-04,SpiceJet,pax_lakh,14.27,True
+2018-04,TruJet,cancel_pct,0.63,True
+2018-04,TruJet,complaints_per10k,0.2,True
+2018-04,TruJet,share_pct,0.5,True
+2018-04,TruJet,pax_lakh,0.53,True
+2018-04,Vistara,otp_pct,78.4,True
+2018-04,Vistara,cancel_pct,0.00,True
+2018-04,Vistara,complaints_per10k,0.1,True
+2018-04,Vistara,share_pct,4.0,True
+2018-04,Vistara,pax_lakh,4.63,True
+2018-04,Zoom Air,cancel_pct,32.31,True
+2018-04,Zoom Air,complaints_per10k,0.0,True
+2018-04,Zoom Air,share_pct,0.0,True
+2018-04,Zoom Air,pax_lakh,0.02,True
+2019-02,Air Deccan,share_pct,0.0,True
+2019-02,Air Deccan,pax_lakh,0.00,True
+2019-02,Air Heritage,cancel_pct,35.00,True
+2019-02,Air Heritage,complaints_per10k,0.0,True
+2019-02,Air Heritage,share_pct,0.0,True
+2019-02,Air Heritage,pax_lakh,0.00,True
+2019-02,Air India,otp_pct,60.5,True
+2019-02,Air India,cancel_pct,8.15,True
+2019-02,Air India,complaints_per10k,1.5,True
+2019-02,Air India,share_pct,12.8,True
+2019-02,Air India,pax_lakh,14.53,True
+2019-02,AirAsia India,cancel_pct,2.46,True
+2019-02,AirAsia India,complaints_per10k,0.2,True
+2019-02,AirAsia India,share_pct,5.1,True
+2019-02,AirAsia India,pax_lakh,5.83,True
+2019-02,Go First,otp_pct,86.3,True
+2019-02,Go First,cancel_pct,0.61,True
+2019-02,Go First,complaints_per10k,0.4,True
+2019-02,Go First,share_pct,9.0,True
+2019-02,Go First,pax_lakh,10.27,True
+2019-02,IndiGo,otp_pct,76.2,True
+2019-02,IndiGo,cancel_pct,1.88,True
+2019-02,IndiGo,complaints_per10k,0.5,True
+2019-02,IndiGo,share_pct,43.4,True
+2019-02,IndiGo,pax_lakh,49.31,True
+2019-02,Jet Airways,otp_pct,76.7,True
+2019-02,Jet Airways,cancel_pct,2.31,True
+2019-02,Jet Airways,complaints_per10k,3.1,True
+2019-02,Jet Airways,share_pct,10.0,True
+2019-02,Jet Airways,pax_lakh,11.33,True
+2019-02,JetLite,cancel_pct,0.00,True
+2019-02,JetLite,share_pct,1.4,True
+2019-02,JetLite,pax_lakh,1.59,True
+2019-02,SpiceJet,otp_pct,77.1,True
+2019-02,SpiceJet,cancel_pct,1.03,True
+2019-02,SpiceJet,complaints_per10k,0.3,True
+2019-02,SpiceJet,share_pct,13.7,True
+2019-02,SpiceJet,pax_lakh,15.58,True
+2019-02,Star Air,cancel_pct,1.96,True
+2019-02,Star Air,complaints_per10k,0.0,True
+2019-02,Star Air,share_pct,0.0,True
+2019-02,Star Air,pax_lakh,0.03,True
+2019-02,TruJet,cancel_pct,0.00,True
+2019-02,TruJet,complaints_per10k,0.4,True
+2019-02,TruJet,share_pct,0.5,True
+2019-02,TruJet,pax_lakh,0.51,True
+2019-02,Vistara,otp_pct,81.6,True
+2019-02,Vistara,cancel_pct,0.82,True
+2019-02,Vistara,complaints_per10k,0.2,True
+2019-02,Vistara,share_pct,4.0,True
+2019-02,Vistara,pax_lakh,4.52,True
+2019-03,Air Deccan,share_pct,0.0,True
+2019-03,Air Deccan,pax_lakh,0.00,True
+2019-03,Air Heritage,cancel_pct,0.00,True
+2019-03,Air Heritage,complaints_per10k,0.0,True
+2019-03,Air Heritage,share_pct,0.0,True
+2019-03,Air Heritage,pax_lakh,0.00,True
+2019-03,Air India,otp_pct,69.0,True
+2019-03,Air India,cancel_pct,8.94,True
+2019-03,Air India,complaints_per10k,1.8,True
+2019-03,Air India,share_pct,13.1,True
+2019-03,Air India,pax_lakh,15.19,True
+2019-03,AirAsia India,otp_pct,91.9,True
+2019-03,AirAsia India,cancel_pct,0.64,True
+2019-03,AirAsia India,complaints_per10k,0.2,True
+2019-03,AirAsia India,share_pct,5.9,True
+2019-03,AirAsia India,pax_lakh,6.87,True
+2019-03,Go First,otp_pct,95.2,True
+2019-03,Go First,cancel_pct,0.04,True
+2019-03,Go First,complaints_per10k,0.4,True
+2019-03,Go First,share_pct,9.9,True
+2019-03,Go First,pax_lakh,11.49,True
+2019-03,IndiGo,otp_pct,89.5,True
+2019-03,IndiGo,cancel_pct,0.17,True
+2019-03,IndiGo,complaints_per10k,0.5,True
+2019-03,IndiGo,share_pct,46.9,True
+2019-03,IndiGo,pax_lakh,54.41,True
+2019-03,Jet Airways,otp_pct,84.5,True
+2019-03,Jet Airways,cancel_pct,2.28,True
+2019-03,Jet Airways,complaints_per10k,15.1,True
+2019-03,Jet Airways,share_pct,4.6,True
+2019-03,Jet Airways,pax_lakh,5.37,True
+2019-03,JetLite,cancel_pct,7.38,True
+2019-03,JetLite,share_pct,1.2,True
+2019-03,JetLite,pax_lakh,1.34,True
+2019-03,SpiceJet,otp_pct,82.9,True
+2019-03,SpiceJet,cancel_pct,0.88,True
+2019-03,SpiceJet,complaints_per10k,0.5,True
+2019-03,SpiceJet,share_pct,13.6,True
+2019-03,SpiceJet,pax_lakh,15.81,True
+2019-03,Star Air,cancel_pct,4.94,True
+2019-03,Star Air,complaints_per10k,0.0,True
+2019-03,Star Air,share_pct,0.0,True
+2019-03,Star Air,pax_lakh,0.04,True
+2019-03,TruJet,cancel_pct,0.46,True
+2019-03,TruJet,complaints_per10k,0.2,True
+2019-03,TruJet,share_pct,0.5,True
+2019-03,TruJet,pax_lakh,0.54,True
+2019-03,Vistara,otp_pct,91.9,True
+2019-03,Vistara,cancel_pct,0.09,True
+2019-03,Vistara,complaints_per10k,0.1,True
+2019-03,Vistara,share_pct,4.2,True
+2019-03,Vistara,pax_lakh,4.90,True
+2019-06,Air Deccan,cancel_pct,18.67,True
+2019-06,Air Deccan,complaints_per10k,0.0,True
+2019-06,Air Deccan,share_pct,0.0,True
+2019-06,Air Deccan,pax_lakh,0.01,True
+2019-06,Air Heritage,share_pct,0.0,True
+2019-06,Air Heritage,pax_lakh,0.00,True
+2019-06,Air India,otp_pct,61.0,True
+2019-06,Air India,cancel_pct,1.07,True
+2019-06,Air India,complaints_per10k,1.8,True
+2019-06,Air India,share_pct,12.9,True
+2019-06,Air India,pax_lakh,15.51,True
+2019-06,AirAsia India,otp_pct,85.1,True
+2019-06,AirAsia India,cancel_pct,2.33,True
+2019-06,AirAsia India,complaints_per10k,0.1,True
+2019-06,AirAsia India,share_pct,6.4,True
+2019-06,AirAsia India,pax_lakh,7.72,True
+2019-06,Go First,otp_pct,86.8,True
+2019-06,Go First,cancel_pct,0.22,True
+2019-06,Go First,complaints_per10k,0.5,True
+2019-06,Go First,share_pct,11.1,True
+2019-06,Go First,pax_lakh,13.30,True
+2019-06,IndiGo,otp_pct,83.5,True
+2019-06,IndiGo,cancel_pct,0.10,True
+2019-06,IndiGo,complaints_per10k,0.5,True
+2019-06,IndiGo,share_pct,48.1,True
+2019-06,IndiGo,pax_lakh,57.78,True
+2019-06,Jet Airways,share_pct,0.0,True
+2019-06,Jet Airways,pax_lakh,0.00,True
+2019-06,JetLite,share_pct,0.0,True
+2019-06,JetLite,pax_lakh,0.00,True
+2019-06,Pawan Hans,cancel_pct,16.00,True
+2019-06,Pawan Hans,complaints_per10k,0.0,True
+2019-06,Pawan Hans,share_pct,0.0,True
+2019-06,Pawan Hans,pax_lakh,0.00,True
+2019-06,SpiceJet,otp_pct,75.2,True
+2019-06,SpiceJet,cancel_pct,0.58,True
+2019-06,SpiceJet,complaints_per10k,0.6,True
+2019-06,SpiceJet,share_pct,15.6,True
+2019-06,SpiceJet,pax_lakh,18.76,True
+2019-06,Star Air,cancel_pct,2.88,True
+2019-06,Star Air,complaints_per10k,0.0,True
+2019-06,Star Air,share_pct,0.0,True
+2019-06,Star Air,pax_lakh,0.05,True
+2019-06,TruJet,cancel_pct,2.64,True
+2019-06,TruJet,complaints_per10k,0.5,True
+2019-06,TruJet,share_pct,0.5,True
+2019-06,TruJet,pax_lakh,0.64,True
+2019-06,Vistara,otp_pct,82.3,True
+2019-06,Vistara,cancel_pct,1.11,True
+2019-06,Vistara,complaints_per10k,0.2,True
+2019-06,Vistara,share_pct,5.4,True
+2019-06,Vistara,pax_lakh,6.48,True
+2020-07,Air Deccan,cancel_pct,0.00,True
+2020-07,Air Deccan,complaints_per10k,0.0,True
+2020-07,Air Deccan,share_pct,0.0,True
+2020-07,Air Deccan,pax_lakh,0.00,True
+2020-07,Air Heritage,cancel_pct,0.00,True
+2020-07,Air Heritage,complaints_per10k,0.0,True
+2020-07,Air Heritage,share_pct,0.0,True
+2020-07,Air Heritage,pax_lakh,0.00,True
+2020-07,Air India,otp_pct,89.3,True
+2020-07,Air India,cancel_pct,12.26,True
+2020-07,Air India,complaints_per10k,17.7,True
+2020-07,Air India,share_pct,9.1,True
+2020-07,Air India,pax_lakh,1.91,True
+2020-07,AirAsia India,otp_pct,98.1,True
+2020-07,AirAsia India,cancel_pct,9.53,True
+2020-07,AirAsia India,complaints_per10k,0.3,True
+2020-07,AirAsia India,share_pct,6.2,True
+2020-07,AirAsia India,pax_lakh,1.30,True
+2020-07,Go First,otp_pct,91.3,True
+2020-07,Go First,cancel_pct,0.24,True
+2020-07,Go First,complaints_per10k,0.6,True
+2020-07,Go First,share_pct,3.8,True
+2020-07,Go First,pax_lakh,0.79,True
+2020-07,IndiGo,otp_pct,97.6,True
+2020-07,IndiGo,cancel_pct,1.90,True
+2020-07,IndiGo,complaints_per10k,0.1,True
+2020-07,IndiGo,share_pct,60.4,True
+2020-07,IndiGo,pax_lakh,12.72,True
+2020-07,Pawan Hans,cancel_pct,68.52,True
+2020-07,Pawan Hans,complaints_per10k,0.0,True
+2020-07,Pawan Hans,share_pct,0.0,True
+2020-07,Pawan Hans,pax_lakh,0.00,True
+2020-07,SpiceJet,otp_pct,93.2,True
+2020-07,SpiceJet,cancel_pct,0.73,True
+2020-07,SpiceJet,complaints_per10k,0.6,True
+2020-07,SpiceJet,share_pct,15.7,True
+2020-07,SpiceJet,pax_lakh,3.31,True
+2020-07,Star Air,cancel_pct,8.86,True
+2020-07,Star Air,complaints_per10k,0.0,True
+2020-07,Star Air,share_pct,0.3,True
+2020-07,Star Air,pax_lakh,0.06,True
+2020-07,TruJet,cancel_pct,37.41,True
+2020-07,TruJet,complaints_per10k,1.0,True
+2020-07,TruJet,share_pct,0.5,True
+2020-07,TruJet,pax_lakh,0.10,True
+2020-07,Vistara,otp_pct,95.9,True
+2020-07,Vistara,cancel_pct,22.18,True
+2020-07,Vistara,complaints_per10k,0.3,True
+2020-07,Vistara,share_pct,4.2,True
+2020-07,Vistara,pax_lakh,0.88,True
+2020-07,Zoom Air,cancel_pct,0.00,True
+2020-07,Zoom Air,complaints_per10k,0.0,True
+2020-07,Zoom Air,share_pct,0.0,True
+2020-07,Zoom Air,pax_lakh,0.00,True
+2020-10,Air Deccan,cancel_pct,0.00,True
+2020-10,Air Deccan,complaints_per10k,0.0,True
+2020-10,Air Deccan,share_pct,0.0,True
+2020-10,Air Deccan,pax_lakh,0.00,True
+2020-10,Air Heritage,cancel_pct,0.00,True
+2020-10,Air Heritage,complaints_per10k,0.0,True
+2020-10,Air Heritage,share_pct,0.0,True
+2020-10,Air Heritage,pax_lakh,0.00,True
+2020-10,Air India,otp_pct,90.7,True
+2020-10,Air India,cancel_pct,11.06,True
+2020-10,Air India,complaints_per10k,7.5,True
+2020-10,Air India,share_pct,9.4,True
+2020-10,Air India,pax_lakh,4.94,True
+2020-10,AirAsia India,otp_pct,98.0,True
+2020-10,AirAsia India,cancel_pct,0.24,True
+2020-10,AirAsia India,complaints_per10k,0.2,True
+2020-10,AirAsia India,share_pct,7.1,True
+2020-10,AirAsia India,pax_lakh,3.74,True
+2020-10,Go First,otp_pct,94.1,True
+2020-10,Go First,cancel_pct,0.00,True
+2020-10,Go First,complaints_per10k,0.2,True
+2020-10,Go First,share_pct,7.5,True
+2020-10,Go First,pax_lakh,3.95,True
+2020-10,IndiGo,otp_pct,97.7,True
+2020-10,IndiGo,cancel_pct,1.49,True
+2020-10,IndiGo,complaints_per10k,0.0,True
+2020-10,IndiGo,share_pct,55.5,True
+2020-10,IndiGo,pax_lakh,29.27,True
+2020-10,Pawan Hans,cancel_pct,37.14,True
+2020-10,Pawan Hans,complaints_per10k,0.0,True
+2020-10,Pawan Hans,share_pct,0.0,True
+2020-10,Pawan Hans,pax_lakh,0.00,True
+2020-10,SpiceJet,otp_pct,95.3,True
+2020-10,SpiceJet,cancel_pct,1.00,True
+2020-10,SpiceJet,complaints_per10k,0.5,True
+2020-10,SpiceJet,share_pct,13.4,True
+2020-10,SpiceJet,pax_lakh,7.04,True
+2020-10,Star Air,cancel_pct,3.53,True
+2020-10,Star Air,complaints_per10k,0.0,True
+2020-10,Star Air,share_pct,0.2,True
+2020-10,Star Air,pax_lakh,0.09,True
+2020-10,TruJet,cancel_pct,4.25,True
+2020-10,TruJet,complaints_per10k,0.3,True
+2020-10,TruJet,share_pct,0.5,True
+2020-10,TruJet,pax_lakh,0.29,True
+2020-10,Vistara,otp_pct,96.8,True
+2020-10,Vistara,cancel_pct,0.26,True
+2020-10,Vistara,complaints_per10k,0.1,True
+2020-10,Vistara,share_pct,6.4,True
+2020-10,Vistara,pax_lakh,3.39,True
+2020-10,Zoom Air,cancel_pct,0.00,True
+2020-10,Zoom Air,complaints_per10k,0.0,True
+2020-10,Zoom Air,share_pct,0.0,True
+2020-10,Zoom Air,pax_lakh,0.00,True
+2021-02,Air India,otp_pct,80.4,True
+2021-02,Air India,cancel_pct,1.23,True
+2021-02,Air India,complaints_per10k,3.5,True
+2021-02,Air India,share_pct,11.7,True
+2021-02,Air India,pax_lakh,9.16,True
+2021-02,Air Taxi,cancel_pct,44.20,True
+2021-02,Air Taxi,complaints_per10k,0.0,True
+2021-02,Air Taxi,share_pct,0.0,True
+2021-02,Air Taxi,pax_lakh,0.00,True
+2021-02,AirAsia India,otp_pct,85.2,True
+2021-02,AirAsia India,cancel_pct,0.34,True
+2021-02,AirAsia India,complaints_per10k,0.2,True
+2021-02,AirAsia India,share_pct,6.7,True
+2021-02,AirAsia India,pax_lakh,5.21,True
+2021-02,Flybig,cancel_pct,4.76,True
+2021-02,Flybig,complaints_per10k,17.1,True
+2021-02,Flybig,share_pct,0.0,True
+2021-02,Flybig,pax_lakh,0.03,True
+2021-02,Go First,otp_pct,78.4,True
+2021-02,Go First,cancel_pct,0.22,True
+2021-02,Go First,complaints_per10k,0.4,True
+2021-02,Go First,share_pct,7.4,True
+2021-02,Go First,pax_lakh,5.81,True
+2021-02,IndiGo,otp_pct,94.0,True
+2021-02,IndiGo,cancel_pct,0.44,True
+2021-02,IndiGo,complaints_per10k,0.1,True
+2021-02,IndiGo,share_pct,54.2,True
+2021-02,IndiGo,pax_lakh,42.38,True
+2021-02,Pawan Hans,cancel_pct,12.50,True
+2021-02,Pawan Hans,complaints_per10k,0.0,True
+2021-02,Pawan Hans,share_pct,0.0,True
+2021-02,Pawan Hans,pax_lakh,0.00,True
+2021-02,SpiceJet,otp_pct,81.4,True
+2021-02,SpiceJet,cancel_pct,0.98,True
+2021-02,SpiceJet,complaints_per10k,0.8,True
+2021-02,SpiceJet,share_pct,12.3,True
+2021-02,SpiceJet,pax_lakh,9.62,True
+2021-02,Star Air,cancel_pct,1.09,True
+2021-02,Star Air,complaints_per10k,0.0,True
+2021-02,Star Air,share_pct,0.2,True
+2021-02,Star Air,pax_lakh,0.18,True
+2021-02,TruJet,cancel_pct,0.65,True
+2021-02,TruJet,complaints_per10k,0.4,True
+2021-02,TruJet,share_pct,0.6,True
+2021-02,TruJet,pax_lakh,0.48,True
+2021-02,Vistara,otp_pct,82.9,True
+2021-02,Vistara,cancel_pct,0.39,True
+2021-02,Vistara,complaints_per10k,0.2,True
+2021-02,Vistara,share_pct,6.9,True
+2021-02,Vistara,pax_lakh,5.40,True
+2024-12,Air India,otp_pct,67.6,True
+2024-12,Air India,cancel_pct,0.31,True
+2024-12,Air India,complaints_per10k,0.9,True
+2024-12,Air India,share_pct,26.4,True
+2024-12,Air India,pax_lakh,39.46,True
+2024-12,Akasa Air,otp_pct,62.7,True
+2024-12,Akasa Air,cancel_pct,0.66,True
+2024-12,Akasa Air,complaints_per10k,0.4,True
+2024-12,Akasa Air,share_pct,4.6,True
+2024-12,Akasa Air,pax_lakh,6.89,True
+2024-12,Alliance Air,otp_pct,55.6,True
+2024-12,Alliance Air,cancel_pct,4.35,True
+2024-12,Alliance Air,complaints_per10k,3.1,True
+2024-12,Alliance Air,share_pct,0.7,True
+2024-12,Alliance Air,pax_lakh,1.00,True
+2024-12,Fly91,cancel_pct,0.46,True
+2024-12,Fly91,complaints_per10k,0.8,True
+2024-12,Fly91,share_pct,0.2,True
+2024-12,Fly91,pax_lakh,0.24,True
+2024-12,Flybig,cancel_pct,19.23,True
+2024-12,Flybig,complaints_per10k,26.4,True
+2024-12,Flybig,share_pct,0.0,True
+2024-12,Flybig,pax_lakh,0.01,True
+2024-12,IndiGo,otp_pct,73.4,True
+2024-12,IndiGo,cancel_pct,1.17,True
+2024-12,IndiGo,complaints_per10k,0.2,True
+2024-12,IndiGo,share_pct,64.4,True
+2024-12,IndiGo,pax_lakh,96.15,True
+2024-12,IndiaOne Air,cancel_pct,2.83,True
+2024-12,IndiaOne Air,complaints_per10k,0.0,True
+2024-12,IndiaOne Air,share_pct,0.0,True
+2024-12,IndiaOne Air,pax_lakh,0.03,True
+2024-12,SpiceJet,otp_pct,61.5,True
+2024-12,SpiceJet,cancel_pct,1.81,True
+2024-12,SpiceJet,complaints_per10k,4.2,True
+2024-12,SpiceJet,share_pct,3.3,True
+2024-12,SpiceJet,pax_lakh,4.89,True
+2024-12,Star Air,cancel_pct,0.72,True
+2024-12,Star Air,complaints_per10k,3.0,True
+2024-12,Star Air,share_pct,0.4,True
+2024-12,Star Air,pax_lakh,0.60,True
+2025-05,Air India,otp_pct,79.7,True
+2025-05,Air India,cancel_pct,3.40,True
+2025-05,Air India,complaints_per10k,0.8,True
+2025-05,Air India,share_pct,26.5,True
+2025-05,Air India,pax_lakh,37.22,True
+2025-05,Akasa Air,otp_pct,78.9,True
+2025-05,Akasa Air,cancel_pct,0.34,True
+2025-05,Akasa Air,complaints_per10k,0.4,True
+2025-05,Akasa Air,share_pct,5.3,True
+2025-05,Akasa Air,pax_lakh,7.48,True
+2025-05,Alliance Air,otp_pct,53.5,True
+2025-05,Alliance Air,cancel_pct,4.72,True
+2025-05,Alliance Air,complaints_per10k,34.3,True
+2025-05,Alliance Air,share_pct,0.4,True
+2025-05,Alliance Air,pax_lakh,0.62,True
+2025-05,Fly91,cancel_pct,0.46,True
+2025-05,Fly91,complaints_per10k,0.8,True
+2025-05,Fly91,share_pct,0.2,True
+2025-05,Fly91,pax_lakh,0.24,True
+2025-05,Flybig,cancel_pct,22.14,True
+2025-05,Flybig,complaints_per10k,32.2,True
+2025-05,Flybig,share_pct,0.0,True
+2025-05,Flybig,pax_lakh,0.02,True
+2025-05,IndiGo,otp_pct,84.0,True
+2025-05,IndiGo,cancel_pct,2.03,True
+2025-05,IndiGo,complaints_per10k,0.2,True
+2025-05,IndiGo,share_pct,64.6,True
+2025-05,IndiGo,pax_lakh,90.80,True
+2025-05,IndiaOne Air,cancel_pct,10.76,True
+2025-05,IndiaOne Air,complaints_per10k,0.0,True
+2025-05,IndiaOne Air,share_pct,0.0,True
+2025-05,IndiaOne Air,pax_lakh,0.03,True
+2025-05,SpiceJet,otp_pct,50.1,True
+2025-05,SpiceJet,cancel_pct,2.62,True
+2025-05,SpiceJet,complaints_per10k,5.8,True
+2025-05,SpiceJet,share_pct,2.4,True
+2025-05,SpiceJet,pax_lakh,3.40,True
+2025-05,Star Air,cancel_pct,1.50,True
+2025-05,Star Air,complaints_per10k,2.0,True
+2025-05,Star Air,share_pct,0.5,True
+2025-05,Star Air,pax_lakh,0.75,True
+2026-01,Air India,otp_pct,69.6,True
+2026-01,Air India,cancel_pct,0.77,True
+2026-01,Air India,complaints_per10k,3.1,True
+2026-01,Air India,share_pct,26.5,True
+2026-01,Air India,pax_lakh,40.34,True
+2026-01,Akasa Air,otp_pct,59.8,True
+2026-01,Akasa Air,cancel_pct,0.41,True
+2026-01,Akasa Air,complaints_per10k,3.0,True
+2026-01,Akasa Air,share_pct,4.8,True
+2026-01,Akasa Air,pax_lakh,7.29,True
+2026-01,Alliance Air,otp_pct,66.9,True
+2026-01,Alliance Air,cancel_pct,4.28,True
+2026-01,Alliance Air,complaints_per10k,43.3,True
+2026-01,Alliance Air,share_pct,0.4,True
+2026-01,Alliance Air,pax_lakh,0.57,True
+2026-01,Fly91,cancel_pct,1.51,True
+2026-01,Fly91,complaints_per10k,6.0,True
+2026-01,Fly91,share_pct,0.2,True
+2026-01,Fly91,pax_lakh,0.33,True
+2026-01,IndiGo,otp_pct,70.9,True
+2026-01,IndiGo,cancel_pct,1.25,True
+2026-01,IndiGo,complaints_per10k,7.1,True
+2026-01,IndiGo,share_pct,63.6,True
+2026-01,IndiGo,pax_lakh,97.04,True
+2026-01,IndiaOne Air,cancel_pct,54.66,True
+2026-01,IndiaOne Air,complaints_per10k,0.0,True
+2026-01,IndiaOne Air,share_pct,0.0,True
+2026-01,IndiaOne Air,pax_lakh,0.02,True
+2026-01,SpiceJet,otp_pct,56.8,True
+2026-01,SpiceJet,cancel_pct,1.44,True
+2026-01,SpiceJet,complaints_per10k,8.1,True
+2026-01,SpiceJet,share_pct,3.9,True
+2026-01,SpiceJet,pax_lakh,5.92,True
+2026-01,Star Air,cancel_pct,0.74,True
+2026-01,Star Air,complaints_per10k,2.0,True
+2026-01,Star Air,share_pct,0.6,True
+2026-01,Star Air,pax_lakh,0.97,True

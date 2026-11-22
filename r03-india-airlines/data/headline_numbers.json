@@ -1,0 +1,2436 @@
+{
+ "coverage": {
+  "months_with_report": 104,
+  "first": "2018-01-01",
+  "last": "2026-09-01",
+  "airlines_seen": [
+   "Air Deccan",
+   "Air Heritage",
+   "Air India",
+   "Air Odisha",
+   "Air Taxi",
+   "AirAsia India",
+   "Akasa Air",
+   "Alliance Air",
+   "Fly91",
+   "Flybig",
+   "Go First",
+   "IndiGo",
+   "IndiaOne Air",
+   "Jet Airways",
+   "JetLite",
+   "Pawan Hans",
+   "SpiceJet",
+   "Star Air",
+   "TruJet",
+   "Vistara",
+   "Zoom Air"
+  ],
+  "main_airlines_seen": [
+   "Air India",
+   "AirAsia India",
+   "Akasa Air",
+   "Alliance Air",
+   "Go First",
+   "IndiGo",
+   "Jet Airways",
+   "SpiceJet",
+   "Vistara"
+  ],
+  "airline_months_with_otp": 641,
+  "airline_months_with_cancel": 1079,
+  "airline_months_with_complaints": 1055
+ },
+ "scope_schedule": {
+  "Air India|4": 56.0,
+  "Akasa Air|4": 49.2,
+  "Alliance Air|4": 26.1,
+  "Fly91|4": 23.2,
+  "IndiGo|4": 37.6,
+  "IndiaOne Air|4": 0.0,
+  "SpiceJet|4": 38.7,
+  "Star Air|4": 19.6,
+  "ALL|4": 42.3,
+  "Air India|6": 61.8,
+  "Akasa Air|6": 57.6,
+  "Alliance Air|6": 32.3,
+  "Fly91|6": 23.2,
+  "IndiGo|6": 49.4,
+  "IndiaOne Air|6": 0.0,
+  "SpiceJet|6": 49.1,
+  "Star Air|6": 21.2,
+  "ALL|6": 51.8,
+  "Air India|10": 69.0,
+  "Akasa Air|10": 68.2,
+  "Alliance Air|10": 45.1,
+  "Fly91|10": 26.3,
+  "IndiGo|10": 58.0,
+  "IndiaOne Air|10": 0.0,
+  "SpiceJet|10": 51.7,
+  "Star Air|10": 29.2,
+  "ALL|10": 60.0
+ },
+ "scope_schedule_weekly_deps_total": 23034,
+ "scope_aai": {
+  "airports_matched": [
+   "AMD",
+   "BLR",
+   "BOM",
+   "CCU",
+   "COK",
+   "DEL",
+   "GAU",
+   "HYD",
+   "LKO",
+   "MAA"
+  ],
+  "share_2026_jan_sep_by_set": {
+   "10": 52.5,
+   "4": 34.9,
+   "6": 44.1
+  },
+  "share_2025_jan_sep_by_set": {
+   "10": 54.0,
+   "4": 35.1,
+   "6": 45.3
+  }
+ },
+ "airport_effect_pts": {
+  "GAU": -7.5,
+  "BOM": -6.8,
+  "LKO": -4.4,
+  "AMD": -3.7,
+  "CCU": -0.8,
+  "DEL": 0.0,
+  "BLR": 3.1,
+  "HYD": 3.2,
+  "COK": 5.1,
+  "MAA": 7.7
+ },
+ "variance_split_median": {
+  "airline_share": 0.544,
+  "airport_share": 0.217,
+  "resid": 0.185
+ },
+ "variance_split_months": 104,
+ "mix_test_4apt": {
+  "months": 104,
+  "leader_changes_when_equal_weighting": 22,
+  "mean_abs_shift_pts": 1.64
+ },
+ "mix_2026": {
+  "rebuild_mean_abs_err_pts": 0.29,
+  "akasa_own_vs_indigo_mix_mean_diff": 0.76,
+  "airindia_own_vs_indigo_mix_mean_diff": 1.6,
+  "indigo_own_vs_akasa_mix_mean_diff": -1.31
+ },
+ "leader": {
+  "all_2018-01_2026-09": {
+   "months": 104,
+   "leader_counts": {
+    "IndiGo": 53,
+    "Go First": 17,
+    "AirAsia India": 13,
+    "Akasa Air": 12,
+    "Vistara": 5,
+    "SpiceJet": 2,
+    "Air India": 2
+   },
+   "leader_changes": 35,
+   "change_rate": 0.34,
+   "median_gap_pts": 2.0,
+   "share_months_gap_under_1pt": 0.3
+  },
+  "pre_covid_2018-2019": {
+   "months": 24,
+   "leader_counts": {
+    "Go First": 15,
+    "IndiGo": 7,
+    "SpiceJet": 2
+   },
+   "leader_changes": 5,
+   "change_rate": 0.22,
+   "median_gap_pts": 1.9,
+   "share_months_gap_under_1pt": 0.33
+  },
+  "post_covid_2022-01_2026-09": {
+   "months": 57,
+   "leader_counts": {
+    "IndiGo": 32,
+    "Akasa Air": 12,
+    "AirAsia India": 8,
+    "Vistara": 2,
+    "Air India": 2,
+    "Go First": 1
+   },
+   "leader_changes": 18,
+   "change_rate": 0.32,
+   "median_gap_pts": 2.9,
+   "share_months_gap_under_1pt": 0.18
+  },
+  "4apt_era_2022-2024": {
+   "months": 36,
+   "leader_counts": {
+    "IndiGo": 13,
+    "Akasa Air": 11,
+    "AirAsia India": 8,
+    "Vistara": 2,
+    "Go First": 1,
+    "Air India": 1
+   },
+   "leader_changes": 15,
+   "change_rate": 0.43,
+   "median_gap_pts": 2.2,
+   "share_months_gap_under_1pt": 0.22
+  },
+  "6apt_2025": {
+   "months": 12,
+   "leader_counts": {
+    "IndiGo": 10,
+    "Akasa Air": 1,
+    "Air India": 1
+   },
+   "leader_changes": 2,
+   "change_rate": 0.18,
+   "median_gap_pts": 3.5,
+   "share_months_gap_under_1pt": 0.0
+  },
+  "10apt_2026-01_2026-09": {
+   "months": 9,
+   "leader_counts": {
+    "IndiGo": 9
+   },
+   "leader_changes": 0,
+   "change_rate": 0.0,
+   "median_gap_pts": 3.5,
+   "share_months_gap_under_1pt": 0.22
+  },
+  "last12_2025-10_2026-09": {
+   "months": 12,
+   "leader_counts": {
+    "IndiGo": 10,
+    "Akasa Air": 1,
+    "Air India": 1
+   },
+   "leader_changes": 3,
+   "change_rate": 0.27,
+   "median_gap_pts": 3.5,
+   "share_months_gap_under_1pt": 0.17
+  }
+ },
+ "otp_median_abs_month_change_post2022": {
+  "Air India": 4.6,
+  "AirAsia India": 4.0,
+  "Akasa Air": 5.3,
+  "Alliance Air": 5.7,
+  "Go First": 6.6,
+  "IndiGo": 3.9,
+  "SpiceJet": 6.4,
+  "Vistara": 2.9
+ },
+ "bootstrap_otp": {
+  "all_2018-01_2026-09": {
+   "months": 104,
+   "airlines": [
+    "Air India",
+    "IndiGo",
+    "SpiceJet"
+   ],
+   "means": {
+    "IndiGo": 84.15,
+    "Air India": 74.46,
+    "SpiceJet": 68.5
+   },
+   "p_first": {
+    "Air India": 0.0,
+    "IndiGo": 1.0,
+    "SpiceJet": 0.0
+   },
+   "coverage": {
+    "Air India": 0.99,
+    "IndiGo": 1.0,
+    "SpiceJet": 0.99
+   },
+   "top2": [
+    "IndiGo",
+    "Air India"
+   ],
+   "top2_diff": 9.67,
+   "top2_diff_ci95": [
+    7.73,
+    11.9
+   ]
+  },
+  "pre_covid_2018-2019": {
+   "months": 24,
+   "airlines": [
+    "Air India",
+    "Go First",
+    "IndiGo",
+    "SpiceJet",
+    "Vistara"
+   ],
+   "means": {
+    "Go First": 81.32,
+    "IndiGo": 80.36,
+    "Vistara": 79.43,
+    "SpiceJet": 76.31,
+    "Air India": 64.5
+   },
+   "p_first": {
+    "Air India": 0.0,
+    "Go First": 0.766,
+    "IndiGo": 0.231,
+    "SpiceJet": 0.003,
+    "Vistara": 0.0
+   },
+   "coverage": {
+    "Air India": 1.0,
+    "Go First": 1.0,
+    "IndiGo": 1.0,
+    "SpiceJet": 1.0,
+    "Vistara": 1.0
+   },
+   "top2": [
+    "Go First",
+    "IndiGo"
+   ],
+   "top2_diff": 0.95,
+   "top2_diff_ci95": [
+    -2.75,
+    5.73
+   ]
+  },
+  "post_covid_2022-01_2026-09": {
+   "months": 57,
+   "airlines": [
+    "Air India",
+    "IndiGo",
+    "SpiceJet"
+   ],
+   "means": {
+    "IndiGo": 82.36,
+    "Air India": 75.98,
+    "SpiceJet": 57.87
+   },
+   "p_first": {
+    "Air India": 0.0,
+    "IndiGo": 1.0,
+    "SpiceJet": 0.0
+   },
+   "coverage": {
+    "Air India": 1.0,
+    "IndiGo": 1.0,
+    "SpiceJet": 0.98
+   },
+   "top2": [
+    "IndiGo",
+    "Air India"
+   ],
+   "top2_diff": 6.38,
+   "top2_diff_ci95": [
+    4.5,
+    8.29
+   ]
+  },
+  "4apt_era_2022-2024": {
+   "months": 36,
+   "airlines": [
+    "Air India",
+    "AirAsia India",
+    "IndiGo",
+    "SpiceJet",
+    "Vistara"
+   ],
+   "means": {
+    "IndiGo": 81.69,
+    "Vistara": 81.23,
+    "AirAsia India": 79.95,
+    "Air India": 74.96,
+    "SpiceJet": 62.47
+   },
+   "p_first": {
+    "Air India": 0.0,
+    "AirAsia India": 0.149,
+    "IndiGo": 0.66,
+    "SpiceJet": 0.0,
+    "Vistara": 0.191
+   },
+   "coverage": {
+    "Air India": 1.0,
+    "AirAsia India": 0.92,
+    "IndiGo": 1.0,
+    "SpiceJet": 1.0,
+    "Vistara": 0.94
+   },
+   "top2": [
+    "IndiGo",
+    "Vistara"
+   ],
+   "top2_diff": 0.92,
+   "top2_diff_ci95": [
+    -1.51,
+    3.41
+   ]
+  },
+  "6apt_2025": {
+   "months": 12,
+   "airlines": [
+    "Air India",
+    "Akasa Air",
+    "IndiGo",
+    "SpiceJet"
+   ],
+   "means": {
+    "IndiGo": 81.61,
+    "Akasa Air": 78.36,
+    "Air India": 76.42,
+    "SpiceJet": 58.11
+   },
+   "p_first": {
+    "Air India": 0.0,
+    "Akasa Air": 0.0,
+    "IndiGo": 1.0,
+    "SpiceJet": 0.0
+   },
+   "coverage": {
+    "Air India": 1.0,
+    "Akasa Air": 1.0,
+    "IndiGo": 1.0,
+    "SpiceJet": 1.0
+   },
+   "top2": [
+    "IndiGo",
+    "Akasa Air"
+   ],
+   "top2_diff": 3.25,
+   "top2_diff_ci95": [
+    2.11,
+    4.26
+   ]
+  },
+  "10apt_2026-01_2026-09": {
+   "months": 9,
+   "airlines": [
+    "Air India",
+    "Akasa Air",
+    "IndiGo"
+   ],
+   "means": {
+    "IndiGo": 86.02,
+    "Akasa Air": 80.79,
+    "Air India": 79.5
+   },
+   "p_first": {
+    "Air India": 0.0,
+    "Akasa Air": 0.0,
+    "IndiGo": 1.0
+   },
+   "coverage": {
+    "Air India": 1.0,
+    "Akasa Air": 1.0,
+    "IndiGo": 1.0
+   },
+   "top2": [
+    "IndiGo",
+    "Akasa Air"
+   ],
+   "top2_diff": 5.23,
+   "top2_diff_ci95": [
+    2.34,
+    8.06
+   ]
+  },
+  "last12_2025-10_2026-09": {
+   "months": 12,
+   "airlines": [
+    "Air India",
+    "Akasa Air",
+    "IndiGo",
+    "SpiceJet"
+   ],
+   "means": {
+    "IndiGo": 82.5,
+    "Akasa Air": 77.84,
+    "Air India": 77.52,
+    "SpiceJet": 40.37
+   },
+   "p_first": {
+    "Air India": 0.001,
+    "Akasa Air": 0.0,
+    "IndiGo": 0.999,
+    "SpiceJet": 0.0
+   },
+   "coverage": {
+    "Air India": 1.0,
+    "Akasa Air": 1.0,
+    "IndiGo": 1.0,
+    "SpiceJet": 0.92
+   },
+   "top2": [
+    "IndiGo",
+    "Akasa Air"
+   ],
+   "top2_diff": 4.66,
+   "top2_diff_ci95": [
+    2.57,
+    7.74
+   ]
+  }
+ },
+ "bootstrap_cancel": {
+  "all_2018-01_2026-09": {
+   "months": 104,
+   "airlines": [
+    "Air India",
+    "IndiGo",
+    "SpiceJet"
+   ],
+   "means": {
+    "IndiGo": 1.04,
+    "SpiceJet": 1.51,
+    "Air India": 2.23
+   },
+   "p_first": {
+    "Air India": 0.0,
+    "IndiGo": 0.919,
+    "SpiceJet": 0.08
+   },
+   "coverage": {
+    "Air India": 0.99,
+    "IndiGo": 1.0,
+    "SpiceJet": 0.99
+   },
+   "top2": [
+    "IndiGo",
+    "SpiceJet"
+   ],
+   "top2_diff": -0.47,
+   "top2_diff_ci95": [
+    -1.1,
+    0.13
+   ]
+  },
+  "pre_covid_2018-2019": {
+   "months": 24,
+   "airlines": [
+    "Air India",
+    "Go First",
+    "IndiGo",
+    "SpiceJet",
+    "Vistara"
+   ],
+   "means": {
+    "Vistara": 0.43,
+    "Go First": 0.64,
+    "SpiceJet": 0.67,
+    "IndiGo": 0.92,
+    "Air India": 2.98
+   },
+   "p_first": {
+    "Air India": 0.0,
+    "Go First": 0.175,
+    "IndiGo": 0.001,
+    "SpiceJet": 0.0,
+    "Vistara": 0.824
+   },
+   "coverage": {
+    "Air India": 1.0,
+    "Go First": 1.0,
+    "IndiGo": 1.0,
+    "SpiceJet": 1.0,
+    "Vistara": 1.0
+   },
+   "top2": [
+    "Vistara",
+    "Go First"
+   ],
+   "top2_diff": -0.22,
+   "top2_diff_ci95": [
+    -0.45,
+    0.14
+   ]
+  },
+  "post_covid_2022-01_2026-09": {
+   "months": 57,
+   "airlines": [
+    "Air India",
+    "IndiGo",
+    "SpiceJet"
+   ],
+   "means": {
+    "Air India": 0.7,
+    "IndiGo": 0.97,
+    "SpiceJet": 2.08
+   },
+   "p_first": {
+    "Air India": 0.98,
+    "IndiGo": 0.02,
+    "SpiceJet": 0.0
+   },
+   "coverage": {
+    "Air India": 1.0,
+    "IndiGo": 1.0,
+    "SpiceJet": 0.98
+   },
+   "top2": [
+    "Air India",
+    "IndiGo"
+   ],
+   "top2_diff": -0.26,
+   "top2_diff_ci95": [
+    -0.64,
+    -0.01
+   ]
+  },
+  "4apt_era_2022-2024": {
+   "months": 36,
+   "airlines": [
+    "Air India",
+    "AirAsia India",
+    "IndiGo",
+    "SpiceJet",
+    "Vistara"
+   ],
+   "means": {
+    "AirAsia India": 0.34,
+    "Vistara": 0.44,
+    "Air India": 0.61,
+    "IndiGo": 0.91,
+    "SpiceJet": 1.15
+   },
+   "p_first": {
+    "Air India": 0.006,
+    "AirAsia India": 0.765,
+    "IndiGo": 0.0,
+    "SpiceJet": 0.0,
+    "Vistara": 0.229
+   },
+   "coverage": {
+    "Air India": 1.0,
+    "AirAsia India": 0.92,
+    "IndiGo": 1.0,
+    "SpiceJet": 1.0,
+    "Vistara": 0.94
+   },
+   "top2": [
+    "AirAsia India",
+    "Vistara"
+   ],
+   "top2_diff": -0.08,
+   "top2_diff_ci95": [
+    -0.23,
+    0.13
+   ]
+  },
+  "6apt_2025": {
+   "months": 12,
+   "airlines": [
+    "Air India",
+    "Akasa Air",
+    "IndiGo",
+    "SpiceJet"
+   ],
+   "means": {
+    "Akasa Air": 0.28,
+    "Air India": 0.97,
+    "IndiGo": 1.54,
+    "SpiceJet": 2.42
+   },
+   "p_first": {
+    "Air India": 0.002,
+    "Akasa Air": 0.998,
+    "IndiGo": 0.0,
+    "SpiceJet": 0.0
+   },
+   "coverage": {
+    "Air India": 1.0,
+    "Akasa Air": 1.0,
+    "IndiGo": 1.0,
+    "SpiceJet": 1.0
+   },
+   "top2": [
+    "Akasa Air",
+    "Air India"
+   ],
+   "top2_diff": -0.7,
+   "top2_diff_ci95": [
+    -1.19,
+    -0.22
+   ]
+  },
+  "10apt_2026-01_2026-09": {
+   "months": 9,
+   "airlines": [
+    "Air India",
+    "Akasa Air",
+    "IndiGo"
+   ],
+   "means": {
+    "Akasa Air": 0.13,
+    "IndiGo": 0.41,
+    "Air India": 0.74
+   },
+   "p_first": {
+    "Air India": 0.0,
+    "Akasa Air": 1.0,
+    "IndiGo": 0.0
+   },
+   "coverage": {
+    "Air India": 1.0,
+    "Akasa Air": 1.0,
+    "IndiGo": 1.0
+   },
+   "top2": [
+    "Akasa Air",
+    "IndiGo"
+   ],
+   "top2_diff": -0.28,
+   "top2_diff_ci95": [
+    -0.32,
+    -0.16
+   ]
+  },
+  "last12_2025-10_2026-09": {
+   "months": 12,
+   "airlines": [
+    "Air India",
+    "Akasa Air",
+    "IndiGo",
+    "SpiceJet"
+   ],
+   "means": {
+    "Akasa Air": 0.23,
+    "Air India": 0.94,
+    "IndiGo": 1.28,
+    "SpiceJet": 4.67
+   },
+   "p_first": {
+    "Air India": 0.0,
+    "Akasa Air": 1.0,
+    "IndiGo": 0.0,
+    "SpiceJet": 0.0
+   },
+   "coverage": {
+    "Air India": 1.0,
+    "Akasa Air": 1.0,
+    "IndiGo": 1.0,
+    "SpiceJet": 0.92
+   },
+   "top2": [
+    "Akasa Air",
+    "Air India"
+   ],
+   "top2_diff": -0.72,
+   "top2_diff_ci95": [
+    -1.01,
+    -0.39
+   ]
+  }
+ },
+ "bootstrap_complaints": {
+  "all_2018-01_2026-09": {
+   "months": 103,
+   "airlines": [
+    "Air India",
+    "IndiGo",
+    "SpiceJet"
+   ],
+   "means": {
+    "IndiGo": 0.72,
+    "Air India": 2.48,
+    "SpiceJet": 2.63
+   },
+   "p_first": {
+    "Air India": 0.001,
+    "IndiGo": 0.999,
+    "SpiceJet": 0.0
+   },
+   "coverage": {
+    "Air India": 1.0,
+    "IndiGo": 1.0,
+    "SpiceJet": 0.99
+   },
+   "top2": [
+    "IndiGo",
+    "Air India"
+   ],
+   "top2_diff": -1.76,
+   "top2_diff_ci95": [
+    -2.81,
+    -0.69
+   ]
+  },
+  "pre_covid_2018-2019": {
+   "months": 24,
+   "airlines": [
+    "Air India",
+    "Go First",
+    "IndiGo",
+    "SpiceJet",
+    "Vistara"
+   ],
+   "means": {
+    "Vistara": 0.15,
+    "SpiceJet": 0.4,
+    "IndiGo": 0.41,
+    "Go First": 0.44,
+    "Air India": 1.72
+   },
+   "p_first": {
+    "Air India": 0.0,
+    "Go First": 0.0,
+    "IndiGo": 0.0,
+    "SpiceJet": 0.0,
+    "Vistara": 1.0
+   },
+   "coverage": {
+    "Air India": 1.0,
+    "Go First": 1.0,
+    "IndiGo": 1.0,
+    "SpiceJet": 1.0,
+    "Vistara": 1.0
+   },
+   "top2": [
+    "Vistara",
+    "SpiceJet"
+   ],
+   "top2_diff": -0.26,
+   "top2_diff_ci95": [
+    -0.42,
+    -0.1
+   ]
+  },
+  "post_covid_2022-01_2026-09": {
+   "months": 57,
+   "airlines": [
+    "Air India",
+    "IndiGo",
+    "SpiceJet"
+   ],
+   "means": {
+    "IndiGo": 1.08,
+    "Air India": 1.62,
+    "SpiceJet": 4.24
+   },
+   "p_first": {
+    "Air India": 0.227,
+    "IndiGo": 0.773,
+    "SpiceJet": 0.0
+   },
+   "coverage": {
+    "Air India": 1.0,
+    "IndiGo": 1.0,
+    "SpiceJet": 0.98
+   },
+   "top2": [
+    "IndiGo",
+    "Air India"
+   ],
+   "top2_diff": -0.53,
+   "top2_diff_ci95": [
+    -1.34,
+    0.94
+   ]
+  },
+  "4apt_era_2022-2024": {
+   "months": 36,
+   "airlines": [
+    "Air India",
+    "AirAsia India",
+    "IndiGo",
+    "SpiceJet",
+    "Vistara"
+   ],
+   "means": {
+    "Vistara": 0.03,
+    "IndiGo": 0.11,
+    "AirAsia India": 0.13,
+    "Air India": 1.35,
+    "SpiceJet": 3.25
+   },
+   "p_first": {
+    "Air India": 0.0,
+    "AirAsia India": 0.0,
+    "IndiGo": 0.0,
+    "SpiceJet": 0.0,
+    "Vistara": 1.0
+   },
+   "coverage": {
+    "Air India": 1.0,
+    "AirAsia India": 0.92,
+    "IndiGo": 1.0,
+    "SpiceJet": 1.0,
+    "Vistara": 0.94
+   },
+   "top2": [
+    "Vistara",
+    "IndiGo"
+   ],
+   "top2_diff": -0.07,
+   "top2_diff_ci95": [
+    -0.11,
+    -0.05
+   ]
+  },
+  "6apt_2025": {
+   "months": 12,
+   "airlines": [
+    "Air India",
+    "Akasa Air",
+    "IndiGo",
+    "SpiceJet"
+   ],
+   "means": {
+    "Akasa Air": 0.76,
+    "Air India": 1.22,
+    "IndiGo": 2.82,
+    "SpiceJet": 7.58
+   },
+   "p_first": {
+    "Air India": 0.0,
+    "Akasa Air": 0.353,
+    "IndiGo": 0.647,
+    "SpiceJet": 0.0
+   },
+   "coverage": {
+    "Air India": 1.0,
+    "Akasa Air": 1.0,
+    "IndiGo": 1.0,
+    "SpiceJet": 1.0
+   },
+   "top2": [
+    "Akasa Air",
+    "Air India"
+   ],
+   "top2_diff": -0.46,
+   "top2_diff_ci95": [
+    -0.81,
+    -0.22
+   ]
+  },
+  "10apt_2026-01_2026-09": {
+   "months": 9,
+   "airlines": [
+    "Air India",
+    "Akasa Air",
+    "IndiGo"
+   ],
+   "means": {
+    "Akasa Air": 2.52,
+    "IndiGo": 2.63,
+    "Air India": 3.23
+   },
+   "p_first": {
+    "Air India": 0.0,
+    "Akasa Air": 0.482,
+    "IndiGo": 0.518
+   },
+   "coverage": {
+    "Air India": 1.0,
+    "Akasa Air": 1.0,
+    "IndiGo": 1.0
+   },
+   "top2": [
+    "Akasa Air",
+    "IndiGo"
+   ],
+   "top2_diff": -0.11,
+   "top2_diff_ci95": [
+    -1.87,
+    1.5
+   ]
+  },
+  "last12_2025-10_2026-09": {
+   "months": 12,
+   "airlines": [
+    "Air India",
+    "Akasa Air",
+    "IndiGo",
+    "SpiceJet"
+   ],
+   "means": {
+    "Akasa Air": 2.23,
+    "Air India": 2.82,
+    "IndiGo": 4.65,
+    "SpiceJet": 5.25
+   },
+   "p_first": {
+    "Air India": 0.0,
+    "Akasa Air": 0.856,
+    "IndiGo": 0.14,
+    "SpiceJet": 0.004
+   },
+   "coverage": {
+    "Air India": 1.0,
+    "Akasa Air": 1.0,
+    "IndiGo": 1.0,
+    "SpiceJet": 0.92
+   },
+   "top2": [
+    "Akasa Air",
+    "Air India"
+   ],
+   "top2_diff": -0.59,
+   "top2_diff_ci95": [
+    -1.11,
+    -0.21
+   ]
+  }
+ },
+ "agreement": {
+  "months": 102,
+  "median_rho_otp_cancel": -0.46,
+  "median_rho_otp_complaints": -0.67,
+  "median_rho_cancel_complaints": 0.49,
+  "share_months_same_best_all_three": 0.0,
+  "months_outright_best_all_three": 0,
+  "months_best_or_joint_best_all_three": 4,
+  "share_months_best_otp_eq_best_cancel": 0.23
+ },
+ "punctual_by_cancelling_within_airline": {
+  "n_airline_months": 484,
+  "spearman": -0.49,
+  "p": 2.3935305188346547e-30
+ },
+ "composite": {
+  "all_2018-01_2026-09": {
+   "airlines": [
+    "Air India",
+    "IndiGo",
+    "SpiceJet",
+    "Vistara"
+   ],
+   "months": 103,
+   "means": {
+    "Air India": {
+     "otp_pct": 74.46,
+     "cancel_pct": 2.23,
+     "complaints_per10k": 2.48,
+     "on_time_per100": 72.77
+    },
+    "IndiGo": {
+     "otp_pct": 84.13,
+     "cancel_pct": 1.01,
+     "complaints_per10k": 0.72,
+     "on_time_per100": 83.32
+    },
+    "SpiceJet": {
+     "otp_pct": 68.36,
+     "cancel_pct": 1.52,
+     "complaints_per10k": 2.63,
+     "on_time_per100": 67.54
+    },
+    "Vistara": {
+     "otp_pct": 83.22,
+     "cancel_pct": 1.3,
+     "complaints_per10k": 0.11,
+     "on_time_per100": 82.04
+    }
+   },
+   "n_weightings": 231,
+   "share_won_scaled": {
+    "Air India": 0.0,
+    "IndiGo": 0.589,
+    "SpiceJet": 0.0,
+    "Vistara": 0.411
+   },
+   "share_won_rank": {
+    "Air India": 0.0,
+    "IndiGo": 0.762,
+    "SpiceJet": 0.0,
+    "Vistara": 0.238
+   },
+   "equal_weight_scaled": {
+    "Air India": 0.148,
+    "IndiGo": 0.919,
+    "SpiceJet": 0.192,
+    "Vistara": 0.9
+   }
+  },
+  "pre_covid_2018-2019": {
+   "airlines": [
+    "Air India",
+    "Go First",
+    "IndiGo",
+    "SpiceJet",
+    "Vistara"
+   ],
+   "months": 24,
+   "means": {
+    "Air India": {
+     "otp_pct": 64.5,
+     "cancel_pct": 2.98,
+     "complaints_per10k": 1.72,
+     "on_time_per100": 62.63
+    },
+    "Go First": {
+     "otp_pct": 81.32,
+     "cancel_pct": 0.64,
+     "complaints_per10k": 0.44,
+     "on_time_per100": 80.84
+    },
+    "IndiGo": {
+     "otp_pct": 80.36,
+     "cancel_pct": 0.92,
+     "complaints_per10k": 0.41,
+     "on_time_per100": 79.65
+    },
+    "SpiceJet": {
+     "otp_pct": 76.31,
+     "cancel_pct": 0.67,
+     "complaints_per10k": 0.4,
+     "on_time_per100": 75.82
+    },
+    "Vistara": {
+     "otp_pct": 79.42,
+     "cancel_pct": 0.43,
+     "complaints_per10k": 0.15,
+     "on_time_per100": 79.09
+    }
+   },
+   "n_weightings": 231,
+   "share_won_scaled": {
+    "Air India": 0.0,
+    "Go First": 0.225,
+    "IndiGo": 0.0,
+    "SpiceJet": 0.0,
+    "Vistara": 0.775
+   },
+   "share_won_rank": {
+    "Air India": 0.0,
+    "Go First": 0.286,
+    "IndiGo": 0.0,
+    "SpiceJet": 0.0,
+    "Vistara": 0.714
+   },
+   "equal_weight_scaled": {
+    "Air India": 0.0,
+    "Go First": 0.909,
+    "IndiGo": 0.86,
+    "SpiceJet": 0.814,
+    "Vistara": 0.963
+   }
+  },
+  "post_covid_2022-01_2026-09": {
+   "airlines": [
+    "Air India",
+    "Akasa Air",
+    "IndiGo",
+    "SpiceJet"
+   ],
+   "months": 57,
+   "means": {
+    "Air India": {
+     "otp_pct": 75.98,
+     "cancel_pct": 0.7,
+     "complaints_per10k": 1.62,
+     "on_time_per100": 75.47
+    },
+    "Akasa Air": {
+     "otp_pct": 78.85,
+     "cancel_pct": 0.26,
+     "complaints_per10k": 0.94,
+     "on_time_per100": 78.66
+    },
+    "IndiGo": {
+     "otp_pct": 82.36,
+     "cancel_pct": 0.97,
+     "complaints_per10k": 1.08,
+     "on_time_per100": 81.63
+    },
+    "SpiceJet": {
+     "otp_pct": 57.87,
+     "cancel_pct": 2.08,
+     "complaints_per10k": 4.24,
+     "on_time_per100": 56.95
+    }
+   },
+   "n_weightings": 231,
+   "share_won_scaled": {
+    "Air India": 0.0,
+    "Akasa Air": 0.775,
+    "IndiGo": 0.225,
+    "SpiceJet": 0.0
+   },
+   "share_won_rank": {
+    "Air India": 0.0,
+    "Akasa Air": 0.823,
+    "IndiGo": 0.177,
+    "SpiceJet": 0.0
+   },
+   "equal_weight_scaled": {
+    "Air India": 0.763,
+    "Akasa Air": 0.952,
+    "IndiGo": 0.856,
+    "SpiceJet": 0.0
+   }
+  },
+  "4apt_era_2022-2024": {
+   "airlines": [
+    "Air India",
+    "AirAsia India",
+    "Alliance Air",
+    "IndiGo",
+    "SpiceJet",
+    "Vistara"
+   ],
+   "months": 36,
+   "means": {
+    "Air India": {
+     "otp_pct": 74.96,
+     "cancel_pct": 0.61,
+     "complaints_per10k": 1.35,
+     "on_time_per100": 74.54
+    },
+    "AirAsia India": {
+     "otp_pct": 79.95,
+     "cancel_pct": 0.34,
+     "complaints_per10k": 0.13,
+     "on_time_per100": 79.69
+    },
+    "Alliance Air": {
+     "otp_pct": 64.79,
+     "cancel_pct": 2.55,
+     "complaints_per10k": 8.03,
+     "on_time_per100": 63.19
+    },
+    "IndiGo": {
+     "otp_pct": 81.69,
+     "cancel_pct": 0.91,
+     "complaints_per10k": 0.11,
+     "on_time_per100": 80.99
+    },
+    "SpiceJet": {
+     "otp_pct": 62.47,
+     "cancel_pct": 1.15,
+     "complaints_per10k": 3.25,
+     "on_time_per100": 61.86
+    },
+    "Vistara": {
+     "otp_pct": 81.23,
+     "cancel_pct": 0.44,
+     "complaints_per10k": 0.03,
+     "on_time_per100": 80.88
+    }
+   },
+   "n_weightings": 231,
+   "share_won_scaled": {
+    "Air India": 0.0,
+    "AirAsia India": 0.333,
+    "Alliance Air": 0.0,
+    "IndiGo": 0.104,
+    "SpiceJet": 0.0,
+    "Vistara": 0.563
+   },
+   "share_won_rank": {
+    "Air India": 0.0,
+    "AirAsia India": 0.19,
+    "Alliance Air": 0.0,
+    "IndiGo": 0.19,
+    "SpiceJet": 0.0,
+    "Vistara": 0.619
+   },
+   "equal_weight_scaled": {
+    "Air India": 0.788,
+    "AirAsia India": 0.966,
+    "Alliance Air": 0.04,
+    "IndiGo": 0.91,
+    "SpiceJet": 0.411,
+    "Vistara": 0.977
+   }
+  },
+  "6apt_2025": {
+   "airlines": [
+    "Air India",
+    "Akasa Air",
+    "IndiGo",
+    "SpiceJet"
+   ],
+   "months": 12,
+   "means": {
+    "Air India": {
+     "otp_pct": 76.42,
+     "cancel_pct": 0.97,
+     "complaints_per10k": 1.22,
+     "on_time_per100": 75.7
+    },
+    "Akasa Air": {
+     "otp_pct": 78.36,
+     "cancel_pct": 0.27,
+     "complaints_per10k": 0.76,
+     "on_time_per100": 78.17
+    },
+    "IndiGo": {
+     "otp_pct": 81.61,
+     "cancel_pct": 1.54,
+     "complaints_per10k": 2.82,
+     "on_time_per100": 80.51
+    },
+    "SpiceJet": {
+     "otp_pct": 58.11,
+     "cancel_pct": 2.42,
+     "complaints_per10k": 7.58,
+     "on_time_per100": 56.69
+    }
+   },
+   "n_weightings": 231,
+   "share_won_scaled": {
+    "Air India": 0.0,
+    "Akasa Air": 0.926,
+    "IndiGo": 0.074,
+    "SpiceJet": 0.0
+   },
+   "share_won_rank": {
+    "Air India": 0.0,
+    "Akasa Air": 0.879,
+    "IndiGo": 0.121,
+    "SpiceJet": 0.0
+   },
+   "equal_weight_scaled": {
+    "Air India": 0.795,
+    "Akasa Air": 0.954,
+    "IndiGo": 0.701,
+    "SpiceJet": 0.0
+   }
+  },
+  "10apt_2026-01_2026-09": {
+   "airlines": [
+    "Air India",
+    "Akasa Air",
+    "IndiGo",
+    "SpiceJet"
+   ],
+   "months": 9,
+   "means": {
+    "Air India": {
+     "otp_pct": 79.5,
+     "cancel_pct": 0.74,
+     "complaints_per10k": 3.23,
+     "on_time_per100": 78.91
+    },
+    "Akasa Air": {
+     "otp_pct": 80.79,
+     "cancel_pct": 0.13,
+     "complaints_per10k": 2.52,
+     "on_time_per100": 80.69
+    },
+    "IndiGo": {
+     "otp_pct": 86.02,
+     "cancel_pct": 0.41,
+     "complaints_per10k": 2.63,
+     "on_time_per100": 85.69
+    },
+    "SpiceJet": {
+     "otp_pct": 36.8,
+     "cancel_pct": 5.78,
+     "complaints_per10k": 3.64,
+     "on_time_per100": 35.23
+    }
+   },
+   "n_weightings": 231,
+   "share_won_scaled": {
+    "Air India": 0.0,
+    "Akasa Air": 0.636,
+    "IndiGo": 0.364,
+    "SpiceJet": 0.0
+   },
+   "share_won_rank": {
+    "Air India": 0.0,
+    "Akasa Air": 0.762,
+    "IndiGo": 0.238,
+    "SpiceJet": 0.0
+   },
+   "equal_weight_scaled": {
+    "Air India": 0.707,
+    "Akasa Air": 0.965,
+    "IndiGo": 0.95,
+    "SpiceJet": 0.0
+   }
+  },
+  "last12_2025-10_2026-09": {
+   "airlines": [
+    "Air India",
+    "Akasa Air",
+    "IndiGo",
+    "SpiceJet"
+   ],
+   "months": 12,
+   "means": {
+    "Air India": {
+     "otp_pct": 77.52,
+     "cancel_pct": 0.94,
+     "complaints_per10k": 2.82,
+     "on_time_per100": 76.8
+    },
+    "Akasa Air": {
+     "otp_pct": 77.84,
+     "cancel_pct": 0.23,
+     "complaints_per10k": 2.23,
+     "on_time_per100": 77.69
+    },
+    "IndiGo": {
+     "otp_pct": 82.5,
+     "cancel_pct": 1.28,
+     "complaints_per10k": 4.65,
+     "on_time_per100": 81.62
+    },
+    "SpiceJet": {
+     "otp_pct": 40.37,
+     "cancel_pct": 4.67,
+     "complaints_per10k": 5.25,
+     "on_time_per100": 39.0
+    }
+   },
+   "n_weightings": 231,
+   "share_won_scaled": {
+    "Air India": 0.0,
+    "Akasa Air": 0.944,
+    "IndiGo": 0.056,
+    "SpiceJet": 0.0
+   },
+   "share_won_rank": {
+    "Air India": 0.0,
+    "Akasa Air": 0.879,
+    "IndiGo": 0.121,
+    "SpiceJet": 0.0
+   },
+   "equal_weight_scaled": {
+    "Air India": 0.841,
+    "Akasa Air": 0.963,
+    "IndiGo": 0.654,
+    "SpiceJet": 0.0
+   }
+  }
+ },
+ "composite_top3_only": {
+  "post_covid_2022-01_2026-09": {
+   "airlines": [
+    "Air India",
+    "Akasa Air",
+    "IndiGo"
+   ],
+   "months": 57,
+   "means": {
+    "Air India": {
+     "otp_pct": 75.98,
+     "cancel_pct": 0.7,
+     "complaints_per10k": 1.62,
+     "on_time_per100": 75.47
+    },
+    "Akasa Air": {
+     "otp_pct": 78.85,
+     "cancel_pct": 0.26,
+     "complaints_per10k": 0.94,
+     "on_time_per100": 78.66
+    },
+    "IndiGo": {
+     "otp_pct": 82.36,
+     "cancel_pct": 0.97,
+     "complaints_per10k": 1.08,
+     "on_time_per100": 81.63
+    }
+   },
+   "n_weightings": 231,
+   "share_won_scaled": {
+    "Air India": 0.0,
+    "Akasa Air": 0.723,
+    "IndiGo": 0.277
+   },
+   "share_won_rank": {
+    "Air India": 0.0,
+    "Akasa Air": 0.823,
+    "IndiGo": 0.177
+   },
+   "equal_weight_scaled": {
+    "Air India": 0.123,
+    "Akasa Air": 0.816,
+    "IndiGo": 0.596
+   }
+  },
+  "6apt_2025": {
+   "airlines": [
+    "Air India",
+    "Akasa Air",
+    "IndiGo"
+   ],
+   "months": 12,
+   "means": {
+    "Air India": {
+     "otp_pct": 76.42,
+     "cancel_pct": 0.97,
+     "complaints_per10k": 1.22,
+     "on_time_per100": 75.7
+    },
+    "Akasa Air": {
+     "otp_pct": 78.36,
+     "cancel_pct": 0.27,
+     "complaints_per10k": 0.76,
+     "on_time_per100": 78.17
+    },
+    "IndiGo": {
+     "otp_pct": 81.61,
+     "cancel_pct": 1.54,
+     "complaints_per10k": 2.82,
+     "on_time_per100": 80.51
+    }
+   },
+   "n_weightings": 231,
+   "share_won_scaled": {
+    "Air India": 0.0,
+    "Akasa Air": 0.844,
+    "IndiGo": 0.156
+   },
+   "share_won_rank": {
+    "Air India": 0.0,
+    "Akasa Air": 0.879,
+    "IndiGo": 0.121
+   },
+   "equal_weight_scaled": {
+    "Air India": 0.409,
+    "Akasa Air": 0.791,
+    "IndiGo": 0.333
+   }
+  },
+  "10apt_2026-01_2026-09": {
+   "airlines": [
+    "Air India",
+    "Akasa Air",
+    "IndiGo"
+   ],
+   "months": 9,
+   "means": {
+    "Air India": {
+     "otp_pct": 79.5,
+     "cancel_pct": 0.74,
+     "complaints_per10k": 3.23,
+     "on_time_per100": 78.91
+    },
+    "Akasa Air": {
+     "otp_pct": 80.79,
+     "cancel_pct": 0.13,
+     "complaints_per10k": 2.52,
+     "on_time_per100": 80.69
+    },
+    "IndiGo": {
+     "otp_pct": 86.02,
+     "cancel_pct": 0.41,
+     "complaints_per10k": 2.63,
+     "on_time_per100": 85.69
+    }
+   },
+   "n_weightings": 231,
+   "share_won_scaled": {
+    "Air India": 0.0,
+    "Akasa Air": 0.472,
+    "IndiGo": 0.528
+   },
+   "share_won_rank": {
+    "Air India": 0.0,
+    "Akasa Air": 0.762,
+    "IndiGo": 0.238
+   },
+   "equal_weight_scaled": {
+    "Air India": 0.0,
+    "Akasa Air": 0.733,
+    "IndiGo": 0.796
+   }
+  },
+  "last12_2025-10_2026-09": {
+   "airlines": [
+    "Air India",
+    "Akasa Air",
+    "IndiGo"
+   ],
+   "months": 12,
+   "means": {
+    "Air India": {
+     "otp_pct": 77.52,
+     "cancel_pct": 0.94,
+     "complaints_per10k": 2.82,
+     "on_time_per100": 76.8
+    },
+    "Akasa Air": {
+     "otp_pct": 77.84,
+     "cancel_pct": 0.23,
+     "complaints_per10k": 2.23,
+     "on_time_per100": 77.69
+    },
+    "IndiGo": {
+     "otp_pct": 82.5,
+     "cancel_pct": 1.28,
+     "complaints_per10k": 4.65,
+     "on_time_per100": 81.62
+    }
+   },
+   "n_weightings": 231,
+   "share_won_scaled": {
+    "Air India": 0.0,
+    "Akasa Air": 0.762,
+    "IndiGo": 0.238
+   },
+   "share_won_rank": {
+    "Air India": 0.0,
+    "Akasa Air": 0.879,
+    "IndiGo": 0.121
+   },
+   "equal_weight_scaled": {
+    "Air India": 0.358,
+    "Akasa Air": 0.688,
+    "IndiGo": 0.333
+   }
+  }
+ },
+ "composite_last12_excl_dec2025": {
+  "airlines": [
+   "Air India",
+   "Akasa Air",
+   "IndiGo"
+  ],
+  "months": 11,
+  "means": {
+   "Air India": {
+    "otp_pct": 78.54,
+    "cancel_pct": 0.73,
+    "complaints_per10k": 2.84,
+    "on_time_per100": 77.96
+   },
+   "Akasa Air": {
+    "otp_pct": 79.86,
+    "cancel_pct": 0.16,
+    "complaints_per10k": 2.23,
+    "on_time_per100": 79.74
+   },
+   "IndiGo": {
+    "otp_pct": 84.3,
+    "cancel_pct": 0.52,
+    "complaints_per10k": 2.19,
+    "on_time_per100": 83.89
+   }
+  },
+  "n_weightings": 231,
+  "share_won_scaled": {
+   "Air India": 0.0,
+   "Akasa Air": 0.42,
+   "IndiGo": 0.58
+  },
+  "share_won_rank": {
+   "Air India": 0.0,
+   "Akasa Air": 0.286,
+   "IndiGo": 0.714
+  },
+  "equal_weight_scaled": {
+   "Air India": 0.0,
+   "Akasa Air": 0.725,
+   "IndiGo": 0.793
+  }
+ },
+ "bootstrap_otp_last12_excl_dec2025": {
+  "months": 11,
+  "airlines": [
+   "IndiGo",
+   "Air India",
+   "Akasa Air"
+  ],
+  "means": {
+   "IndiGo": 84.3,
+   "Akasa Air": 79.86,
+   "Air India": 78.54
+  },
+  "p_first": {
+   "IndiGo": 1.0,
+   "Air India": 0.0,
+   "Akasa Air": 0.0
+  },
+  "coverage": {
+   "IndiGo": 1.0,
+   "Air India": 1.0,
+   "Akasa Air": 1.0
+  },
+  "top2": [
+   "IndiGo",
+   "Akasa Air"
+  ],
+  "top2_diff": 4.44,
+  "top2_diff_ci95": [
+   2.64,
+   7.64
+  ]
+ },
+ "bootstrap_complaints_last12_excl_dec2025": {
+  "months": 11,
+  "airlines": [
+   "IndiGo",
+   "Air India",
+   "Akasa Air"
+  ],
+  "means": {
+   "IndiGo": 2.19,
+   "Akasa Air": 2.23,
+   "Air India": 2.84
+  },
+  "p_first": {
+   "IndiGo": 0.406,
+   "Air India": 0.001,
+   "Akasa Air": 0.594
+  },
+  "coverage": {
+   "IndiGo": 1.0,
+   "Air India": 1.0,
+   "Akasa Air": 1.0
+  },
+  "top2": [
+   "IndiGo",
+   "Akasa Air"
+  ],
+  "top2_diff": -0.04,
+  "top2_diff_ci95": [
+   -1.31,
+   1.82
+  ]
+ },
+ "composite_monthly": {
+  "months": 103,
+  "same_as_otp_leader": 0.53,
+  "composite_leader_counts_post2022": {
+   "Vistara": 17,
+   "IndiGo": 17,
+   "Akasa Air": 16,
+   "AirAsia India": 5,
+   "Go First": 2
+  },
+  "otp_leader_counts_post2022": {
+   "IndiGo": 32,
+   "Akasa Air": 12,
+   "AirAsia India": 8,
+   "Vistara": 2,
+   "Air India": 2,
+   "Go First": 1
+  }
+ },
+ "mix_test_4apt_by_era": {
+  "2018-2019": 1,
+  "2018-2019_months": 24,
+  "2022-2024": 6,
+  "2022-2024_months": 36,
+  "2025-2026": 9,
+  "2025-2026_months": 21
+ },
+ "size": {
+  "indigo_share_first": 39.7,
+  "indigo_share_first_date": "2018-01-01",
+  "indigo_share_max": 67.4,
+  "indigo_share_max_date": "2026-07-01",
+  "indigo_share_last": 65.4,
+  "hhi_first": 2245,
+  "hhi_last": 5028,
+  "indigo_share_2019_mean": 47.1,
+  "indigo_share_2026_mean": 64.9
+ },
+ "size_cross": {
+  "post_covid_2022-01_2026-09": {
+   "otp_pct": 0.62,
+   "cancel_pct": -0.12,
+   "complaints_per10k": -0.36,
+   "n_airlines": 8
+  },
+  "pre_covid_2018-2019": {
+   "otp_pct": -0.29,
+   "cancel_pct": 0.75,
+   "complaints_per10k": 0.46,
+   "n_airlines": 7
+  }
+ },
+ "size_within_indigo": {
+  "n": 83,
+  "rho_share_otp": 0.11,
+  "rho_share_cancel": -0.04
+ },
+ "seasonality": {
+  "1": {
+   "otp_w": 71.9,
+   "cancel_overall_pct": 1.84,
+   "delay_wx_share": 7.25,
+   "cancel_weather_share": 61.7,
+   "delay_reactionary_share": 63.5
+  },
+  "2": {
+   "otp_w": 77.4,
+   "cancel_overall_pct": 0.77,
+   "delay_wx_share": 2.12,
+   "cancel_weather_share": 30.49,
+   "delay_reactionary_share": 65.62
+  },
+  "3": {
+   "otp_w": 84.6,
+   "cancel_overall_pct": 0.65,
+   "delay_wx_share": 1.29,
+   "cancel_weather_share": 15.69,
+   "delay_reactionary_share": 66.71
+  },
+  "4": {
+   "otp_w": 83.22,
+   "cancel_overall_pct": 0.59,
+   "delay_wx_share": 1.71,
+   "cancel_weather_share": 16.87,
+   "delay_reactionary_share": 68.0
+  },
+  "5": {
+   "otp_w": 80.4,
+   "cancel_overall_pct": 1.09,
+   "delay_wx_share": 2.57,
+   "cancel_weather_share": 33.13,
+   "delay_reactionary_share": 69.71
+  },
+  "6": {
+   "otp_w": 81.31,
+   "cancel_overall_pct": 0.82,
+   "delay_wx_share": 3.0,
+   "cancel_weather_share": 24.13,
+   "delay_reactionary_share": 67.43
+  },
+  "7": {
+   "otp_w": 79.38,
+   "cancel_overall_pct": 1.18,
+   "delay_wx_share": 5.14,
+   "cancel_weather_share": 28.11,
+   "delay_reactionary_share": 64.71
+  },
+  "8": {
+   "otp_w": 82.25,
+   "cancel_overall_pct": 1.19,
+   "delay_wx_share": 3.29,
+   "cancel_weather_share": 26.37,
+   "delay_reactionary_share": 64.29
+  },
+  "9": {
+   "otp_w": 81.24,
+   "cancel_overall_pct": 1.01,
+   "delay_wx_share": 3.0,
+   "cancel_weather_share": 20.11,
+   "delay_reactionary_share": 65.57
+  },
+  "10": {
+   "otp_w": 80.04,
+   "cancel_overall_pct": 0.87,
+   "delay_wx_share": 1.83,
+   "cancel_weather_share": 22.02,
+   "delay_reactionary_share": 64.83
+  },
+  "11": {
+   "otp_w": 72.2,
+   "cancel_overall_pct": 1.05,
+   "delay_wx_share": 1.67,
+   "cancel_weather_share": 26.32,
+   "delay_reactionary_share": 67.0
+  },
+  "12": {
+   "otp_w": 69.19,
+   "cancel_overall_pct": 2.18,
+   "delay_wx_share": 4.17,
+   "cancel_weather_share": 51.75,
+   "delay_reactionary_share": 65.17
+  }
+ },
+ "fog": {
+  "otp_w_decjan": 70.7,
+  "otp_w_rest": 80.3,
+  "delay_wx_share_decjan": 5.9,
+  "delay_wx_share_rest": 2.6,
+  "delay_reactionary_decjan": 64.2,
+  "delay_reactionary_rest": 66.4,
+  "cancel_weather_decjan": 57.4,
+  "cancel_weather_rest": 24.4
+ },
+ "worst_otp_months": {
+  "2024-01-01": 58.6,
+  "2024-07-01": 61.0,
+  "2019-11-01": 61.9,
+  "2025-12-01": 62.7,
+  "2023-12-01": 64.4,
+  "2019-12-01": 65.0,
+  "2019-01-01": 65.2,
+  "2024-08-01": 65.7,
+  "2024-09-01": 68.0,
+  "2025-11-01": 68.4
+ },
+ "worst_cancel_months": {
+  "2025-12-01": 6.92,
+  "2024-01-01": 3.67,
+  "2025-05-01": 2.51,
+  "2019-12-01": 2.34,
+  "2018-08-01": 2.27,
+  "2024-07-01": 1.9,
+  "2019-02-01": 1.89,
+  "2019-11-01": 1.87
+ },
+ "dec2025": {
+  "IndiGo": {
+   "otp_pct": 62.7,
+   "cancel_pct": 9.65,
+   "complaints_per10k": 31.7,
+   "share_pct": 59.6,
+   "pax_lakh": 85.23
+  },
+  "Air India": {
+   "otp_pct": 66.3,
+   "cancel_pct": 3.28,
+   "complaints_per10k": 2.7,
+   "share_pct": 29.6,
+   "pax_lakh": 42.29
+  },
+  "Akasa Air": {
+   "otp_pct": 55.6,
+   "cancel_pct": 0.93,
+   "complaints_per10k": 2.3,
+   "share_pct": 5.2,
+   "pax_lakh": 7.43
+  },
+  "SpiceJet": {
+   "otp_pct": 46.9,
+   "cancel_pct": 1.89,
+   "complaints_per10k": 8.9,
+   "share_pct": 4.3,
+   "pax_lakh": 6.14
+  }
+ },
+ "nov2025_indigo": {
+  "otp_pct": 69.0,
+  "cancel_pct": 1.57,
+  "complaints_per10k": 0.2,
+  "share_pct": 63.6,
+  "pax_lakh": 96.93
+ },
+ "dec2025_overall": {
+  "cancel_overall_pct": 6.92,
+  "complaints_total": 29212.0,
+  "complaints_per10k_overall": 20.41
+ },
+ "dec2025_cancel_reasons": {
+  "Commercial": 0.1,
+  "Misc": 2.2,
+  "Operational": 63.9,
+  "Technical": 2.3,
+  "Weather": 31.6
+ },
+ "dec2025_complaint_reasons": {
+  "Baggage": 28.1,
+  "Catering": 0.1,
+  "Customer Service": 2.1,
+  "Disability": 0.0,
+  "Fare": 0.2,
+  "Flight Problem": 60.2,
+  "Others": 1.6,
+  "Refund": 7.5,
+  "Staff Behaviour": 0.2
+ },
+ "indigo_cancel": {
+  "median_2022_2025nov": 0.62,
+  "max_before_dec2025": 5.0,
+  "max_before_date": "2024-01-01",
+  "dec2025": 9.65
+ },
+ "gofirst": {
+  "2023-01-01": {
+   "share": 8.4,
+   "otp": 50.7,
+   "cancel": 0.05
+  },
+  "2023-02-01": {
+   "share": 8.0,
+   "otp": 54.2,
+   "cancel": 0.04
+  },
+  "2023-03-01": {
+   "share": 6.9,
+   "otp": 49.2,
+   "cancel": 0.04
+  },
+  "2023-04-01": {
+   "share": 6.4,
+   "otp": 41.7,
+   "cancel": 0.08
+  },
+  "2023-05-01": {
+   "share": 0.4,
+   "otp": 45.5,
+   "cancel": 1.39
+  },
+  "2023-11-01": {
+   "share": 0.0,
+   "otp": null,
+   "cancel": null
+  }
+ },
+ "spicejet_2025_2026": {
+  "2025-01-01": {
+   "otp_pct": 54.8,
+   "cancel_pct": 2.85,
+   "share_pct": 3.2,
+   "complaints_per10k": 4.4
+  },
+  "2025-02-01": {
+   "otp_pct": 59.0,
+   "cancel_pct": 1.42,
+   "share_pct": 3.2,
+   "complaints_per10k": 2.8
+  },
+  "2025-03-01": {
+   "otp_pct": 72.1,
+   "cancel_pct": 1.09,
+   "share_pct": 3.3,
+   "complaints_per10k": 2.8
+  },
+  "2025-04-01": {
+   "otp_pct": 60.0,
+   "cancel_pct": 1.53,
+   "share_pct": 2.6,
+   "complaints_per10k": 5.2
+  },
+  "2025-05-01": {
+   "otp_pct": 50.1,
+   "cancel_pct": 2.62,
+   "share_pct": 2.4,
+   "complaints_per10k": 5.8
+  },
+  "2025-06-01": {
+   "otp_pct": 55.6,
+   "cancel_pct": 3.27,
+   "share_pct": 1.9,
+   "complaints_per10k": 10.8
+  },
+  "2025-07-01": {
+   "otp_pct": 62.7,
+   "cancel_pct": 4.21,
+   "share_pct": 2.0,
+   "complaints_per10k": 7.8
+  },
+  "2025-08-01": {
+   "otp_pct": 68.2,
+   "cancel_pct": 4.31,
+   "share_pct": 2.0,
+   "complaints_per10k": 12.3
+  },
+  "2025-09-01": {
+   "otp_pct": 65.1,
+   "cancel_pct": 2.58,
+   "share_pct": 1.9,
+   "complaints_per10k": 10.4
+  },
+  "2025-10-01": {
+   "otp_pct": 54.4,
+   "cancel_pct": 1.97,
+   "share_pct": 2.6,
+   "complaints_per10k": 13.8
+  },
+  "2025-11-01": {
+   "otp_pct": 48.4,
+   "cancel_pct": 1.27,
+   "share_pct": 3.7,
+   "complaints_per10k": 6.0
+  },
+  "2025-12-01": {
+   "otp_pct": 46.9,
+   "cancel_pct": 1.89,
+   "share_pct": 4.3,
+   "complaints_per10k": 8.9
+  },
+  "2026-01-01": {
+   "otp_pct": 56.8,
+   "cancel_pct": 1.44,
+   "delay2h_pct": 7.2,
+   "share_pct": 3.9,
+   "complaints_per10k": 8.1
+  },
+  "2026-02-01": {
+   "otp_pct": 50.9,
+   "cancel_pct": 0.43,
+   "delay2h_pct": 6.64,
+   "share_pct": 3.9,
+   "complaints_per10k": 1.7
+  },
+  "2026-03-01": {
+   "otp_pct": 43.0,
+   "cancel_pct": 1.92,
+   "delay2h_pct": 8.67,
+   "share_pct": 3.8,
+   "complaints_per10k": 2.5
+  },
+  "2026-04-01": {
+   "otp_pct": 31.2,
+   "cancel_pct": 2.67,
+   "delay2h_pct": 12.83,
+   "share_pct": 3.4,
+   "complaints_per10k": 2.0
+  },
+  "2026-05-01": {
+   "otp_pct": 26.5,
+   "cancel_pct": 4.04,
+   "delay2h_pct": 15.75,
+   "share_pct": 2.5,
+   "complaints_per10k": 2.5
+  },
+  "2026-06-01": {
+   "otp_pct": 33.5,
+   "cancel_pct": 6.23,
+   "delay2h_pct": 17.31,
+   "share_pct": 1.9,
+   "complaints_per10k": 3.4
+  },
+  "2026-07-01": {
+   "otp_pct": 34.6,
+   "cancel_pct": 8.58,
+   "delay2h_pct": 28.37,
+   "share_pct": 1.6,
+   "complaints_per10k": 3.7
+  },
+  "2026-08-01": {
+   "otp_pct": 17.9,
+   "cancel_pct": 20.92,
+   "delay2h_pct": 48.05,
+   "share_pct": 1.2,
+   "complaints_per10k": 5.2
+  },
+  "2026-09-01": {
+   "otp_pct": 16.6,
+   "cancel_pct": 20.29,
+   "delay2h_pct": 39.36,
+   "share_pct": 0.6,
+   "complaints_per10k": 14.3
+  }
+ },
+ "complaint_reasons_by_year_pct": {
+  "2018": {
+   "Baggage": 25.6,
+   "Catering": 0.2,
+   "Customer Service": 27.3,
+   "Disability": 0.3,
+   "Fare": 1.5,
+   "Flight Problem": 29.0,
+   "Others": 6.3,
+   "Refund": 4.4,
+   "Staff Behaviour": 5.4
+  },
+  "2019": {
+   "Baggage": 20.0,
+   "Catering": 0.1,
+   "Customer Service": 20.2,
+   "Disability": 0.8,
+   "Fare": 0.1,
+   "Flight Problem": 49.9,
+   "Others": 1.8,
+   "Refund": 4.1,
+   "Staff Behaviour": 3.0
+  },
+  "2020": {
+   "Baggage": 10.3,
+   "Catering": 0.0,
+   "Customer Service": 12.9,
+   "Disability": 0.2,
+   "Fare": 0.0,
+   "Flight Problem": 22.4,
+   "Others": 1.9,
+   "Refund": 49.5,
+   "Staff Behaviour": 2.7
+  },
+  "2021": {
+   "Baggage": 8.7,
+   "Catering": 0.3,
+   "Customer Service": 16.9,
+   "Disability": 0.1,
+   "Fare": 2.5,
+   "Flight Problem": 19.8,
+   "Others": 3.5,
+   "Refund": 42.3,
+   "Staff Behaviour": 5.8
+  },
+  "2022": {
+   "Baggage": 12.4,
+   "Catering": 0.2,
+   "Customer Service": 10.2,
+   "Disability": 0.2,
+   "Fare": 3.2,
+   "Flight Problem": 33.3,
+   "Others": 9.3,
+   "Refund": 26.9,
+   "Staff Behaviour": 4.3
+  },
+  "2023": {
+   "Baggage": 16.6,
+   "Catering": 1.0,
+   "Customer Service": 6.8,
+   "Disability": 0.5,
+   "Fare": 1.2,
+   "Flight Problem": 41.6,
+   "Others": 9.9,
+   "Refund": 18.7,
+   "Staff Behaviour": 3.6
+  },
+  "2024": {
+   "Baggage": 19.8,
+   "Catering": 1.5,
+   "Customer Service": 8.6,
+   "Disability": 0.3,
+   "Fare": 0.8,
+   "Flight Problem": 39.0,
+   "Others": 10.9,
+   "Refund": 13.9,
+   "Staff Behaviour": 5.1
+  },
+  "2025": {
+   "Baggage": 25.1,
+   "Catering": 0.3,
+   "Customer Service": 3.7,
+   "Disability": 0.1,
+   "Fare": 0.5,
+   "Flight Problem": 54.9,
+   "Others": 3.8,
+   "Refund": 10.6,
+   "Staff Behaviour": 1.0
+  },
+  "2026": {
+   "Baggage": 43.1,
+   "Catering": 0.8,
+   "Customer Service": 5.0,
+   "Disability": 0.3,
+   "Fare": 0.4,
+   "Flight Problem": 22.0,
+   "Others": 11.4,
+   "Refund": 16.0,
+   "Staff Behaviour": 1.0
+  }
+ },
+ "complaints_by_year": {
+  "2018": {
+   "complaints": 8409.0,
+   "pax_lakh": 1389.73,
+   "per10k": 0.61
+  },
+  "2019": {
+   "complaints": 9162.0,
+   "pax_lakh": 1441.68,
+   "per10k": 0.64
+  },
+  "2020": {
+   "complaints": 4961.0,
+   "pax_lakh": 630.12,
+   "per10k": 0.79
+  },
+  "2021": {
+   "complaints": 4983.0,
+   "pax_lakh": 838.19,
+   "per10k": 0.59
+  },
+  "2022": {
+   "complaints": 5901.0,
+   "pax_lakh": 1232.44,
+   "per10k": 0.48
+  },
+  "2023": {
+   "complaints": 5055.0,
+   "pax_lakh": 1520.36,
+   "per10k": 0.33
+  },
+  "2024": {
+   "complaints": 9437.0,
+   "pax_lakh": 1609.14,
+   "per10k": 0.59
+  },
+  "2025": {
+   "complaints": 41518.0,
+   "pax_lakh": 1669.49,
+   "per10k": 2.49
+  },
+  "2026": {
+   "complaints": 38237.0,
+   "pax_lakh": 1223.55,
+   "per10k": 3.13
+  }
+ },
+ "complaints_median_monthly_rate_by_year_excl_dec2025": {
+  "2018": 0.6,
+  "2019": 0.72,
+  "2020": 0.83,
+  "2021": 0.59,
+  "2022": 0.49,
+  "2023": 0.3,
+  "2024": 0.57,
+  "2025": 0.78,
+  "2026": 2.09
+ },
+ "complaints_airline_year_median": {
+  "Air India": {
+   "2019": 1.7,
+   "2023": 0.65,
+   "2024": 1.05,
+   "2025": 1.15,
+   "2026": 3.1
+  },
+  "AirAsia India": {
+   "2019": 0.2,
+   "2023": 0.1,
+   "2024": 0.1,
+   "2025": null,
+   "2026": null
+  },
+  "Akasa Air": {
+   "2019": null,
+   "2023": 0.4,
+   "2024": 0.4,
+   "2025": 0.6,
+   "2026": 2.6
+  },
+  "Alliance Air": {
+   "2019": null,
+   "2023": 3.1,
+   "2024": 4.55,
+   "2025": null,
+   "2026": null
+  },
+  "Go First": {
+   "2019": 0.5,
+   "2023": 0.0,
+   "2024": null,
+   "2025": null,
+   "2026": null
+  },
+  "IndiGo": {
+   "2019": 0.5,
+   "2023": 0.1,
+   "2024": 0.2,
+   "2025": 0.2,
+   "2026": 1.0
+  },
+  "Jet Airways": {
+   "2019": 3.1,
+   "2023": null,
+   "2024": null,
+   "2025": null,
+   "2026": null
+  },
+  "SpiceJet": {
+   "2019": 0.65,
+   "2023": 1.45,
+   "2024": 5.1,
+   "2025": 6.9,
+   "2026": 2.95
+  },
+  "Vistara": {
+   "2019": 0.1,
+   "2023": 0.0,
+   "2024": 0.0,
+   "2025": null,
+   "2026": null
+  }
+ },
+ "airport_all_2026_mean": {
+  "BOM": 73.9,
+  "GAU": 75.9,
+  "DEL": 78.2,
+  "LKO": 81.1,
+  "COK": 82.2,
+  "AMD": 82.7,
+  "CCU": 86.0,
+  "BLR": 87.7,
+  "HYD": 87.8,
+  "MAA": 93.1
+ },
+ "delay2h_2026_mean": {
+  "Air India": 1.35,
+  "Akasa Air": 1.48,
+  "Alliance Air": 2.39,
+  "Fly91": 4.37,
+  "IndiGo": 0.81,
+  "IndiaOne Air": 0.33,
+  "SpiceJet": 20.46,
+  "Star Air": 1.51
+ },
+ "last12_means": {
+  "Air India": {
+   "otp_pct": 77.52,
+   "cancel_pct": 0.94,
+   "complaints_per10k": 2.82,
+   "share_pct": 26.12,
+   "flights_on_time_per100_scheduled": 76.8
+  },
+  "Akasa Air": {
+   "otp_pct": 77.84,
+   "cancel_pct": 0.23,
+   "complaints_per10k": 2.23,
+   "share_pct": 5.4,
+   "flights_on_time_per100_scheduled": 77.69
+  },
+  "IndiGo": {
+   "otp_pct": 82.5,
+   "cancel_pct": 1.28,
+   "complaints_per10k": 4.65,
+   "share_pct": 64.4,
+   "flights_on_time_per100_scheduled": 81.62
+  },
+  "SpiceJet": {
+   "otp_pct": 40.37,
+   "cancel_pct": 4.67,
+   "complaints_per10k": 5.25,
+   "share_pct": 2.98,
+   "flights_on_time_per100_scheduled": 39.0
+  }
+ },
+ "sep2026": {
+  "Air India": {
+   "otp_pct": 81.7,
+   "cancel_pct": 1.76,
+   "complaints_per10k": 3.1,
+   "delay2h_pct": 1.24,
+   "share_pct": 26.8
+  },
+  "Akasa Air": {
+   "otp_pct": 90.8,
+   "cancel_pct": 0.05,
+   "complaints_per10k": 2.6,
+   "delay2h_pct": 0.35,
+   "share_pct": 5.6
+  },
+  "Alliance Air": {
+   "otp_pct": 75.0,
+   "cancel_pct": 4.55,
+   "complaints_per10k": 75.1,
+   "delay2h_pct": 5.96,
+   "share_pct": 0.4
+  },
+  "Fly91": {
+   "otp_pct": null,
+   "cancel_pct": 2.5,
+   "complaints_per10k": 2.9,
+   "delay2h_pct": 4.07,
+   "share_pct": 0.5
+  },
+  "IndiGo": {
+   "otp_pct": 91.1,
+   "cancel_pct": 0.41,
+   "complaints_per10k": 1.0,
+   "delay2h_pct": 0.5,
+   "share_pct": 65.4
+  },
+  "IndiaOne Air": {
+   "otp_pct": null,
+   "cancel_pct": 15.56,
+   "complaints_per10k": 0.0,
+   "delay2h_pct": 0.0,
+   "share_pct": 0.0
+  },
+  "SpiceJet": {
+   "otp_pct": 16.6,
+   "cancel_pct": 20.29,
+   "complaints_per10k": 14.3,
+   "delay2h_pct": 39.36,
+   "share_pct": 0.6
+  },
+  "Star Air": {
+   "otp_pct": null,
+   "cancel_pct": 0.95,
+   "complaints_per10k": 2.7,
+   "delay2h_pct": 1.78,
+   "share_pct": 0.7
+  }
+ }
+}

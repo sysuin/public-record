@@ -1,0 +1,28 @@
+airline,airport_set,weekly_deps,deps_at_otp_airports,share_pct
+Air India,4,6080,3402,56.0
+Akasa Air,4,1395,686,49.2
+Alliance Air,4,406,106,26.1
+Fly91,4,380,88,23.2
+IndiGo,4,14057,5281,37.6
+IndiaOne Air,4,84,0,0.0
+SpiceJet,4,269,104,38.7
+Star Air,4,363,71,19.6
+ALL,4,23034,9738,42.3
+Air India,6,6080,3755,61.8
+Akasa Air,6,1395,804,57.6
+Alliance Air,6,406,131,32.3
+Fly91,6,380,88,23.2
+IndiGo,6,14057,6943,49.4
+IndiaOne Air,6,84,0,0.0
+SpiceJet,6,269,132,49.1
+Star Air,6,363,77,21.2
+ALL,6,23034,11930,51.8
+Air India,10,6080,4196,69.0
+Akasa Air,10,1395,952,68.2
+Alliance Air,10,406,183,45.1
+Fly91,10,380,100,26.3
+IndiGo,10,14057,8151,58.0
+IndiaOne Air,10,84,0,0.0
+SpiceJet,10,269,139,51.7
+Star Air,10,363,106,29.2
+ALL,10,23034,13827,60.0
