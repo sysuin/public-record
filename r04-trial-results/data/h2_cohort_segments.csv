@@ -1,0 +1,24 @@
+segment,sponsor_group,n,pct_of_cohort,pct_sub24,pct_ever,pct_of_no_results_pile
+Probably required,All,21041,15.06,69.61,86.36,5.87
+Probably required,Industry,10456,7.49,66.19,86.23,3.24
+Probably required,"Universities, hospitals & non-profits",9634,6.9,72.7,86.18,2.41
+Probably required,NIH,533,0.38,87.8,99.81,0.06
+Probably required,Other US federal,222,0.16,69.82,88.74,0.06
+Probably required,Non-US government,48,0.03,18.75,25.0,0.04
+"Not required, has a US site",All,34376,24.61,31.14,39.58,21.73
+"Not required, has a US site",Industry,8003,5.73,28.85,40.31,5.23
+"Not required, has a US site","Universities, hospitals & non-profits",24546,17.57,29.87,37.24,15.8
+"Not required, has a US site",NIH,692,0.5,57.51,69.22,0.27
+"Not required, has a US site",Other US federal,903,0.65,59.47,66.33,0.34
+"Not required, has a US site",Non-US government,23,0.02,13.04,21.74,0.02
+"Not required, non-US sites only",All,81321,58.22,6.14,8.93,70.05
+"Not required, non-US sites only",Industry,14922,10.68,17.2,22.76,11.34
+"Not required, non-US sites only","Universities, hospitals & non-profits",63035,45.13,3.56,5.73,55.79
+"Not required, non-US sites only",NIH,57,0.04,64.91,77.19,0.02
+"Not required, non-US sites only",Other US federal,24,0.02,4.17,16.67,0.02
+"Not required, non-US sites only",Non-US government,2783,1.99,3.13,4.74,2.47
+"Not required, no location listed",All,2936,2.1,12.64,17.68,2.35
+"Not required, no location listed",Industry,375,0.27,49.07,60.8,0.18
+"Not required, no location listed","Universities, hospitals & non-profits",2395,1.71,7.18,11.23,2.04
+"Not required, no location listed",Other US federal,33,0.02,27.27,36.36,0.02
+"Not required, no location listed",Non-US government,121,0.09,4.13,7.44,0.11

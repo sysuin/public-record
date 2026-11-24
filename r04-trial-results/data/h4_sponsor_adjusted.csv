@@ -1,0 +1,16 @@
+outcome,group,crude_pct,standardised_pct,lo,hi,n
+y12,Industry,43.0,42.04,41.18,42.98,10456
+y12,NIH,54.03,51.45,48.0,55.96,533
+y12,Other US federal,35.59,36.73,30.42,42.1,222
+y12,"Universities, hospitals & non-profits",40.54,41.64,40.61,42.62,9634
+y12,Other,27.55,29.48,23.38,35.42,196
+y24,Industry,66.19,64.92,64.16,65.9,10456
+y24,NIH,87.8,85.99,83.05,89.46,533
+y24,Other US federal,69.82,69.84,63.04,75.54,222
+y24,"Universities, hospitals & non-profits",72.7,73.88,72.9,74.7,9634
+y24,Other,50.0,55.52,49.11,61.81,196
+y12c,Industry,59.04,56.99,56.07,57.95,10456
+y12c,NIH,58.72,54.51,50.56,58.58,533
+y12c,Other US federal,41.89,44.32,38.09,49.76,222
+y12c,"Universities, hospitals & non-profits",43.25,45.68,44.67,46.56,9634
+y12c,Other,28.06,30.21,24.72,36.36,196

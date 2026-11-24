@@ -1,0 +1,73 @@
+pcd_year,group,n,pct_12m,pct_24m,pct_36m,pct_ever,lo_12m,hi_12m,n_pcd_still_estimated,pct_still_estimated,pct_12m_incl_estimated
+2008,"Drug/device trials with a US site, beyond phase 1",2531,12.13,22.6,32.79,79.49,10.91,13.46,31,1.21,11.98
+2008,Probably required (main proxy),107,4.67,10.28,12.15,91.59,2.01,10.48,0,0.0,4.67
+2008,All other interventional,5755,5.72,10.1,12.82,24.59,5.15,6.35,250,4.16,5.58
+2008,All interventional,8286,7.68,13.92,18.92,41.36,7.12,8.27,281,3.28,7.49
+2009,"Drug/device trials with a US site, beyond phase 1",2655,11.3,27.19,40.87,84.18,10.15,12.56,99,3.59,11.0
+2009,Probably required (main proxy),129,3.1,6.98,12.4,91.47,1.21,7.7,0,0.0,3.1
+2009,All other interventional,6503,5.14,9.8,12.36,22.88,4.63,5.7,579,8.18,4.91
+2009,All interventional,9158,6.92,14.84,20.63,40.65,6.42,7.46,678,6.89,6.62
+2010,"Drug/device trials with a US site, beyond phase 1",2670,13.6,32.66,46.37,84.68,12.35,14.95,95,3.44,13.2
+2010,Probably required (main proxy),98,4.08,12.24,16.33,88.78,1.6,10.03,0,0.0,4.08
+2010,All other interventional,7086,5.28,9.6,12.16,21.65,4.78,5.82,766,9.76,5.01
+2010,All interventional,9756,7.55,15.91,21.53,38.9,7.05,8.1,861,8.11,7.14
+2011,"Drug/device trials with a US site, beyond phase 1",2764,14.33,38.53,52.57,85.24,13.07,15.68,80,2.81,13.99
+2011,Probably required (main proxy),142,6.34,16.2,23.94,88.73,3.37,11.61,0,0.0,6.34
+2011,All other interventional,7880,5.08,8.83,11.41,20.25,4.61,5.58,882,10.07,4.84
+2011,All interventional,10644,7.48,16.54,22.1,37.13,6.99,7.99,962,8.29,7.08
+2012,"Drug/device trials with a US site, beyond phase 1",2791,16.95,43.89,55.36,84.66,15.6,18.38,115,3.96,16.35
+2012,Probably required (main proxy),149,10.07,21.48,24.83,93.29,6.2,15.95,0,0.0,10.07
+2012,All other interventional,8524,5.47,9.67,12.69,19.09,5.0,5.97,1133,11.73,4.96
+2012,All interventional,11315,8.3,18.11,23.22,35.26,7.8,8.82,1248,9.93,7.59
+2013,"Drug/device trials with a US site, beyond phase 1",2785,19.68,45.75,57.59,84.96,18.24,21.19,98,3.4,19.08
+2013,Probably required (main proxy),193,11.92,26.94,31.61,94.82,8.07,17.25,0,0.0,11.92
+2013,All other interventional,8965,5.87,11.0,13.88,19.79,5.4,6.37,1247,12.21,5.42
+2013,All interventional,11750,9.14,19.23,24.24,35.23,8.63,9.67,1345,10.27,8.42
+2014,"Drug/device trials with a US site, beyond phase 1",2931,23.1,50.94,65.06,85.81,21.61,24.66,105,3.46,22.43
+2014,Probably required (main proxy),245,13.06,26.12,44.08,91.43,9.41,17.86,0,0.0,13.06
+2014,All other interventional,10001,6.41,11.62,14.47,19.12,5.95,6.91,1363,11.99,5.82
+2014,All interventional,12932,10.19,20.53,25.94,34.23,9.68,10.73,1468,10.19,9.32
+2015,"Drug/device trials with a US site, beyond phase 1",2990,24.52,56.22,67.26,85.22,23.01,26.09,113,3.64,23.82
+2015,Probably required (main proxy),354,12.99,40.11,55.93,89.27,9.89,16.9,0,0.0,12.99
+2015,All other interventional,10946,6.64,11.37,13.89,18.02,6.19,7.12,1732,13.66,5.91
+2015,All interventional,13936,10.48,21.0,25.34,32.43,9.98,11.0,1845,11.69,9.43
+2016,"Drug/device trials with a US site, beyond phase 1",3271,31.37,59.19,68.24,84.87,29.8,32.98,117,3.45,30.43
+2016,Probably required (main proxy),676,31.07,58.58,68.64,90.09,27.69,34.65,0,0.0,31.07
+2016,All other interventional,11747,7.04,11.48,13.84,17.87,6.59,7.52,2156,15.51,6.26
+2016,All interventional,15018,12.34,21.87,25.69,32.46,11.82,12.87,2273,13.15,10.99
+2017,"Drug/device trials with a US site, beyond phase 1",3029,33.25,62.2,75.27,90.06,31.59,34.94,129,4.08,31.92
+2017,Probably required (main proxy),1085,36.13,62.95,77.7,92.53,33.32,39.03,23,2.08,35.38
+2017,All other interventional,12405,5.96,10.0,12.13,15.65,5.55,6.39,2761,18.21,5.24
+2017,All interventional,15434,11.31,20.25,24.52,30.25,10.82,11.82,2890,15.77,9.84
+2018,"Drug/device trials with a US site, beyond phase 1",3262,35.9,63.49,77.35,90.37,34.27,37.56,155,4.54,34.45
+2018,Probably required (main proxy),1893,35.76,61.81,77.44,91.49,33.63,37.95,96,4.83,34.24
+2018,All other interventional,13134,5.34,9.21,11.34,14.41,4.97,5.74,3155,19.37,4.6
+2018,All interventional,16396,11.42,20.01,24.47,29.52,10.95,11.92,3310,16.8,9.78
+2019,"Drug/device trials with a US site, beyond phase 1",3478,35.71,65.3,78.26,89.05,34.13,37.32,172,4.71,34.25
+2019,Probably required (main proxy),2586,37.12,66.13,79.27,90.41,35.28,39.0,171,6.2,35.04
+2019,All other interventional,14055,5.27,9.26,11.25,14.12,4.91,5.65,3690,20.79,4.35
+2019,All interventional,17533,11.31,20.38,24.54,28.99,10.85,11.79,3862,18.05,9.45
+2020,"Drug/device trials with a US site, beyond phase 1",3236,39.15,67.15,79.39,87.42,37.49,40.85,185,5.41,37.12
+2020,Probably required (main proxy),2716,39.8,67.45,80.45,88.33,37.98,41.66,219,7.46,36.9
+2020,All other interventional,12976,6.06,10.3,12.32,14.82,5.66,6.48,4356,25.13,4.71
+2020,All interventional,16212,12.66,21.64,25.71,29.31,12.16,13.18,4541,21.88,10.06
+2021,"Drug/device trials with a US site, beyond phase 1",3242,41.33,68.97,80.85,86.61,39.65,43.04,250,7.16,38.57
+2021,Probably required (main proxy),2944,42.12,69.57,81.66,87.5,40.35,43.91,299,9.22,38.39
+2021,All other interventional,13969,6.17,11.14,13.08,15.13,5.78,6.58,5023,26.45,4.77
+2021,All interventional,17211,12.79,22.03,25.84,28.59,12.3,13.3,5273,23.45,10.02
+2022,"Drug/device trials with a US site, beyond phase 1",3527,43.38,72.36,81.49,85.48,41.75,45.02,289,7.57,40.49
+2022,Probably required (main proxy),3359,43.2,72.55,82.11,86.13,41.53,44.88,388,10.35,39.07
+2022,All other interventional,15879,6.71,12.41,14.03,15.34,6.33,7.11,6122,27.83,5.32
+2022,All interventional,19406,13.37,23.31,26.29,28.09,12.9,13.86,6411,24.83,10.52
+2023,"Drug/device trials with a US site, beyond phase 1",3504,43.38,72.4,,83.48,41.75,45.03,316,8.27,40.26
+2023,Probably required (main proxy),3474,43.15,72.19,,83.22,41.51,44.8,396,10.23,39.17
+2023,All other interventional,16764,6.81,12.73,,14.98,6.43,7.2,7258,30.21,5.18
+2023,All interventional,20268,13.13,23.05,,26.82,12.67,13.6,7574,27.2,9.99
+2024,"Drug/device trials with a US site, beyond phase 1",3332,52.31,,,79.95,50.61,54.0,452,11.95,46.88
+2024,Probably required (main proxy),3415,50.69,,,77.83,49.01,52.36,542,13.7,44.4
+2024,All other interventional,17200,7.72,,,14.6,7.33,8.12,9910,36.55,5.36
+2024,All interventional,20532,14.95,,,25.2,14.47,15.45,10362,33.54,10.44
+2025,"Drug/device trials with a US site, beyond phase 1",3055,,,,65.89,49.52,53.06,442,12.64,45.75
+2025,Probably required (main proxy),3067,,,,64.72,49.0,52.53,573,15.74,43.65
+2025,All other interventional,15767,,,,12.2,8.49,9.39,9234,36.93,6.22
+2025,All interventional,18822,,,,20.92,15.29,16.33,9676,33.95,11.07

@@ -1,0 +1,32 @@
+claim,variant,n,k,pct,lo,hi
+Headline: completed interventional with results,"Main: COMPLETED, PCD 2008-2023, submitted",195425,59765,30.58,30.38,30.79
+Headline: completed interventional with results,Posted only (excludes QC queue),195425,55532,28.42,28.22,28.62
+Headline: completed interventional with results,"All completed, any PCD year",262780,69229,26.34,26.18,26.51
+Headline: completed interventional with results,PCD type ACTUAL only,195416,59765,30.58,30.38,30.79
+Headline: completed interventional with results,Study completion date 2008-2023 instead of PCD,191631,58234,30.39,30.18,30.59
+Headline: completed interventional with results,PCD 2010-2020,131802,41165,31.23,30.98,31.48
+Headline: completed interventional with results,PCD 2017-2023,105123,28429,27.04,26.78,27.31
+Headline: completed interventional with results,"Completed + terminated, PCD 2008-2023",219383,70757,32.25,32.06,32.45
+Headline: completed interventional with results,All trials past PCD by 2y incl. unknown/stale (PCD 2008-2023),270102,74021,27.4,27.24,27.57
+Probably required: submitted within 24 months (PCD 2017-01-18 to 2024-11-20),main,21041,14646,69.61,68.98,70.22
+Probably required: submitted within 12 months,main,21041,8823,41.93,41.27,42.6
+Everything else: submitted within 24 months,main,118633,16067,13.54,13.35,13.74
+Probably required: submitted within 24 months (PCD 2017-01-18 to 2024-11-20),strict,16128,11478,71.17,70.46,71.86
+Probably required: submitted within 12 months,strict,16128,6836,42.39,41.63,43.15
+Everything else: submitted within 24 months,strict,123546,19235,15.57,15.37,15.77
+Probably required: submitted within 24 months (PCD 2017-01-18 to 2024-11-20),broad,26736,18501,69.2,68.64,69.75
+Probably required: submitted within 12 months,broad,26736,10950,40.96,40.37,41.55
+Everything else: submitted within 24 months,broad,112938,12212,10.81,10.63,11.0
+Probably required: submitted within 24 months (PCD 2017-01-18 to 2024-11-20),noloc,21775,15081,69.26,68.64,69.87
+Probably required: submitted within 12 months,noloc,21775,9114,41.86,41.2,42.51
+Everything else: submitted within 24 months,noloc,117899,15632,13.26,13.07,13.45
+Probably required: submitted within 24 months (PCD 2017-01-18 to 2024-11-20),main + stale-status trials,22995,14789,64.31,63.69,64.93
+Probably required: submitted within 12 months,"main, 13-month slack",21041,10047,47.75,47.08,48.42
+Probably required: submitted within 12 months,"main, unposted submissions counted as not submitted",21041,8695,41.32,40.66,41.99
+Probably required: submitted within 24 months (PCD 2017-01-18 to 2024-11-20),"main, unposted submissions counted as not submitted",21041,14148,67.24,66.6,67.87
+Everything else: submitted within 24 months,"main, unposted submissions counted as not submitted",118633,14727,12.41,12.23,12.6
+Probably required: submitted within 12 months,"main, 12m or certification filed in time",21041,10801,51.33,50.66,52.01
+Probably required: submitted within 12 months,"main, completed status only",15469,6425,41.53,40.76,42.31
+Probably required: submitted within 12 months,"main, PCD 2019-2023 only",15079,6231,41.32,40.54,42.11
+Probably required: submitted within 12 months,"main, month-only dates = first of month",21033,8766,41.68,41.01,42.35
+Headline: completed interventional with results,Month-only dates = first of month,195425,59765,30.58,30.38,30.79

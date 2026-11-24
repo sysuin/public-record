@@ -1,0 +1,5 @@
+sponsor_size,n_sponsors,n_trials,pct_of_trials,pct_12m_or_cert,pct_24m,pct_ever,n_no_results_no_cert,pct_of_no_results_no_cert
+1-4 trials,4344,6501,30.9,30.03,48.73,68.2,1945,73.07
+5-19 trials,454,3870,18.39,42.22,60.98,85.4,520,19.53
+20-99 trials,118,5085,24.17,59.53,81.3,96.05,175,6.57
+100+ trials,35,5585,26.54,74.99,89.24,99.32,22,0.83

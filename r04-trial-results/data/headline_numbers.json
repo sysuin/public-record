@@ -1,0 +1,2204 @@
+{
+ "data_timestamp": "2026-11-20T10:00:05",
+ "api_version": "2.0.5",
+ "reference_date": "2026-11-20",
+ "coverage": {
+  "All records in API download": 612892,
+  "Interventional": 467733,
+  "Observational (excluded)": 143090,
+  "Expanded access (excluded)": 1077,
+  "Study type missing (withheld device records, excluded)": 992,
+  "Interventional: WITHDRAWN (never enrolled; excluded from 'due' cohorts)": 14026,
+  "Interventional: COMPLETED": 262780,
+  "Interventional COMPLETED: primary completion date missing": 10408,
+  "Interventional COMPLETED: primary completion date type missing (old records)": 15,
+  "Interventional COMPLETED: primary completion still marked ESTIMATED": 5,
+  "Interventional: month-only primary completion date": 181458,
+  "Interventional: results submitted before primary completion date (negative delay)": 927,
+  "Interventional: results submitted but not yet posted (in QC)": 10458,
+  "hasResults=true but no results-first-submitted date": 0,
+  "Interventional: results waived flag": 0,
+  "Proxy 'main': trials (any date)": 46061,
+  "Proxy 'strict': trials (any date)": 35696,
+  "Proxy 'broad': trials (any date)": 86930,
+  "Proxy 'noloc': trials (any date)": 48453,
+  "Proxy 'lite': trials (any date)": 85428
+ },
+ "h1_all_records_posted": {
+  "n": 612892,
+  "k": 81135,
+  "pct": 13.24,
+  "lo": 13.15,
+  "hi": 13.32
+ },
+ "h1_interventional_posted": {
+  "n": 467733,
+  "k": 76391,
+  "pct": 16.33,
+  "lo": 16.23,
+  "hi": 16.44
+ },
+ "h1_completed_int_posted": {
+  "n": 262780,
+  "k": 63247,
+  "pct": 24.07,
+  "lo": 23.91,
+  "hi": 24.23
+ },
+ "h1_completed_int_submitted": {
+  "n": 262780,
+  "k": 69229,
+  "pct": 26.34,
+  "lo": 26.18,
+  "hi": 26.51
+ },
+ "h1_completed_int_pcd2008_2023_posted": {
+  "n": 195425,
+  "k": 55532,
+  "pct": 28.42,
+  "lo": 28.22,
+  "hi": 28.62
+ },
+ "h1_completed_int_pcd2008_2023_submitted": {
+  "n": 195425,
+  "k": 59765,
+  "pct": 30.58,
+  "lo": 30.38,
+  "hi": 30.79
+ },
+ "h1_completed_or_terminated_pcd2008_2023_submitted": {
+  "n": 219383,
+  "k": 70757,
+  "pct": 32.25,
+  "lo": 32.06,
+  "hi": 32.45
+ },
+ "h1_mix": {
+  "w2008": {
+   "us": 45.89,
+   "nonus": 43.56,
+   "none": 10.55
+  },
+  "2023_actual": 24.87,
+  "2023_at_2008_mix": 32.32,
+  "2008_actual": 40.52,
+  "share_of_drop_from_mix_pct": 47.6
+ },
+ "h1_trend": {
+  "2008": {
+   "n_completed": 7280,
+   "pct_submitted": 40.52,
+   "pct_nonus_only": 43.56,
+   "pct_submitted_us_site": 55.61,
+   "pct_submitted_nonus_only": 23.05,
+   "pct_lite": 28.48,
+   "pct_submitted_lite": 80.37
+  },
+  "2012": {
+   "n_completed": 9904,
+   "pct_submitted": 34.26,
+   "pct_nonus_only": 50.02,
+   "pct_submitted_us_site": 53.64,
+   "pct_submitted_nonus_only": 17.72,
+   "pct_lite": 22.87,
+   "pct_submitted_lite": 84.9
+  },
+  "2016": {
+   "n_completed": 13161,
+   "pct_submitted": 31.43,
+   "pct_nonus_only": 47.1,
+   "pct_submitted_us_site": 53.75,
+   "pct_submitted_nonus_only": 16.24,
+   "pct_lite": 19.69,
+   "pct_submitted_lite": 85.45
+  },
+  "2019": {
+   "n_completed": 15363,
+   "pct_submitted": 27.5,
+   "pct_nonus_only": 59.24,
+   "pct_submitted_us_site": 53.07,
+   "pct_submitted_nonus_only": 11.19,
+   "pct_lite": 17.56,
+   "pct_submitted_lite": 89.58
+  },
+  "2022": {
+   "n_completed": 16467,
+   "pct_submitted": 26.16,
+   "pct_nonus_only": 64.5,
+   "pct_submitted_us_site": 57.23,
+   "pct_submitted_nonus_only": 9.21,
+   "pct_lite": 15.36,
+   "pct_submitted_lite": 85.33
+  },
+  "2023": {
+   "n_completed": 17156,
+   "pct_submitted": 24.87,
+   "pct_nonus_only": 66.01,
+   "pct_submitted_us_site": 57.15,
+   "pct_submitted_nonus_only": 8.33,
+   "pct_lite": 14.47,
+   "pct_submitted_lite": 83.56
+  }
+ },
+ "h1_completed_composition": {
+  "share_product_type_pct": 62.28,
+  "share_us_site_pct": 39.15,
+  "share_probably_required_main_pct": 7.92,
+  "share_phase1_only_pct": 13.57,
+  "share_phase_NA_pct": 50.79,
+  "share_sponsor_other_pct": 64.65
+ },
+ "h2_due_cohort_n": 158784,
+ "h2_like_cohort_n": 139674,
+ "h2_main": {
+  "required_n": 21041,
+  "other_n": 118633,
+  "required_sub12": {
+   "n": 21041,
+   "k": 8823,
+   "pct": 41.93,
+   "lo": 41.27,
+   "hi": 42.6
+  },
+  "other_sub12": {
+   "n": 118633,
+   "k": 8926,
+   "pct": 7.52,
+   "lo": 7.38,
+   "hi": 7.68
+  },
+  "required_sub24": {
+   "n": 21041,
+   "k": 14646,
+   "pct": 69.61,
+   "lo": 68.98,
+   "hi": 70.22
+  },
+  "other_sub24": {
+   "n": 118633,
+   "k": 16067,
+   "pct": 13.54,
+   "lo": 13.35,
+   "hi": 13.74
+  },
+  "required_ever": {
+   "n": 21041,
+   "k": 18170,
+   "pct": 86.36,
+   "lo": 85.88,
+   "hi": 86.81
+  },
+  "other_ever": {
+   "n": 118633,
+   "k": 21390,
+   "pct": 18.03,
+   "lo": 17.81,
+   "hi": 18.25
+  },
+  "diff_sub12": {
+   "pp_diff": 34.41,
+   "lo": 33.73,
+   "hi": 35.09,
+   "ratio": 5.57
+  },
+  "diff_sub24": {
+   "pp_diff": 56.06,
+   "lo": 55.41,
+   "hi": 56.71,
+   "ratio": 5.14
+  },
+  "diff_ever": {
+   "pp_diff": 68.32,
+   "lo": 67.81,
+   "hi": 68.83,
+   "ratio": 4.79
+  }
+ },
+ "h2_strict": {
+  "required_n": 16128,
+  "other_n": 123546,
+  "required_sub12": {
+   "n": 16128,
+   "k": 6836,
+   "pct": 42.39,
+   "lo": 41.63,
+   "hi": 43.15
+  },
+  "other_sub12": {
+   "n": 123546,
+   "k": 10913,
+   "pct": 8.83,
+   "lo": 8.68,
+   "hi": 8.99
+  },
+  "required_sub24": {
+   "n": 16128,
+   "k": 11478,
+   "pct": 71.17,
+   "lo": 70.46,
+   "hi": 71.86
+  },
+  "other_sub24": {
+   "n": 123546,
+   "k": 19235,
+   "pct": 15.57,
+   "lo": 15.37,
+   "hi": 15.77
+  },
+  "required_ever": {
+   "n": 16128,
+   "k": 14144,
+   "pct": 87.7,
+   "lo": 87.18,
+   "hi": 88.2
+  },
+  "other_ever": {
+   "n": 123546,
+   "k": 25416,
+   "pct": 20.57,
+   "lo": 20.35,
+   "hi": 20.8
+  },
+  "diff_sub12": {
+   "pp_diff": 33.55,
+   "lo": 32.78,
+   "hi": 34.33,
+   "ratio": 4.8
+  },
+  "diff_sub24": {
+   "pp_diff": 55.6,
+   "lo": 54.87,
+   "hi": 56.32,
+   "ratio": 4.57
+  },
+  "diff_ever": {
+   "pp_diff": 67.13,
+   "lo": 66.56,
+   "hi": 67.67,
+   "ratio": 4.26
+  }
+ },
+ "h2_broad": {
+  "required_n": 26736,
+  "other_n": 112938,
+  "required_sub12": {
+   "n": 26736,
+   "k": 10950,
+   "pct": 40.96,
+   "lo": 40.37,
+   "hi": 41.55
+  },
+  "other_sub12": {
+   "n": 112938,
+   "k": 6799,
+   "pct": 6.02,
+   "lo": 5.88,
+   "hi": 6.16
+  },
+  "required_sub24": {
+   "n": 26736,
+   "k": 18501,
+   "pct": 69.2,
+   "lo": 68.64,
+   "hi": 69.75
+  },
+  "other_sub24": {
+   "n": 112938,
+   "k": 12212,
+   "pct": 10.81,
+   "lo": 10.63,
+   "hi": 11.0
+  },
+  "required_ever": {
+   "n": 26736,
+   "k": 23380,
+   "pct": 87.45,
+   "lo": 87.05,
+   "hi": 87.84
+  },
+  "other_ever": {
+   "n": 112938,
+   "k": 16180,
+   "pct": 14.33,
+   "lo": 14.12,
+   "hi": 14.53
+  },
+  "diff_sub12": {
+   "pp_diff": 34.94,
+   "lo": 34.33,
+   "hi": 35.54,
+   "ratio": 6.8
+  },
+  "diff_sub24": {
+   "pp_diff": 58.39,
+   "lo": 57.8,
+   "hi": 58.97,
+   "ratio": 6.4
+  },
+  "diff_ever": {
+   "pp_diff": 73.12,
+   "lo": 72.67,
+   "hi": 73.56,
+   "ratio": 6.1
+  }
+ },
+ "h2_noloc": {
+  "required_n": 21775,
+  "other_n": 117899,
+  "required_sub12": {
+   "n": 21775,
+   "k": 9114,
+   "pct": 41.86,
+   "lo": 41.2,
+   "hi": 42.51
+  },
+  "other_sub12": {
+   "n": 117899,
+   "k": 8635,
+   "pct": 7.32,
+   "lo": 7.18,
+   "hi": 7.47
+  },
+  "required_sub24": {
+   "n": 21775,
+   "k": 15081,
+   "pct": 69.26,
+   "lo": 68.64,
+   "hi": 69.87
+  },
+  "other_sub24": {
+   "n": 117899,
+   "k": 15632,
+   "pct": 13.26,
+   "lo": 13.07,
+   "hi": 13.45
+  },
+  "required_ever": {
+   "n": 21775,
+   "k": 18713,
+   "pct": 85.94,
+   "lo": 85.47,
+   "hi": 86.39
+  },
+  "other_ever": {
+   "n": 117899,
+   "k": 20847,
+   "pct": 17.68,
+   "lo": 17.47,
+   "hi": 17.9
+  },
+  "diff_sub12": {
+   "pp_diff": 34.53,
+   "lo": 33.86,
+   "hi": 35.2,
+   "ratio": 5.71
+  },
+  "diff_sub24": {
+   "pp_diff": 56.0,
+   "lo": 55.35,
+   "hi": 56.64,
+   "ratio": 5.22
+  },
+  "diff_ever": {
+   "pp_diff": 68.26,
+   "lo": 67.74,
+   "hi": 68.76,
+   "ratio": 4.86
+  }
+ },
+ "h2_main_due_all": {
+  "n": 24164,
+  "sub12": {
+   "n": 24164,
+   "k": 10480,
+   "pct": 43.37,
+   "lo": 42.75,
+   "hi": 44.0
+  },
+  "ever": {
+   "n": 24164,
+   "k": 20358,
+   "pct": 84.25,
+   "lo": 83.78,
+   "hi": 84.7
+  },
+  "posted": {
+   "n": 24164,
+   "k": 18883,
+   "pct": 78.15,
+   "lo": 77.62,
+   "hi": 78.66
+  },
+  "pending_qc": {
+   "n": 24164,
+   "k": 1475,
+   "pct": 6.1,
+   "lo": 5.81,
+   "hi": 6.41
+  },
+  "cert_before_deadline": {
+   "n": 24164,
+   "k": 2381,
+   "pct": 9.85,
+   "lo": 9.48,
+   "hi": 10.24
+  },
+  "sub12_or_cert": {
+   "n": 24164,
+   "k": 12775,
+   "pct": 52.87,
+   "lo": 52.24,
+   "hi": 53.5
+  },
+  "not_submitted_no_cert": {
+   "n": 24164,
+   "k": 3368,
+   "pct": 13.94,
+   "lo": 13.51,
+   "hi": 14.38
+  }
+ },
+ "h2_share_of_like_cohort_probably_required_pct": 15.06,
+ "h2_why_not_required": {
+  "Not an FDA-regulated product (flags = No)": 72.24,
+  "FDA-regulated flags missing": 20.17,
+  "Phase 1 only": 6.71,
+  "No US site and not exported": 0.62,
+  "Device feasibility": 0.27
+ },
+ "h2_segments": [
+  {
+   "segment": "Probably required",
+   "sponsor_group": "All",
+   "n": 21041,
+   "pct_of_cohort": 15.06,
+   "pct_sub24": 69.61,
+   "pct_ever": 86.36,
+   "pct_of_no_results_pile": 5.87
+  },
+  {
+   "segment": "Probably required",
+   "sponsor_group": "Industry",
+   "n": 10456,
+   "pct_of_cohort": 7.49,
+   "pct_sub24": 66.19,
+   "pct_ever": 86.23,
+   "pct_of_no_results_pile": 3.24
+  },
+  {
+   "segment": "Probably required",
+   "sponsor_group": "Universities, hospitals & non-profits",
+   "n": 9634,
+   "pct_of_cohort": 6.9,
+   "pct_sub24": 72.7,
+   "pct_ever": 86.18,
+   "pct_of_no_results_pile": 2.41
+  },
+  {
+   "segment": "Probably required",
+   "sponsor_group": "NIH",
+   "n": 533,
+   "pct_of_cohort": 0.38,
+   "pct_sub24": 87.8,
+   "pct_ever": 99.81,
+   "pct_of_no_results_pile": 0.06
+  },
+  {
+   "segment": "Probably required",
+   "sponsor_group": "Other US federal",
+   "n": 222,
+   "pct_of_cohort": 0.16,
+   "pct_sub24": 69.82,
+   "pct_ever": 88.74,
+   "pct_of_no_results_pile": 0.06
+  },
+  {
+   "segment": "Probably required",
+   "sponsor_group": "Non-US government",
+   "n": 48,
+   "pct_of_cohort": 0.03,
+   "pct_sub24": 18.75,
+   "pct_ever": 25.0,
+   "pct_of_no_results_pile": 0.04
+  },
+  {
+   "segment": "Not required, has a US site",
+   "sponsor_group": "All",
+   "n": 34376,
+   "pct_of_cohort": 24.61,
+   "pct_sub24": 31.14,
+   "pct_ever": 39.58,
+   "pct_of_no_results_pile": 21.73
+  },
+  {
+   "segment": "Not required, has a US site",
+   "sponsor_group": "Industry",
+   "n": 8003,
+   "pct_of_cohort": 5.73,
+   "pct_sub24": 28.85,
+   "pct_ever": 40.31,
+   "pct_of_no_results_pile": 5.23
+  },
+  {
+   "segment": "Not required, has a US site",
+   "sponsor_group": "Universities, hospitals & non-profits",
+   "n": 24546,
+   "pct_of_cohort": 17.57,
+   "pct_sub24": 29.87,
+   "pct_ever": 37.24,
+   "pct_of_no_results_pile": 15.8
+  },
+  {
+   "segment": "Not required, has a US site",
+   "sponsor_group": "NIH",
+   "n": 692,
+   "pct_of_cohort": 0.5,
+   "pct_sub24": 57.51,
+   "pct_ever": 69.22,
+   "pct_of_no_results_pile": 0.27
+  },
+  {
+   "segment": "Not required, has a US site",
+   "sponsor_group": "Other US federal",
+   "n": 903,
+   "pct_of_cohort": 0.65,
+   "pct_sub24": 59.47,
+   "pct_ever": 66.33,
+   "pct_of_no_results_pile": 0.34
+  },
+  {
+   "segment": "Not required, has a US site",
+   "sponsor_group": "Non-US government",
+   "n": 23,
+   "pct_of_cohort": 0.02,
+   "pct_sub24": 13.04,
+   "pct_ever": 21.74,
+   "pct_of_no_results_pile": 0.02
+  },
+  {
+   "segment": "Not required, non-US sites only",
+   "sponsor_group": "All",
+   "n": 81321,
+   "pct_of_cohort": 58.22,
+   "pct_sub24": 6.14,
+   "pct_ever": 8.93,
+   "pct_of_no_results_pile": 70.05
+  },
+  {
+   "segment": "Not required, non-US sites only",
+   "sponsor_group": "Industry",
+   "n": 14922,
+   "pct_of_cohort": 10.68,
+   "pct_sub24": 17.2,
+   "pct_ever": 22.76,
+   "pct_of_no_results_pile": 11.34
+  },
+  {
+   "segment": "Not required, non-US sites only",
+   "sponsor_group": "Universities, hospitals & non-profits",
+   "n": 63035,
+   "pct_of_cohort": 45.13,
+   "pct_sub24": 3.56,
+   "pct_ever": 5.73,
+   "pct_of_no_results_pile": 55.79
+  },
+  {
+   "segment": "Not required, non-US sites only",
+   "sponsor_group": "NIH",
+   "n": 57,
+   "pct_of_cohort": 0.04,
+   "pct_sub24": 64.91,
+   "pct_ever": 77.19,
+   "pct_of_no_results_pile": 0.02
+  },
+  {
+   "segment": "Not required, non-US sites only",
+   "sponsor_group": "Other US federal",
+   "n": 24,
+   "pct_of_cohort": 0.02,
+   "pct_sub24": 4.17,
+   "pct_ever": 16.67,
+   "pct_of_no_results_pile": 0.02
+  },
+  {
+   "segment": "Not required, non-US sites only",
+   "sponsor_group": "Non-US government",
+   "n": 2783,
+   "pct_of_cohort": 1.99,
+   "pct_sub24": 3.13,
+   "pct_ever": 4.74,
+   "pct_of_no_results_pile": 2.47
+  },
+  {
+   "segment": "Not required, no location listed",
+   "sponsor_group": "All",
+   "n": 2936,
+   "pct_of_cohort": 2.1,
+   "pct_sub24": 12.64,
+   "pct_ever": 17.68,
+   "pct_of_no_results_pile": 2.35
+  },
+  {
+   "segment": "Not required, no location listed",
+   "sponsor_group": "Industry",
+   "n": 375,
+   "pct_of_cohort": 0.27,
+   "pct_sub24": 49.07,
+   "pct_ever": 60.8,
+   "pct_of_no_results_pile": 0.18
+  },
+  {
+   "segment": "Not required, no location listed",
+   "sponsor_group": "Universities, hospitals & non-profits",
+   "n": 2395,
+   "pct_of_cohort": 1.71,
+   "pct_sub24": 7.18,
+   "pct_ever": 11.23,
+   "pct_of_no_results_pile": 2.04
+  },
+  {
+   "segment": "Not required, no location listed",
+   "sponsor_group": "Other US federal",
+   "n": 33,
+   "pct_of_cohort": 0.02,
+   "pct_sub24": 27.27,
+   "pct_ever": 36.36,
+   "pct_of_no_results_pile": 0.02
+  },
+  {
+   "segment": "Not required, no location listed",
+   "sponsor_group": "Non-US government",
+   "n": 121,
+   "pct_of_cohort": 0.09,
+   "pct_sub24": 4.13,
+   "pct_ever": 7.44,
+   "pct_of_no_results_pile": 0.11
+  }
+ ],
+ "h3_lite_2024_sub12_actual_only": {
+  "n": 3332,
+  "k": 1743,
+  "pct": 52.31,
+  "lo": 50.61,
+  "hi": 54.0
+ },
+ "h3_lite_2024_sub12_incl_estimated": {
+  "n": 3784,
+  "k": 1774,
+  "pct": 46.88,
+  "lo": 45.3,
+  "hi": 48.47
+ },
+ "h3_lite_2023_sub12_actual_only": {
+  "n": 3504,
+  "k": 1520,
+  "pct": 43.38,
+  "lo": 41.75,
+  "hi": 45.03
+ },
+ "h3_lite_2023_sub12_incl_estimated": {
+  "n": 3820,
+  "k": 1538,
+  "pct": 40.26,
+  "lo": 38.72,
+  "hi": 41.83
+ },
+ "h3_lite_pre_2014_16_sub12": {
+  "n": 9192,
+  "k": 2436,
+  "pct": 26.5,
+  "lo": 25.61,
+  "hi": 27.41
+ },
+ "h3_lite_post_2018_20_sub12": {
+  "n": 9976,
+  "k": 3680,
+  "pct": 36.89,
+  "lo": 35.95,
+  "hi": 37.84
+ },
+ "h3_lite_post_minus_pre_sub12": {
+  "pp_diff": 10.39,
+  "lo": 9.08,
+  "hi": 11.69,
+  "ratio": 1.39
+ },
+ "h3_lite_pre_2014_16_sub24": {
+  "n": 9192,
+  "k": 5110,
+  "pct": 55.59,
+  "lo": 54.57,
+  "hi": 56.61
+ },
+ "h3_lite_post_2018_20_sub24": {
+  "n": 9976,
+  "k": 6515,
+  "pct": 65.31,
+  "lo": 64.37,
+  "hi": 66.23
+ },
+ "h3_lite_post_minus_pre_sub24": {
+  "pp_diff": 9.71,
+  "lo": 8.33,
+  "hi": 11.09,
+  "ratio": 1.17
+ },
+ "h3_lite_2008_2010_sub12": {
+  "n": 7856,
+  "k": 970,
+  "pct": 12.35,
+  "lo": 11.64,
+  "hi": 13.09
+ },
+ "h3_lite_2022_2024_sub12": {
+  "n": 10363,
+  "k": 4793,
+  "pct": 46.25,
+  "lo": 45.29,
+  "hi": 47.21
+ },
+ "h3_main_2018_2024_sub12": {
+  "n": 20387,
+  "k": 8639,
+  "pct": 42.38,
+  "lo": 41.7,
+  "hi": 43.05
+ },
+ "h3_other_pre_sub12": {
+  "n": 32694,
+  "k": 2195,
+  "pct": 6.71,
+  "lo": 6.45,
+  "hi": 6.99
+ },
+ "h3_other_post_sub12": {
+  "n": 40165,
+  "k": 2229,
+  "pct": 5.55,
+  "lo": 5.33,
+  "hi": 5.78
+ },
+ "h3_main_2018_22_median_days_to_submit_among_sub36": 366.0,
+ "h3_main_2018_22_by_window": {
+  "12m": {
+   "n": 13498,
+   "k": 5409,
+   "pct": 40.07,
+   "lo": 39.25,
+   "hi": 40.9
+  },
+  "24m": {
+   "n": 13498,
+   "k": 9197,
+   "pct": 68.14,
+   "lo": 67.34,
+   "hi": 68.92
+  },
+  "36m": {
+   "n": 13498,
+   "k": 10863,
+   "pct": 80.48,
+   "lo": 79.8,
+   "hi": 81.14
+  }
+ },
+ "h3_main_2018_22_ever": {
+  "n": 13498,
+  "k": 11938,
+  "pct": 88.44,
+  "lo": 87.89,
+  "hi": 88.97
+ },
+ "h3_main_like_sub13": {
+  "n": 21041,
+  "k": 10047,
+  "pct": 47.75,
+  "lo": 47.08,
+  "hi": 48.42
+ },
+ "h4_who": [
+  {
+   "dimension": "Lead sponsor",
+   "group": "Individuals",
+   "n": 25,
+   "pct_12m": 32.0,
+   "lo_12m": 17.2,
+   "hi_12m": 51.59,
+   "pct_24m": 44.0,
+   "lo_24m": 26.67,
+   "hi_24m": 62.93,
+   "pct_cert_before_deadline": 0.0,
+   "pct_12m_or_cert": 32.0,
+   "lo_12m_or_cert": 17.2,
+   "hi_12m_or_cert": 51.59
+  },
+  {
+   "dimension": "Lead sponsor",
+   "group": "Industry",
+   "n": 10456,
+   "pct_12m": 43.0,
+   "lo_12m": 42.05,
+   "hi_12m": 43.95,
+   "pct_24m": 66.19,
+   "lo_24m": 65.28,
+   "hi_24m": 67.09,
+   "pct_cert_before_deadline": 16.55,
+   "pct_12m_or_cert": 59.04,
+   "lo_12m_or_cert": 58.09,
+   "hi_12m_or_cert": 59.98
+  },
+  {
+   "dimension": "Lead sponsor",
+   "group": "NIH",
+   "n": 533,
+   "pct_12m": 54.03,
+   "lo_12m": 49.79,
+   "hi_12m": 58.22,
+   "pct_24m": 87.8,
+   "lo_24m": 84.75,
+   "hi_24m": 90.32,
+   "pct_cert_before_deadline": 4.88,
+   "pct_12m_or_cert": 58.72,
+   "lo_12m_or_cert": 54.5,
+   "hi_12m_or_cert": 62.83
+  },
+  {
+   "dimension": "Lead sponsor",
+   "group": "Networks",
+   "n": 121,
+   "pct_12m": 34.71,
+   "lo_12m": 26.82,
+   "hi_12m": 43.55,
+   "pct_24m": 64.46,
+   "lo_24m": 55.61,
+   "hi_24m": 72.43,
+   "pct_cert_before_deadline": 0.0,
+   "pct_12m_or_cert": 34.71,
+   "lo_12m_or_cert": 26.82,
+   "hi_12m_or_cert": 43.55
+  },
+  {
+   "dimension": "Lead sponsor",
+   "group": "Non-US government",
+   "n": 48,
+   "pct_12m": 8.33,
+   "lo_12m": 3.29,
+   "hi_12m": 19.55,
+   "pct_24m": 18.75,
+   "lo_24m": 10.19,
+   "hi_24m": 31.94,
+   "pct_cert_before_deadline": 2.08,
+   "pct_12m_or_cert": 10.42,
+   "lo_12m_or_cert": 4.53,
+   "hi_12m_or_cert": 22.17
+  },
+  {
+   "dimension": "Lead sponsor",
+   "group": "Other US federal",
+   "n": 222,
+   "pct_12m": 35.59,
+   "lo_12m": 29.58,
+   "hi_12m": 42.08,
+   "pct_24m": 69.82,
+   "lo_24m": 63.49,
+   "hi_24m": 75.48,
+   "pct_cert_before_deadline": 6.31,
+   "pct_12m_or_cert": 41.89,
+   "lo_12m_or_cert": 35.59,
+   "hi_12m_or_cert": 48.47
+  },
+  {
+   "dimension": "Lead sponsor",
+   "group": "Universities, hospitals & non-profits",
+   "n": 9634,
+   "pct_12m": 40.54,
+   "lo_12m": 39.57,
+   "hi_12m": 41.53,
+   "pct_24m": 72.7,
+   "lo_24m": 71.8,
+   "hi_24m": 73.58,
+   "pct_cert_before_deadline": 2.92,
+   "pct_12m_or_cert": 43.25,
+   "lo_12m_or_cert": 42.27,
+   "hi_12m_or_cert": 44.24
+  },
+  {
+   "dimension": "Lead sponsor",
+   "group": "Unknown",
+   "n": 2,
+   "pct_12m": 0.0,
+   "lo_12m": 0.0,
+   "hi_12m": 65.76,
+   "pct_24m": 0.0,
+   "lo_24m": 0.0,
+   "hi_24m": 65.76,
+   "pct_cert_before_deadline": 0.0,
+   "pct_12m_or_cert": 0.0,
+   "lo_12m_or_cert": 0.0,
+   "hi_12m_or_cert": 65.76
+  },
+  {
+   "dimension": "Phase",
+   "group": "Not applicable",
+   "n": 5677,
+   "pct_12m": 33.33,
+   "lo_12m": 32.11,
+   "hi_12m": 34.56,
+   "pct_24m": 62.15,
+   "lo_24m": 60.88,
+   "hi_24m": 63.4,
+   "pct_cert_before_deadline": 4.02,
+   "pct_12m_or_cert": 37.17,
+   "lo_12m_or_cert": 35.92,
+   "hi_12m_or_cert": 38.43
+  },
+  {
+   "dimension": "Phase",
+   "group": "Phase 1/2",
+   "n": 1782,
+   "pct_12m": 45.51,
+   "lo_12m": 43.21,
+   "hi_12m": 47.83,
+   "pct_24m": 70.99,
+   "lo_24m": 68.84,
+   "hi_24m": 73.05,
+   "pct_cert_before_deadline": 8.53,
+   "pct_12m_or_cert": 53.48,
+   "lo_12m_or_cert": 51.16,
+   "hi_12m_or_cert": 55.79
+  },
+  {
+   "dimension": "Phase",
+   "group": "Phase 2",
+   "n": 6786,
+   "pct_12m": 44.15,
+   "lo_12m": 42.97,
+   "hi_12m": 45.33,
+   "pct_24m": 71.9,
+   "lo_24m": 70.82,
+   "hi_24m": 72.95,
+   "pct_cert_before_deadline": 12.56,
+   "pct_12m_or_cert": 56.37,
+   "lo_12m_or_cert": 55.18,
+   "hi_12m_or_cert": 57.54
+  },
+  {
+   "dimension": "Phase",
+   "group": "Phase 2/3",
+   "n": 545,
+   "pct_12m": 39.45,
+   "lo_12m": 35.43,
+   "hi_12m": 43.61,
+   "pct_24m": 68.07,
+   "lo_24m": 64.04,
+   "hi_24m": 71.85,
+   "pct_cert_before_deadline": 8.44,
+   "pct_12m_or_cert": 47.52,
+   "lo_12m_or_cert": 43.36,
+   "hi_12m_or_cert": 51.72
+  },
+  {
+   "dimension": "Phase",
+   "group": "Phase 3",
+   "n": 3747,
+   "pct_12m": 49.08,
+   "lo_12m": 47.48,
+   "hi_12m": 50.68,
+   "pct_24m": 75.13,
+   "lo_24m": 73.72,
+   "hi_24m": 76.48,
+   "pct_cert_before_deadline": 19.03,
+   "pct_12m_or_cert": 67.47,
+   "lo_12m_or_cert": 65.95,
+   "hi_12m_or_cert": 68.95
+  },
+  {
+   "dimension": "Phase",
+   "group": "Phase 4",
+   "n": 2504,
+   "pct_12m": 42.73,
+   "lo_12m": 40.81,
+   "hi_12m": 44.68,
+   "pct_24m": 71.41,
+   "lo_24m": 69.6,
+   "hi_24m": 73.14,
+   "pct_cert_before_deadline": 2.44,
+   "pct_12m_or_cert": 44.97,
+   "lo_12m_or_cert": 43.03,
+   "hi_12m_or_cert": 46.92
+  },
+  {
+   "dimension": "Product",
+   "group": "Device",
+   "n": 5895,
+   "pct_12m": 33.4,
+   "lo_12m": 32.21,
+   "hi_12m": 34.62,
+   "pct_24m": 62.21,
+   "lo_24m": 60.96,
+   "hi_24m": 63.43,
+   "pct_cert_before_deadline": 4.07,
+   "pct_12m_or_cert": 37.29,
+   "lo_12m_or_cert": 36.06,
+   "hi_12m_or_cert": 38.53
+  },
+  {
+   "dimension": "Product",
+   "group": "Drug",
+   "n": 14783,
+   "pct_12m": 45.44,
+   "lo_12m": 44.64,
+   "hi_12m": 46.25,
+   "pct_24m": 72.73,
+   "lo_24m": 72.01,
+   "hi_24m": 73.44,
+   "pct_cert_before_deadline": 12.04,
+   "pct_12m_or_cert": 57.06,
+   "lo_12m_or_cert": 56.26,
+   "hi_12m_or_cert": 57.85
+  },
+  {
+   "dimension": "Product",
+   "group": "Drug and device",
+   "n": 363,
+   "pct_12m": 37.47,
+   "lo_12m": 32.64,
+   "hi_12m": 42.55,
+   "pct_24m": 62.53,
+   "lo_24m": 57.45,
+   "hi_24m": 67.36,
+   "pct_cert_before_deadline": 8.82,
+   "pct_12m_or_cert": 46.28,
+   "lo_12m_or_cert": 41.22,
+   "hi_12m_or_cert": 51.42
+  },
+  {
+   "dimension": "Status",
+   "group": "ACTIVE_NOT_RECRUITING",
+   "n": 762,
+   "pct_12m": 39.76,
+   "lo_12m": 36.35,
+   "hi_12m": 43.28,
+   "pct_24m": 69.29,
+   "lo_24m": 65.93,
+   "hi_24m": 72.46,
+   "pct_cert_before_deadline": 11.15,
+   "pct_12m_or_cert": 50.52,
+   "lo_12m_or_cert": 46.98,
+   "hi_12m_or_cert": 54.06
+  },
+  {
+   "dimension": "Status",
+   "group": "COMPLETED",
+   "n": 15469,
+   "pct_12m": 41.53,
+   "lo_12m": 40.76,
+   "hi_12m": 42.31,
+   "pct_24m": 69.46,
+   "lo_24m": 68.72,
+   "hi_24m": 70.18,
+   "pct_cert_before_deadline": 10.89,
+   "pct_12m_or_cert": 52.08,
+   "lo_12m_or_cert": 51.29,
+   "hi_12m_or_cert": 52.86
+  },
+  {
+   "dimension": "Status",
+   "group": "ENROLLING_BY_INVITATION",
+   "n": 1,
+   "pct_12m": 0.0,
+   "lo_12m": 0.0,
+   "hi_12m": 79.35,
+   "pct_24m": 0.0,
+   "lo_24m": 0.0,
+   "hi_24m": 79.35,
+   "pct_cert_before_deadline": 0.0,
+   "pct_12m_or_cert": 0.0,
+   "lo_12m_or_cert": 0.0,
+   "hi_12m_or_cert": 79.35
+  },
+  {
+   "dimension": "Status",
+   "group": "RECRUITING",
+   "n": 13,
+   "pct_12m": 7.69,
+   "lo_12m": 1.37,
+   "hi_12m": 33.31,
+   "pct_24m": 61.54,
+   "lo_24m": 35.52,
+   "hi_24m": 82.29,
+   "pct_cert_before_deadline": 15.38,
+   "pct_12m_or_cert": 23.08,
+   "lo_12m_or_cert": 8.18,
+   "hi_12m_or_cert": 50.26
+  },
+  {
+   "dimension": "Status",
+   "group": "SUSPENDED",
+   "n": 15,
+   "pct_12m": 0.0,
+   "lo_12m": -0.0,
+   "hi_12m": 20.39,
+   "pct_24m": 20.0,
+   "lo_24m": 7.05,
+   "hi_24m": 45.19,
+   "pct_cert_before_deadline": 13.33,
+   "pct_12m_or_cert": 13.33,
+   "lo_12m_or_cert": 3.74,
+   "hi_12m_or_cert": 37.88
+  },
+  {
+   "dimension": "Status",
+   "group": "TERMINATED",
+   "n": 4612,
+   "pct_12m": 45.12,
+   "lo_12m": 43.69,
+   "hi_12m": 46.56,
+   "pct_24m": 72.35,
+   "lo_24m": 71.05,
+   "hi_24m": 73.63,
+   "pct_cert_before_deadline": 6.05,
+   "pct_12m_or_cert": 50.78,
+   "lo_12m_or_cert": 49.34,
+   "hi_12m_or_cert": 52.22
+  },
+  {
+   "dimension": "Status",
+   "group": "UNKNOWN",
+   "n": 169,
+   "pct_12m": 7.69,
+   "lo_12m": 4.55,
+   "hi_12m": 12.72,
+   "pct_24m": 15.38,
+   "lo_24m": 10.72,
+   "hi_24m": 21.59,
+   "pct_cert_before_deadline": 0.0,
+   "pct_12m_or_cert": 7.69,
+   "lo_12m_or_cert": 4.55,
+   "hi_12m_or_cert": 12.72
+  },
+  {
+   "dimension": "Location (no-location proxy)",
+   "group": "Has a US site",
+   "n": 19128,
+   "pct_12m": 43.31,
+   "lo_12m": 42.61,
+   "hi_12m": 44.02,
+   "pct_24m": 72.05,
+   "lo_24m": 71.41,
+   "hi_24m": 72.68,
+   "pct_cert_before_deadline": 10.11,
+   "pct_12m_or_cert": 53.05,
+   "lo_12m_or_cert": 52.34,
+   "hi_12m_or_cert": 53.75
+  },
+  {
+   "dimension": "Location (no-location proxy)",
+   "group": "No US site, US-exported product",
+   "n": 1913,
+   "pct_12m": 28.12,
+   "lo_12m": 26.15,
+   "hi_12m": 30.18,
+   "pct_24m": 45.22,
+   "lo_24m": 43.0,
+   "hi_24m": 47.45,
+   "pct_cert_before_deadline": 6.17,
+   "pct_12m_or_cert": 34.19,
+   "lo_12m_or_cert": 32.1,
+   "hi_12m_or_cert": 36.34
+  },
+  {
+   "dimension": "Location (no-location proxy)",
+   "group": "No US site, not exported",
+   "n": 734,
+   "pct_12m": 39.65,
+   "lo_12m": 36.17,
+   "hi_12m": 43.23,
+   "pct_24m": 59.26,
+   "lo_24m": 55.67,
+   "hi_24m": 62.76,
+   "pct_cert_before_deadline": 10.08,
+   "pct_12m_or_cert": 49.32,
+   "lo_12m_or_cert": 45.71,
+   "hi_12m_or_cert": 52.93
+  }
+ ],
+ "h4_adjusted": {
+  "y12": {
+   "Industry": {
+    "crude_pct": 43.0,
+    "standardised_pct": 42.04,
+    "lo": 41.18,
+    "hi": 42.98,
+    "n": 10456
+   },
+   "NIH": {
+    "crude_pct": 54.03,
+    "standardised_pct": 51.45,
+    "lo": 48.0,
+    "hi": 55.96,
+    "n": 533
+   },
+   "Other US federal": {
+    "crude_pct": 35.59,
+    "standardised_pct": 36.73,
+    "lo": 30.42,
+    "hi": 42.1,
+    "n": 222
+   },
+   "Universities, hospitals & non-profits": {
+    "crude_pct": 40.54,
+    "standardised_pct": 41.64,
+    "lo": 40.61,
+    "hi": 42.62,
+    "n": 9634
+   },
+   "Other": {
+    "crude_pct": 27.55,
+    "standardised_pct": 29.48,
+    "lo": 23.38,
+    "hi": 35.42,
+    "n": 196
+   },
+   "industry_minus_univ_std_pp": {
+    "point": 0.4,
+    "lo": -0.87,
+    "hi": 1.72
+   },
+   "industry_minus_nih_std_pp": {
+    "point": -9.41,
+    "lo": -13.79,
+    "hi": -5.69
+   },
+   "n_boot_ok": 200
+  },
+  "y24": {
+   "Industry": {
+    "crude_pct": 66.19,
+    "standardised_pct": 64.92,
+    "lo": 64.16,
+    "hi": 65.9,
+    "n": 10456
+   },
+   "NIH": {
+    "crude_pct": 87.8,
+    "standardised_pct": 85.99,
+    "lo": 83.05,
+    "hi": 89.46,
+    "n": 533
+   },
+   "Other US federal": {
+    "crude_pct": 69.82,
+    "standardised_pct": 69.84,
+    "lo": 63.04,
+    "hi": 75.54,
+    "n": 222
+   },
+   "Universities, hospitals & non-profits": {
+    "crude_pct": 72.7,
+    "standardised_pct": 73.88,
+    "lo": 72.9,
+    "hi": 74.7,
+    "n": 9634
+   },
+   "Other": {
+    "crude_pct": 50.0,
+    "standardised_pct": 55.52,
+    "lo": 49.11,
+    "hi": 61.81,
+    "n": 196
+   },
+   "industry_minus_univ_std_pp": {
+    "point": -8.96,
+    "lo": -10.13,
+    "hi": -7.57
+   },
+   "industry_minus_nih_std_pp": {
+    "point": -21.07,
+    "lo": -24.83,
+    "hi": -18.26
+   },
+   "n_boot_ok": 200
+  },
+  "y12c": {
+   "Industry": {
+    "crude_pct": 59.04,
+    "standardised_pct": 56.99,
+    "lo": 56.07,
+    "hi": 57.95,
+    "n": 10456
+   },
+   "NIH": {
+    "crude_pct": 58.72,
+    "standardised_pct": 54.51,
+    "lo": 50.56,
+    "hi": 58.58,
+    "n": 533
+   },
+   "Other US federal": {
+    "crude_pct": 41.89,
+    "standardised_pct": 44.32,
+    "lo": 38.09,
+    "hi": 49.76,
+    "n": 222
+   },
+   "Universities, hospitals & non-profits": {
+    "crude_pct": 43.25,
+    "standardised_pct": 45.68,
+    "lo": 44.67,
+    "hi": 46.56,
+    "n": 9634
+   },
+   "Other": {
+    "crude_pct": 28.06,
+    "standardised_pct": 30.21,
+    "lo": 24.72,
+    "hi": 36.36,
+    "n": 196
+   },
+   "industry_minus_univ_std_pp": {
+    "point": 11.3,
+    "lo": 10.03,
+    "hi": 12.83
+   },
+   "industry_minus_nih_std_pp": {
+    "point": 2.47,
+    "lo": -1.83,
+    "hi": 5.96
+   },
+   "n_boot_ok": 200
+  }
+ },
+ "h4_mix": {
+  "Industry": {
+   "share_phase3_pct": 29.02,
+   "share_phaseNA_pct": 23.1,
+   "share_us_pct": 91.28
+  },
+  "NIH": {
+   "share_phase3_pct": 7.32,
+   "share_phaseNA_pct": 3.38,
+   "share_us_pct": 99.06
+  },
+  "Other US federal": {
+   "share_phase3_pct": 10.81,
+   "share_phaseNA_pct": 37.39,
+   "share_us_pct": 99.1
+  },
+  "Universities, hospitals & non-profits": {
+   "share_phase3_pct": 6.45,
+   "share_phaseNA_pct": 32.34,
+   "share_us_pct": 90.36
+  },
+  "Other": {
+   "share_phase3_pct": 14.8,
+   "share_phaseNA_pct": 22.96,
+   "share_us_pct": 66.84
+  }
+ },
+ "h4_other_by_sponsor": {
+  "Industry": {
+   "n": 23300,
+   "k": 5059,
+   "pct": 21.71,
+   "lo": 21.19,
+   "hi": 22.25
+  },
+  "NIH": {
+   "n": 749,
+   "k": 435,
+   "pct": 58.08,
+   "lo": 54.51,
+   "hi": 61.56
+  },
+  "Other US federal": {
+   "n": 960,
+   "k": 547,
+   "pct": 56.98,
+   "lo": 53.83,
+   "hi": 60.08
+  },
+  "Universities, hospitals & non-profits": {
+   "n": 89976,
+   "k": 9752,
+   "pct": 10.84,
+   "lo": 10.64,
+   "hi": 11.04
+  },
+  "Non-US government": {
+   "n": 2927,
+   "k": 95,
+   "pct": 3.25,
+   "lo": 2.66,
+   "hi": 3.95
+  }
+ },
+ "h5_status_rot": [
+  {
+   "status": "Completed",
+   "n": 225921,
+   "pct_of_ended": 72.32,
+   "pct_submitted": 28.97,
+   "n_no_results": 160475,
+   "pct_of_no_results_pile": 69.38
+  },
+  {
+   "status": "Terminated",
+   "n": 26946,
+   "pct_of_ended": 8.63,
+   "pct_submitted": 43.81,
+   "n_no_results": 15141,
+   "pct_of_no_results_pile": 6.55
+  },
+  {
+   "status": "Unknown status",
+   "n": 55507,
+   "pct_of_ended": 17.77,
+   "pct_submitted": 4.54,
+   "n_no_results": 52989,
+   "pct_of_no_results_pile": 22.91
+  },
+  {
+   "status": "Still marked open/active",
+   "n": 4000,
+   "pct_of_ended": 1.28,
+   "pct_submitted": 32.73,
+   "n_no_results": 2691,
+   "pct_of_no_results_pile": 1.16
+  },
+  {
+   "status": "Other",
+   "n": 0,
+   "pct_of_ended": 0.0,
+   "pct_submitted": NaN,
+   "n_no_results": 0,
+   "pct_of_no_results_pile": 0.0
+  }
+ ],
+ "h5_ended_n": 312374,
+ "h5_ended_submitted": {
+  "n": 312374,
+  "k": 81078,
+  "pct": 25.96,
+  "lo": 25.8,
+  "hi": 26.11
+ },
+ "h5_completed_terminated_only_submitted": {
+  "n": 252867,
+  "k": 77251,
+  "pct": 30.55,
+  "lo": 30.37,
+  "hi": 30.73
+ },
+ "h5_open_median_years_past_pcd": 3.64,
+ "h5_open_median_years_since_update": 1.51,
+ "h5_unknown_median_years_since_update": 6.74,
+ "h5_unknown_last_known": {
+  "RECRUITING": 55.84,
+  "NOT_YET_RECRUITING": 24.26,
+  "ACTIVE_NOT_RECRUITING": 16.28,
+  "ENROLLING_BY_INVITATION": 3.62
+ },
+ "h5_probably_required_stale_n": 1954,
+ "h5_probably_required_stale_status": {
+  "UNKNOWN": 1694,
+  "RECRUITING": 122,
+  "ACTIVE_NOT_RECRUITING": 71,
+  "SUSPENDED": 46,
+  "NOT_YET_RECRUITING": 14,
+  "ENROLLING_BY_INVITATION": 7
+ },
+ "h5_probably_required_stale_submitted": {
+  "n": 1954,
+  "k": 235,
+  "pct": 12.03,
+  "lo": 10.66,
+  "hi": 13.54
+ },
+ "h5_main_like_plus_stale_sub24": {
+  "n": 22995,
+  "k": 14789,
+  "pct": 64.31,
+  "lo": 63.69,
+  "hi": 64.93
+ },
+ "h5_stale_by_sponsor": [
+  {
+   "sponsor_group": "Industry",
+   "n_ended": 83214,
+   "pct_unknown": 7.03,
+   "pct_open": 1.12
+  },
+  {
+   "sponsor_group": "NIH",
+   "n_ended": 4532,
+   "pct_unknown": 1.37,
+   "pct_open": 5.16
+  },
+  {
+   "sponsor_group": "Other US federal",
+   "n_ended": 2899,
+   "pct_unknown": 8.59,
+   "pct_open": 0.93
+  },
+  {
+   "sponsor_group": "Universities, hospitals & non-profits",
+   "n_ended": 211093,
+   "pct_unknown": 21.89,
+   "pct_open": 1.26
+  },
+  {
+   "sponsor_group": "Non-US government",
+   "n_ended": 7496,
+   "pct_unknown": 35.62,
+   "pct_open": 1.08
+  }
+ ],
+ "h5_unknown_pct_us_sites": {
+  "n": 112517,
+  "k": 5061,
+  "pct": 4.5,
+  "lo": 4.38,
+  "hi": 4.62
+ },
+ "h5_unknown_pct_nonus_only": {
+  "n": 175471,
+  "k": 42164,
+  "pct": 24.03,
+  "lo": 23.83,
+  "hi": 24.23
+ },
+ "h6_n_sponsors_ge100": 35,
+ "h6_share_of_cohort_pct": 26.54,
+ "h6_by_sponsor_size": [
+  {
+   "sponsor_size": "1-4 trials",
+   "n_sponsors": 4344,
+   "n_trials": 6501,
+   "pct_of_trials": 30.9,
+   "pct_12m_or_cert": 30.03,
+   "pct_24m": 48.73,
+   "pct_ever": 68.2,
+   "n_no_results_no_cert": 1945,
+   "pct_of_no_results_no_cert": 73.07
+  },
+  {
+   "sponsor_size": "5-19 trials",
+   "n_sponsors": 454,
+   "n_trials": 3870,
+   "pct_of_trials": 18.39,
+   "pct_12m_or_cert": 42.22,
+   "pct_24m": 60.98,
+   "pct_ever": 85.4,
+   "n_no_results_no_cert": 520,
+   "pct_of_no_results_no_cert": 19.53
+  },
+  {
+   "sponsor_size": "20-99 trials",
+   "n_sponsors": 118,
+   "n_trials": 5085,
+   "pct_of_trials": 24.17,
+   "pct_12m_or_cert": 59.53,
+   "pct_24m": 81.3,
+   "pct_ever": 96.05,
+   "n_no_results_no_cert": 175,
+   "pct_of_no_results_no_cert": 6.57
+  },
+  {
+   "sponsor_size": "100+ trials",
+   "n_sponsors": 35,
+   "n_trials": 5585,
+   "pct_of_trials": 26.54,
+   "pct_12m_or_cert": 74.99,
+   "pct_24m": 89.24,
+   "pct_ever": 99.32,
+   "n_no_results_no_cert": 22,
+   "pct_of_no_results_no_cert": 0.83
+  }
+ ],
+ "h6_like_no_results_no_cert_n": 2662,
+ "h6_rank_corr_main_vs_strict": 0.95,
+ "h6_rank_corr_main_vs_broad": 0.97,
+ "h6_max_abs_change_pp_main_vs_strict": 7.35,
+ "h7_qc": [
+  {
+   "submit_year": 2008,
+   "n_posted": 204,
+   "median_days_submit_to_post": 174.0,
+   "p90_days": 488.5,
+   "n_still_pending": 4
+  },
+  {
+   "submit_year": 2009,
+   "n_posted": 1664,
+   "median_days_submit_to_post": 101.0,
+   "p90_days": 660.8,
+   "n_still_pending": 85
+  },
+  {
+   "submit_year": 2010,
+   "n_posted": 1768,
+   "median_days_submit_to_post": 70.0,
+   "p90_days": 555.9,
+   "n_still_pending": 62
+  },
+  {
+   "submit_year": 2011,
+   "n_posted": 2531,
+   "median_days_submit_to_post": 77.0,
+   "p90_days": 526.0,
+   "n_still_pending": 168
+  },
+  {
+   "submit_year": 2012,
+   "n_posted": 3098,
+   "median_days_submit_to_post": 76.0,
+   "p90_days": 476.0,
+   "n_still_pending": 155
+  },
+  {
+   "submit_year": 2013,
+   "n_posted": 3909,
+   "median_days_submit_to_post": 114.0,
+   "p90_days": 601.2,
+   "n_still_pending": 212
+  },
+  {
+   "submit_year": 2014,
+   "n_posted": 4163,
+   "median_days_submit_to_post": 44.0,
+   "p90_days": 343.0,
+   "n_still_pending": 221
+  },
+  {
+   "submit_year": 2015,
+   "n_posted": 4606,
+   "median_days_submit_to_post": 66.0,
+   "p90_days": 447.0,
+   "n_still_pending": 294
+  },
+  {
+   "submit_year": 2016,
+   "n_posted": 5052,
+   "median_days_submit_to_post": 114.0,
+   "p90_days": 537.5,
+   "n_still_pending": 382
+  },
+  {
+   "submit_year": 2017,
+   "n_posted": 6053,
+   "median_days_submit_to_post": 120.0,
+   "p90_days": 632.8,
+   "n_still_pending": 662
+  },
+  {
+   "submit_year": 2018,
+   "n_posted": 5017,
+   "median_days_submit_to_post": 120.0,
+   "p90_days": 505.4,
+   "n_still_pending": 449
+  },
+  {
+   "submit_year": 2019,
+   "n_posted": 5092,
+   "median_days_submit_to_post": 68.0,
+   "p90_days": 342.9,
+   "n_still_pending": 445
+  },
+  {
+   "submit_year": 2020,
+   "n_posted": 5874,
+   "median_days_submit_to_post": 48.0,
+   "p90_days": 213.7,
+   "n_still_pending": 481
+  },
+  {
+   "submit_year": 2021,
+   "n_posted": 5720,
+   "median_days_submit_to_post": 66.0,
+   "p90_days": 354.1,
+   "n_still_pending": 611
+  },
+  {
+   "submit_year": 2022,
+   "n_posted": 5153,
+   "median_days_submit_to_post": 107.0,
+   "p90_days": 715.8,
+   "n_still_pending": 969
+  },
+  {
+   "submit_year": 2023,
+   "n_posted": 5835,
+   "median_days_submit_to_post": 103.0,
+   "p90_days": 524.0,
+   "n_still_pending": 1177
+  },
+  {
+   "submit_year": 2024,
+   "n_posted": 5752,
+   "median_days_submit_to_post": 91.0,
+   "p90_days": 322.9,
+   "n_still_pending": 1150
+  },
+  {
+   "submit_year": 2025,
+   "n_posted": 6066,
+   "median_days_submit_to_post": 59.0,
+   "p90_days": 203.5,
+   "n_still_pending": 1377
+  },
+  {
+   "submit_year": 2026,
+   "n_posted": 3578,
+   "median_days_submit_to_post": 59.0,
+   "p90_days": 134.0,
+   "n_still_pending": 3564
+  }
+ ],
+ "h7_pending_total": 12468,
+ "h7_pending_median_days_waiting": 1099.5,
+ "h7_pending_over_1yr": 8730,
+ "h7_pending_with_resets": 11293,
+ "h7_pending_int": 10458,
+ "h7_pending_over_1yr_with_resets_pct": 98.75,
+ "h7_pending_in_main_due": 1475,
+ "h7_devito_window_main": {
+  "n": 2183,
+  "sub12": {
+   "n": 2183,
+   "k": 784,
+   "pct": 35.91,
+   "lo": 33.93,
+   "hi": 37.95
+  },
+  "sub12_or_cert": {
+   "n": 2183,
+   "k": 1017,
+   "pct": 46.59,
+   "lo": 44.5,
+   "hi": 48.68
+  },
+  "ever": {
+   "n": 2183,
+   "k": 2022,
+   "pct": 92.62,
+   "lo": 91.45,
+   "hi": 93.65
+  },
+  "by_sponsor_sub12": {
+   "Industry": {
+    "n": 1183,
+    "k": 468,
+    "pct": 39.56,
+    "lo": 36.81,
+    "hi": 42.38
+   },
+   "NIH": {
+    "n": 76,
+    "k": 33,
+    "pct": 43.42,
+    "lo": 32.86,
+    "hi": 54.61
+   },
+   "Other US federal": {
+    "n": 26,
+    "k": 6,
+    "pct": 23.08,
+    "lo": 11.03,
+    "hi": 42.05
+   },
+   "Universities, hospitals & non-profits": {
+    "n": 885,
+    "k": 275,
+    "pct": 31.07,
+    "lo": 28.11,
+    "hi": 34.2
+   }
+  }
+ },
+ "h7_fda_violation_flag_n": 11,
+ "h7_fda_violation_types": {
+  "CORRECTION_CONFIRMED|VIOLATION_IDENTIFIED": 5,
+  "VIOLATION_IDENTIFIED": 4,
+  "ISSUES_IN_LETTER_ADDRESSED_CONFIRMED|VIOLATION_IDENTIFIED": 2
+ },
+ "h7_fda_violation_sponsor_class": {
+  "INDUSTRY": 8,
+  "OTHER": 3
+ },
+ "h7_main_due_not_submitted_no_cert": 3368,
+ "h7_main_like_completed_sub24": {
+  "n": 15469,
+  "k": 10744,
+  "pct": 69.46,
+  "lo": 68.72,
+  "hi": 70.18
+ },
+ "h7_main_like_terminated_sub24": {
+  "n": 4612,
+  "k": 3337,
+  "pct": 72.35,
+  "lo": 71.05,
+  "hi": 73.63
+ },
+ "h7_by_enrolment": [
+  {
+   "enrolment": "0",
+   "n": 0,
+   "k": 0,
+   "pct": null,
+   "lo": null,
+   "hi": null
+  },
+  {
+   "enrolment": "1-20",
+   "n": 5210,
+   "k": 3596,
+   "pct": 69.02,
+   "lo": 67.75,
+   "hi": 70.26
+  },
+  {
+   "enrolment": "21-50",
+   "n": 4965,
+   "k": 3394,
+   "pct": 68.36,
+   "lo": 67.05,
+   "hi": 69.64
+  },
+  {
+   "enrolment": "51-100",
+   "n": 3658,
+   "k": 2487,
+   "pct": 67.99,
+   "lo": 66.46,
+   "hi": 69.48
+  },
+  {
+   "enrolment": "101-300",
+   "n": 4175,
+   "k": 2899,
+   "pct": 69.44,
+   "lo": 68.02,
+   "hi": 70.82
+  },
+  {
+   "enrolment": "301-1000",
+   "n": 2345,
+   "k": 1704,
+   "pct": 72.67,
+   "lo": 70.83,
+   "hi": 74.43
+  },
+  {
+   "enrolment": ">1000",
+   "n": 688,
+   "k": 566,
+   "pct": 82.27,
+   "lo": 79.24,
+   "hi": 84.94
+  }
+ ],
+ "h7_main_like_cert_by_sponsor": {
+  "Industry": 16.55,
+  "NIH": 4.88,
+  "Universities, hospitals & non-profits": 2.92
+ },
+ "h7_main_like_certified_submitted_ever": {
+  "n": 2052,
+  "k": 1865,
+  "pct": 90.89,
+  "lo": 89.56,
+  "hi": 92.06
+ },
+ "h7_overdue_by_sponsor": {
+  "Universities, hospitals & non-profits": 1676,
+  "Industry": 1573,
+  "Non-US government": 44,
+  "Networks": 37,
+  "Other US federal": 31,
+  "Individuals": 5,
+  "NIH": 2
+ },
+ "robustness": [
+  {
+   "claim": "Headline: completed interventional with results",
+   "variant": "Main: COMPLETED, PCD 2008-2023, submitted",
+   "n": 195425,
+   "k": 59765,
+   "pct": 30.58,
+   "lo": 30.38,
+   "hi": 30.79
+  },
+  {
+   "claim": "Headline: completed interventional with results",
+   "variant": "Posted only (excludes QC queue)",
+   "n": 195425,
+   "k": 55532,
+   "pct": 28.42,
+   "lo": 28.22,
+   "hi": 28.62
+  },
+  {
+   "claim": "Headline: completed interventional with results",
+   "variant": "All completed, any PCD year",
+   "n": 262780,
+   "k": 69229,
+   "pct": 26.34,
+   "lo": 26.18,
+   "hi": 26.51
+  },
+  {
+   "claim": "Headline: completed interventional with results",
+   "variant": "PCD type ACTUAL only",
+   "n": 195416,
+   "k": 59765,
+   "pct": 30.58,
+   "lo": 30.38,
+   "hi": 30.79
+  },
+  {
+   "claim": "Headline: completed interventional with results",
+   "variant": "Study completion date 2008-2023 instead of PCD",
+   "n": 191631,
+   "k": 58234,
+   "pct": 30.39,
+   "lo": 30.18,
+   "hi": 30.59
+  },
+  {
+   "claim": "Headline: completed interventional with results",
+   "variant": "PCD 2010-2020",
+   "n": 131802,
+   "k": 41165,
+   "pct": 31.23,
+   "lo": 30.98,
+   "hi": 31.48
+  },
+  {
+   "claim": "Headline: completed interventional with results",
+   "variant": "PCD 2017-2023",
+   "n": 105123,
+   "k": 28429,
+   "pct": 27.04,
+   "lo": 26.78,
+   "hi": 27.31
+  },
+  {
+   "claim": "Headline: completed interventional with results",
+   "variant": "Completed + terminated, PCD 2008-2023",
+   "n": 219383,
+   "k": 70757,
+   "pct": 32.25,
+   "lo": 32.06,
+   "hi": 32.45
+  },
+  {
+   "claim": "Headline: completed interventional with results",
+   "variant": "All trials past PCD by 2y incl. unknown/stale (PCD 2008-2023)",
+   "n": 270102,
+   "k": 74021,
+   "pct": 27.4,
+   "lo": 27.24,
+   "hi": 27.57
+  },
+  {
+   "claim": "Probably required: submitted within 24 months (PCD 2017-01-18 to 2024-11-20)",
+   "variant": "main",
+   "n": 21041,
+   "k": 14646,
+   "pct": 69.61,
+   "lo": 68.98,
+   "hi": 70.22
+  },
+  {
+   "claim": "Probably required: submitted within 12 months",
+   "variant": "main",
+   "n": 21041,
+   "k": 8823,
+   "pct": 41.93,
+   "lo": 41.27,
+   "hi": 42.6
+  },
+  {
+   "claim": "Everything else: submitted within 24 months",
+   "variant": "main",
+   "n": 118633,
+   "k": 16067,
+   "pct": 13.54,
+   "lo": 13.35,
+   "hi": 13.74
+  },
+  {
+   "claim": "Probably required: submitted within 24 months (PCD 2017-01-18 to 2024-11-20)",
+   "variant": "strict",
+   "n": 16128,
+   "k": 11478,
+   "pct": 71.17,
+   "lo": 70.46,
+   "hi": 71.86
+  },
+  {
+   "claim": "Probably required: submitted within 12 months",
+   "variant": "strict",
+   "n": 16128,
+   "k": 6836,
+   "pct": 42.39,
+   "lo": 41.63,
+   "hi": 43.15
+  },
+  {
+   "claim": "Everything else: submitted within 24 months",
+   "variant": "strict",
+   "n": 123546,
+   "k": 19235,
+   "pct": 15.57,
+   "lo": 15.37,
+   "hi": 15.77
+  },
+  {
+   "claim": "Probably required: submitted within 24 months (PCD 2017-01-18 to 2024-11-20)",
+   "variant": "broad",
+   "n": 26736,
+   "k": 18501,
+   "pct": 69.2,
+   "lo": 68.64,
+   "hi": 69.75
+  },
+  {
+   "claim": "Probably required: submitted within 12 months",
+   "variant": "broad",
+   "n": 26736,
+   "k": 10950,
+   "pct": 40.96,
+   "lo": 40.37,
+   "hi": 41.55
+  },
+  {
+   "claim": "Everything else: submitted within 24 months",
+   "variant": "broad",
+   "n": 112938,
+   "k": 12212,
+   "pct": 10.81,
+   "lo": 10.63,
+   "hi": 11.0
+  },
+  {
+   "claim": "Probably required: submitted within 24 months (PCD 2017-01-18 to 2024-11-20)",
+   "variant": "noloc",
+   "n": 21775,
+   "k": 15081,
+   "pct": 69.26,
+   "lo": 68.64,
+   "hi": 69.87
+  },
+  {
+   "claim": "Probably required: submitted within 12 months",
+   "variant": "noloc",
+   "n": 21775,
+   "k": 9114,
+   "pct": 41.86,
+   "lo": 41.2,
+   "hi": 42.51
+  },
+  {
+   "claim": "Everything else: submitted within 24 months",
+   "variant": "noloc",
+   "n": 117899,
+   "k": 15632,
+   "pct": 13.26,
+   "lo": 13.07,
+   "hi": 13.45
+  },
+  {
+   "claim": "Probably required: submitted within 24 months (PCD 2017-01-18 to 2024-11-20)",
+   "variant": "main + stale-status trials",
+   "n": 22995,
+   "k": 14789,
+   "pct": 64.31,
+   "lo": 63.69,
+   "hi": 64.93
+  },
+  {
+   "claim": "Probably required: submitted within 12 months",
+   "variant": "main, 13-month slack",
+   "n": 21041,
+   "k": 10047,
+   "pct": 47.75,
+   "lo": 47.08,
+   "hi": 48.42
+  },
+  {
+   "claim": "Probably required: submitted within 12 months",
+   "variant": "main, unposted submissions counted as not submitted",
+   "n": 21041,
+   "k": 8695,
+   "pct": 41.32,
+   "lo": 40.66,
+   "hi": 41.99
+  },
+  {
+   "claim": "Probably required: submitted within 24 months (PCD 2017-01-18 to 2024-11-20)",
+   "variant": "main, unposted submissions counted as not submitted",
+   "n": 21041,
+   "k": 14148,
+   "pct": 67.24,
+   "lo": 66.6,
+   "hi": 67.87
+  },
+  {
+   "claim": "Everything else: submitted within 24 months",
+   "variant": "main, unposted submissions counted as not submitted",
+   "n": 118633,
+   "k": 14727,
+   "pct": 12.41,
+   "lo": 12.23,
+   "hi": 12.6
+  },
+  {
+   "claim": "Probably required: submitted within 12 months",
+   "variant": "main, 12m or certification filed in time",
+   "n": 21041,
+   "k": 10801,
+   "pct": 51.33,
+   "lo": 50.66,
+   "hi": 52.01
+  },
+  {
+   "claim": "Probably required: submitted within 12 months",
+   "variant": "main, completed status only",
+   "n": 15469,
+   "k": 6425,
+   "pct": 41.53,
+   "lo": 40.76,
+   "hi": 42.31
+  },
+  {
+   "claim": "Probably required: submitted within 12 months",
+   "variant": "main, PCD 2019-2023 only",
+   "n": 15079,
+   "k": 6231,
+   "pct": 41.32,
+   "lo": 40.54,
+   "hi": 42.11
+  },
+  {
+   "claim": "Probably required: submitted within 12 months",
+   "variant": "main, month-only dates = first of month",
+   "n": 21033,
+   "k": 8766,
+   "pct": 41.68,
+   "lo": 41.01,
+   "hi": 42.35
+  },
+  {
+   "claim": "Headline: completed interventional with results",
+   "variant": "Month-only dates = first of month",
+   "n": 195425,
+   "k": 59765,
+   "pct": 30.58,
+   "lo": 30.38,
+   "hi": 30.79
+  }
+ ]
+}

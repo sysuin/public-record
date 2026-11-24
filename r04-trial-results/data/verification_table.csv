@@ -1,0 +1,114 @@
+quantity,second_path,main_path,match
+Records downloaded,612892,612892,yes
+Interventional records,467733,467733,yes
+Completed interventional,262780,262780,yes
+Completed interventional: % results posted,24.07,24.07,yes
+Completed interventional: % results submitted,26.34,26.34,yes
+"Completed, PCD 2008-2023: n",195425,195425,yes
+"Completed, PCD 2008-2023: % submitted",30.58,30.58,yes
+"Completed, PCD 2008-2023: % posted",28.42,28.42,yes
+Probably required (like cohort): n,21041,21041,yes
+Probably required: % within 12 months,41.93,41.93,yes
+Probably required: % within 24 months,69.61,69.61,yes
+Probably required: % ever,86.36,86.36,yes
+Everything else (like cohort): n,118633,118633,yes
+Everything else: % within 12 months,7.52,7.52,yes
+Everything else: % within 24 months,13.54,13.54,yes
+Everything else: % ever,18.03,18.03,yes
+Due cohort (main proxy): n,24164,24164,yes
+Due cohort: % within 12 months,43.37,43.37,yes
+Due cohort: % ever,84.25,84.25,yes
+Due cohort: % certification before deadline,9.85,9.85,yes
+Due cohort: no results and no certification (count),3368,3368,yes
+"Drug/device + US site, PCD 2014-16: % within 12 months",26.5,26.5,yes
+"Drug/device + US site, PCD 2018-20: % within 12 months",36.89,36.89,yes
+Trials >=2y past PCD: n,312374,312374,yes
+Trials >=2y past PCD: % submitted,25.96,25.96,yes
+Trials >=2y past PCD: unknown status (count),55507,55507,yes
+No-results pile: % unknown status,22.91,22.91,yes
+No-results pile: % still marked open,1.16,1.16,yes
+Pending QC (interventional),10458,10458,yes
+FDAAA 801 violation flag (all records),11,11,yes
+"Industry, probably required: % within 12 months",43.0,43.0,yes
+"Industry, probably required: % within 24 months",66.19,66.19,yes
+"NIH, probably required: % within 24 months",87.8,87.8,yes
+"Universities etc., probably required: % within 12 months",40.54,40.54,yes
+"Universities etc., probably required: % within 24 months",72.7,72.7,yes
+"Like cohort: probably required, % of cohort",15.06,15.06,yes
+"Like cohort: non-US-only, not required, % of cohort",58.22,58.22,yes
+No-results-at-24m pile: % probably required,5.87,5.87,yes
+"No-results-at-24m pile: % not required, US site",21.73,21.73,yes
+"No-results-at-24m pile: % non-US-only, not required",70.05,70.05,yes
+"Probably required, no results and no certificate (count)",2662,2662,yes
+... share with sponsors of 100+ such trials,0.83,0.83,yes
+... share with sponsors of 1-4 such trials,73.07,73.07,yes
+Sponsor 'M.D. Anderson Cancer Center': n,364,364,yes
+Sponsor 'M.D. Anderson Cancer Center': % within 24 months,96.4,96.4,yes
+Sponsor 'Novartis Pharmaceuticals': n,303,303,yes
+Sponsor 'Novartis Pharmaceuticals': % within 24 months,90.8,90.8,yes
+Sponsor 'National Cancer Institute (NCI)': n,271,271,yes
+Sponsor 'National Cancer Institute (NCI)': % within 24 months,88.6,88.6,yes
+Sponsor 'Mayo Clinic': n,259,259,yes
+Sponsor 'Mayo Clinic': % within 24 months,84.9,84.9,yes
+Sponsor 'Pfizer': n,222,222,yes
+Sponsor 'Pfizer': % within 24 months,96.8,96.8,yes
+Sponsor 'Hoffmann-La Roche': n,179,179,yes
+Sponsor 'Hoffmann-La Roche': % within 24 months,91.6,91.6,yes
+Sponsor 'Bristol-Myers Squibb': n,178,178,yes
+Sponsor 'Bristol-Myers Squibb': % within 24 months,89.9,89.9,yes
+Sponsor 'AstraZeneca': n,177,177,yes
+Sponsor 'AstraZeneca': % within 24 months,96.0,96.0,yes
+Sponsor 'AbbVie': n,177,177,yes
+Sponsor 'AbbVie': % within 24 months,85.3,85.3,yes
+Sponsor 'Eli Lilly and Company': n,173,173,yes
+Sponsor 'Eli Lilly and Company': % within 24 months,95.4,95.4,yes
+Sponsor 'Washington University School of Medicine': n,172,172,yes
+Sponsor 'Washington University School of Medicine': % within 24 months,97.7,97.7,yes
+Sponsor 'Merck Sharp & Dohme LLC': n,164,164,yes
+Sponsor 'Merck Sharp & Dohme LLC': % within 24 months,99.4,99.4,yes
+"Sponsor 'University of California, San Francisco': n",157,157,yes
+"Sponsor 'University of California, San Francisco': % within 24 months",87.3,87.3,yes
+Sponsor 'NYU Langone Health': n,156,156,yes
+Sponsor 'NYU Langone Health': % within 24 months,87.2,87.2,yes
+Sponsor 'Emory University': n,155,155,yes
+Sponsor 'Emory University': % within 24 months,83.9,83.9,yes
+Sponsor 'Stanford University': n,152,152,yes
+Sponsor 'Stanford University': % within 24 months,82.2,82.2,yes
+Sponsor 'Wake Forest University Health Sciences': n,151,151,yes
+Sponsor 'Wake Forest University Health Sciences': % within 24 months,84.8,84.8,yes
+Sponsor 'Massachusetts General Hospital': n,148,148,yes
+Sponsor 'Massachusetts General Hospital': % within 24 months,78.4,78.4,yes
+Sponsor 'Duke University': n,147,147,yes
+Sponsor 'Duke University': % within 24 months,93.9,93.9,yes
+Sponsor 'GlaxoSmithKline': n,143,143,yes
+Sponsor 'GlaxoSmithKline': % within 24 months,95.8,95.8,yes
+Sponsor 'National Institute of Allergy and Infectious Diseases (NIAID)': n,137,137,yes
+Sponsor 'National Institute of Allergy and Infectious Diseases (NIAID)': % within 24 months,88.3,88.3,yes
+"Sponsor 'Janssen Research & Development, LLC': n",137,137,yes
+"Sponsor 'Janssen Research & Development, LLC': % within 24 months",76.6,76.6,yes
+Sponsor 'Gilead Sciences': n,134,134,yes
+Sponsor 'Gilead Sciences': % within 24 months,91.0,91.0,yes
+Sponsor 'VA Office of Research and Development': n,128,128,yes
+Sponsor 'VA Office of Research and Development': % within 24 months,90.6,90.6,yes
+"Sponsor 'The University of Texas Health Science Center, Houston': n",125,125,yes
+"Sponsor 'The University of Texas Health Science Center, Houston': % within 24 months",84.0,84.0,yes
+Sponsor 'University of Washington': n,117,117,yes
+Sponsor 'University of Washington': % within 24 months,82.1,82.1,yes
+Sponsor 'University of Alabama at Birmingham': n,113,113,yes
+Sponsor 'University of Alabama at Birmingham': % within 24 months,94.7,94.7,yes
+Sponsor 'University of Florida': n,112,112,yes
+Sponsor 'University of Florida': % within 24 months,88.4,88.4,yes
+Sponsor 'Indiana University': n,110,110,yes
+Sponsor 'Indiana University': % within 24 months,78.2,78.2,yes
+Sponsor 'University of Michigan': n,109,109,yes
+Sponsor 'University of Michigan': % within 24 months,89.0,89.0,yes
+Sponsor 'Columbia University': n,106,106,yes
+Sponsor 'Columbia University': % within 24 months,83.0,83.0,yes
+"Sponsor 'University of North Carolina, Chapel Hill': n",104,104,yes
+"Sponsor 'University of North Carolina, Chapel Hill': % within 24 months",98.1,98.1,yes
+Sponsor 'Sanofi': n,103,103,yes
+Sponsor 'Sanofi': % within 24 months,83.5,83.5,yes
+Sponsor 'Novo Nordisk A/S': n,102,102,yes
+Sponsor 'Novo Nordisk A/S': % within 24 months,65.7,65.7,yes
+Sponsor 'Johns Hopkins University': n,100,100,yes
+Sponsor 'Johns Hopkins University': % within 24 months,98.0,98.0,yes

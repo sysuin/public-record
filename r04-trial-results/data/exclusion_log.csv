@@ -1,0 +1,21 @@
+step,n,note
+All records in API download,612892,"API v2.0.5, dataTimestamp 2026-11-20"
+Interventional,467733,
+Observational (excluded),143090,
+Expanded access (excluded),1077,
+"Study type missing (withheld device records, excluded)",992,
+Interventional: WITHDRAWN (never enrolled; excluded from 'due' cohorts),14026,
+Interventional: COMPLETED,262780,
+Interventional COMPLETED: primary completion date missing,10408,
+Interventional COMPLETED: primary completion date type missing (old records),15,kept in headline; dropped in robustness
+Interventional COMPLETED: primary completion still marked ESTIMATED,5,kept in headline; dropped in robustness
+Interventional: month-only primary completion date,181458,set to last day of month; first-day sensitivity
+Interventional: results submitted before primary completion date (negative delay),927,counted as on time
+Interventional: results submitted but not yet posted (in QC),10458,counted as submitted
+hasResults=true but no results-first-submitted date,0,
+Interventional: results waived flag,0,
+Proxy 'main': trials (any date),46061,
+Proxy 'strict': trials (any date),35696,
+Proxy 'broad': trials (any date),86930,
+Proxy 'noloc': trials (any date),48453,
+Proxy 'lite': trials (any date),85428,

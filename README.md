@@ -16,6 +16,7 @@ Every report follows the same rules:
 | R01 | Is Delhi's air getting worse? | CPCB daily AQI bulletins, 2015–2026 | [Read](https://sysuin.github.io/public-record/r01-delhi-air/) | [`r01-delhi-air/`](r01-delhi-air/) |
 | R02 | Does one T20 season predict the next? | Cricsheet ball-by-ball, 9,612 matches, 2008–2026 | [Read](https://sysuin.github.io/public-record/r02-t20-repeatability/) | [`r02-t20-repeatability/`](r02-t20-repeatability/) |
 | R03 | Which Indian airline is actually the most reliable? | DGCA monthly domestic traffic reports, 2018–2026 | [Read](https://sysuin.github.io/public-record/r03-india-airlines/) | [`r03-india-airlines/`](r03-india-airlines/) |
+| R04 | How many clinical trials actually publish their results? | ClinicalTrials.gov API, all 612,892 records (Nov 2026) | [Read](https://sysuin.github.io/public-record/r04-trial-results/) | [`r04-trial-results/`](r04-trial-results/) |
 
 ## Corrections
 

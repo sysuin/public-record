@@ -1,0 +1,244 @@
+{
+ "records": 612892,
+ "duplicates": 0,
+ "interventional": 467733,
+ "completed_int": 262780,
+ "completed_int_posted_pct": 24.07,
+ "completed_int_submitted_pct": 26.34,
+ "win_n": 195425,
+ "win_submitted_pct": 30.58,
+ "win_posted_pct": 28.42,
+ "like_req_n": 21041,
+ "like_req_s12_pct": 41.93,
+ "like_req_s24_pct": 69.61,
+ "like_req_ever_pct": 86.36,
+ "like_oth_n": 118633,
+ "like_oth_s12_pct": 7.52,
+ "like_oth_s24_pct": 13.54,
+ "like_oth_ever_pct": 18.03,
+ "like_req_s12_or_cert_pct": 51.33,
+ "due_req_n": 24164,
+ "due_req_s12_pct": 43.37,
+ "due_req_ever_pct": 84.25,
+ "due_req_cert_pct": 9.85,
+ "due_req_none_nocert": 3368,
+ "lite_pre_s12_pct": 26.5,
+ "lite_post_s12_pct": 36.89,
+ "lite_pre_n": 9192,
+ "lite_post_n": 9976,
+ "ended_n": 312374,
+ "ended_sub_pct": 25.96,
+ "pending_int": 10458,
+ "fda_violation_flag": 11,
+ "ended_Completed": 225921,
+ "nores_share_Completed": 69.38,
+ "ended_Terminated": 26946,
+ "nores_share_Terminated": 6.55,
+ "ended_Unknown status": 55507,
+ "nores_share_Unknown status": 22.91,
+ "ended_Still marked open/active": 4000,
+ "nores_share_Still marked open/active": 1.16,
+ "like_req_INDUSTRY_n": 10456,
+ "like_req_INDUSTRY_s12_pct": 43.0,
+ "like_req_INDUSTRY_s24_pct": 66.19,
+ "like_req_NIH_n": 533,
+ "like_req_NIH_s12_pct": 54.03,
+ "like_req_NIH_s24_pct": 87.8,
+ "like_req_FED_n": 222,
+ "like_req_FED_s12_pct": 35.59,
+ "like_req_FED_s24_pct": 69.82,
+ "like_req_OTHER_n": 9634,
+ "like_req_OTHER_s12_pct": 40.54,
+ "like_req_OTHER_s24_pct": 72.7,
+ "seg_req_pct_of_cohort": 15.06,
+ "seg_req_pct_of_no_results_pile": 5.87,
+ "seg_us_pct_of_cohort": 24.61,
+ "seg_us_pct_of_no_results_pile": 21.73,
+ "seg_nonus_pct_of_cohort": 58.22,
+ "seg_nonus_pct_of_no_results_pile": 70.05,
+ "seg_noloc_pct_of_cohort": 2.1,
+ "seg_noloc_pct_of_no_results_pile": 2.35,
+ "overdue_like_total": 2662,
+ "overdue_share_sponsors_100plus": 0.83,
+ "overdue_share_sponsors_1to4": 73.07,
+ "sponsors_ge100": {
+  "M.D. Anderson Cancer Center": {
+   "n": 364,
+   "s12_pct": 70.33,
+   "s24_pct": 96.43
+  },
+  "Novartis Pharmaceuticals": {
+   "n": 303,
+   "s12_pct": 67.33,
+   "s24_pct": 90.76
+  },
+  "National Cancer Institute (NCI)": {
+   "n": 271,
+   "s12_pct": 52.77,
+   "s24_pct": 88.56
+  },
+  "Mayo Clinic": {
+   "n": 259,
+   "s12_pct": 59.85,
+   "s24_pct": 84.94
+  },
+  "Pfizer": {
+   "n": 222,
+   "s12_pct": 86.04,
+   "s24_pct": 96.85
+  },
+  "Hoffmann-La Roche": {
+   "n": 179,
+   "s12_pct": 79.89,
+   "s24_pct": 91.62
+  },
+  "Bristol-Myers Squibb": {
+   "n": 178,
+   "s12_pct": 78.65,
+   "s24_pct": 89.89
+  },
+  "AstraZeneca": {
+   "n": 177,
+   "s12_pct": 83.62,
+   "s24_pct": 96.05
+  },
+  "AbbVie": {
+   "n": 177,
+   "s12_pct": 65.54,
+   "s24_pct": 85.31
+  },
+  "Eli Lilly and Company": {
+   "n": 173,
+   "s12_pct": 82.66,
+   "s24_pct": 95.38
+  },
+  "Washington University School of Medicine": {
+   "n": 172,
+   "s12_pct": 77.33,
+   "s24_pct": 97.67
+  },
+  "Merck Sharp & Dohme LLC": {
+   "n": 164,
+   "s12_pct": 95.12,
+   "s24_pct": 99.39
+  },
+  "University of California, San Francisco": {
+   "n": 157,
+   "s12_pct": 47.13,
+   "s24_pct": 87.26
+  },
+  "NYU Langone Health": {
+   "n": 156,
+   "s12_pct": 44.87,
+   "s24_pct": 87.18
+  },
+  "Emory University": {
+   "n": 155,
+   "s12_pct": 49.03,
+   "s24_pct": 83.87
+  },
+  "Stanford University": {
+   "n": 152,
+   "s12_pct": 48.68,
+   "s24_pct": 82.24
+  },
+  "Wake Forest University Health Sciences": {
+   "n": 151,
+   "s12_pct": 45.7,
+   "s24_pct": 84.77
+  },
+  "Massachusetts General Hospital": {
+   "n": 148,
+   "s12_pct": 32.43,
+   "s24_pct": 78.38
+  },
+  "Duke University": {
+   "n": 147,
+   "s12_pct": 81.63,
+   "s24_pct": 93.88
+  },
+  "GlaxoSmithKline": {
+   "n": 143,
+   "s12_pct": 85.31,
+   "s24_pct": 95.8
+  },
+  "National Institute of Allergy and Infectious Diseases (NIAID)": {
+   "n": 137,
+   "s12_pct": 63.5,
+   "s24_pct": 88.32
+  },
+  "Janssen Research & Development, LLC": {
+   "n": 137,
+   "s12_pct": 52.55,
+   "s24_pct": 76.64
+  },
+  "Gilead Sciences": {
+   "n": 134,
+   "s12_pct": 82.09,
+   "s24_pct": 91.04
+  },
+  "VA Office of Research and Development": {
+   "n": 128,
+   "s12_pct": 50.0,
+   "s24_pct": 90.62
+  },
+  "The University of Texas Health Science Center, Houston": {
+   "n": 125,
+   "s12_pct": 58.4,
+   "s24_pct": 84.0
+  },
+  "University of Washington": {
+   "n": 117,
+   "s12_pct": 51.28,
+   "s24_pct": 82.05
+  },
+  "University of Alabama at Birmingham": {
+   "n": 113,
+   "s12_pct": 46.9,
+   "s24_pct": 94.69
+  },
+  "University of Florida": {
+   "n": 112,
+   "s12_pct": 50.89,
+   "s24_pct": 88.39
+  },
+  "Indiana University": {
+   "n": 110,
+   "s12_pct": 40.0,
+   "s24_pct": 78.18
+  },
+  "University of Michigan": {
+   "n": 109,
+   "s12_pct": 57.8,
+   "s24_pct": 88.99
+  },
+  "Columbia University": {
+   "n": 106,
+   "s12_pct": 48.11,
+   "s24_pct": 83.02
+  },
+  "University of North Carolina, Chapel Hill": {
+   "n": 104,
+   "s12_pct": 88.46,
+   "s24_pct": 98.08
+  },
+  "Sanofi": {
+   "n": 103,
+   "s12_pct": 75.73,
+   "s24_pct": 83.5
+  },
+  "Novo Nordisk A/S": {
+   "n": 102,
+   "s12_pct": 50.98,
+   "s24_pct": 65.69
+  },
+  "Johns Hopkins University": {
+   "n": 100,
+   "s12_pct": 93.0,
+   "s24_pct": 98.0
+  }
+ },
+ "server_max_abs_pct_difference": 0.044,
+ "n_compared": 113,
+ "n_mismatch": 0
+}
